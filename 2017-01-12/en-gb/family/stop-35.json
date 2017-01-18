@@ -1,0 +1,156 @@
+{
+  "floor": 3,
+  "hints": [
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/jKQFdDdY4b8m_720x1280_GBSN0G4j.jpg",
+        "focal_point": [
+          360,
+          883
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/jKQFdDdY4b8m_720x360_pRucOqJG.jpg",
+        "path": "35f_hint_a.f20655782d1f238b2cabefb42d5348d16cff40e4.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/8XR45jElyj71_720x1280_OUOTRh0m.jpg",
+        "focal_point": [
+          360,
+          192
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/8XR45jElyj71_720x360_yS-ZkPr_.jpg",
+        "path": "35f_hint_b.2fc3d8f71912ed0126a59771c3feb721bf01adfa.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/h45vwNw3rbWx_720x1280_FiHT_kSk.jpg",
+        "focal_point": [
+          360,
+          716
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/h45vwNw3rbWx_720x360_0Pk_ka1O.jpg",
+        "path": "35f_hint_c.c355de875e301df3e13d23da64ee07a0c5b8d9d5.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/81IoUzUij6eJ_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/81IoUzUij6eJ_720x360_1tCnCAD2.jpg",
+        "path": "35f_hint_d.88b4721846ec8eb501d92cd0733def767500ce53.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/h45vwNw3rbWx_720x1280_FiHT_kSk.jpg",
+    "focal_point": [
+      360,
+      716
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/h45vwNw3rbWx_720x300_0Pk_ka1O.jpg",
+    "path": "35f_hint_c.c355de875e301df3e13d23da64ee07a0c5b8d9d5.jpg",
+    "width": 720
+  },
+  "number": 35,
+  "overview_colour": 4292893491,
+  "segments": [
+    {
+      "answers": [
+        {
+          "answer": "peaceful",
+          "audio": {
+            "duration": 33,
+            "path": "35f_a1_eng.37338bf0979064b9b39a1e57ae0c14843a607866.mp3"
+          },
+          "is_correct": true
+        },
+        {
+          "answer": "nervous",
+          "audio": {
+            "duration": 28,
+            "path": "35f_a2_eng.6197a88eb57191a77d3e0985c8aca8ec49ef2bee.mp3"
+          },
+          "is_correct": true
+        }
+      ],
+      "footprint": {
+        "background": 4292893491,
+        "foreground": 4291969329
+      },
+      "intro_audio": null,
+      "number": "35f",
+      "question": "Do you think Vincent made this painting to look peaceful, or nervous?",
+      "title": "How did Vincent feel about this garden?",
+      "type": "QuizSegment"
+    }
+  ],
+  "title": "Garden of the asylum",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "1",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "3",
+        "audio": null,
+        "is_correct": true
+      },
+      {
+        "answer": "5",
+        "audio": null,
+        "is_correct": false
+      }
+    ],
+    "correct_audio": {
+      "duration": 21,
+      "path": "35f_fb_eng.1531630e80087cb32f70c9bdd94a0d7281f712c2.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 6,
+      "path": "35f_fa_eng.9d01433fe4743375a396ee4823aa2cf27e985c88.mp3"
+    },
+    "question": "How many people do you see in this painting?",
+    "unlock_type": "QuizUnlock"
+  }
+}

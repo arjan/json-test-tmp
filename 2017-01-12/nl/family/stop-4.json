@@ -1,0 +1,174 @@
+{
+  "floor": 2,
+  "hints": [
+    {
+      "audio": {
+        "duration": 7,
+        "path": "4f_ha_dut.6b2902f21c484605524369a00b6f281109fce30f.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/oCNeyRi-yCo3_720x1280_7CmYEeqz.jpg",
+        "focal_point": [
+          360,
+          985
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/oCNeyRi-yCo3_720x360_n7DvGMWW.jpg",
+        "path": "4f_hints-a.2886ad9d82b5a0b0cca41505d9b69fae33f659ed.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/7kSxZdOJSfQc_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/7kSxZdOJSfQc_720x360_1tCnCAD2.jpg",
+        "path": "4f_hints-b_v2.afa3d31d51d2238f4adb9979637b6143225d3c06.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 15,
+        "path": "4f_hc_dut.70cfdbfa282d6ff27f26e2ed76c115209f4a925e.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/c8YgIyPokn4H_720x1280_OUOTRh0m.jpg",
+        "focal_point": [
+          360,
+          192
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/c8YgIyPokn4H_720x360_yS-ZkPr_.jpg",
+        "path": "4f_hints-c_v2.730b14f9be20434d15a871be65d2a88d334b95f8.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 5,
+        "path": "4f_hd_dut.5d0037802db3a167c4a527e0a409624c38debde6.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/V6GrTBoathWm_720x1280_9945y8W_.jpg",
+        "focal_point": [
+          360,
+          793
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/V6GrTBoathWm_720x360_McuZZbk3.jpg",
+        "path": "4f_hints-d.b917c32fa61ef2363ead9c2f3807cb769a676a42.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/FunSqFut2_1o_720x1280_Cw5HsHyV.jpg",
+    "focal_point": [
+      360,
+      524
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/FunSqFut2_1o_720x300_o6JmsRgx.jpg",
+    "path": "4.dc50b61be5d96bfd21a95a4f9f5c33f53e214b4e.jpg",
+    "width": 720
+  },
+  "number": 4,
+  "overview_colour": 4294888192,
+  "segments": [
+    {
+      "correct_audio": {
+        "duration": 5,
+        "path": "4f_a_answer_dut.45e02407ee2131184434cb872be5559fb14024af.mp3"
+      },
+      "correct_colours": [
+        {
+          "base": "blue",
+          "weight": 1
+        },
+        {
+          "base": "yellow",
+          "weight": 4
+        },
+        {
+          "base": "red",
+          "weight": 1
+        }
+      ],
+      "footprint": {
+        "background": 4294967295,
+        "foreground": 4294963200
+      },
+      "incorrect_audio": {
+        "duration": 4,
+        "path": "4f_a_incorrect_dut.a034c79bc3874015c6ea30a05c7ae94dc37f3707.mp3"
+      },
+      "incorrect_colours": [
+        {
+          "base": "black",
+          "weight": 2
+        },
+        {
+          "base": "white",
+          "weight": 2
+        }
+      ],
+      "intro_audio": {
+        "duration": 26,
+        "path": "4f_a0_dut.cdd0a5650b2afa822a370e93e20c0b5581b5fc59.mp3"
+      },
+      "mix": "white:2=#ffffff,blue:1+yellow:4+red:1+white:2=#e0c956,blue:1=#0047ab,black:2=#000000,yellow:4+red:1=#ffcc00,blue:1+yellow:4+red:1+black:2=#a08916,blue:1+black:2+white:2=#667589,red:1=#ff0000,yellow:4+white:2=#ffff55,blue:1+yellow:4+black:2=#929c19,yellow:4+red:1+black:2+white:2=#c7aa39,blue:1+red:1+black:2=#40122b,red:1+black:2=#550000,blue:1+white:2=#aac2e3,blue:1+red:1+black:2+white:2=#806172,yellow:4+black:2=#aaaa00,yellow:4=#ffff00,blue:1+yellow:4=#ccdb23,black:2+white:2=#808080,blue:1+red:1+white:2=#c092ab,yellow:4+red:1+black:2=#b79200,blue:1+yellow:4+red:1+black:2+white:2=#b3a145,blue:1+yellow:4+red:1=#d5b61d,blue:1+red:1=#802456,blue:1+yellow:4+white:2=#dbe562,red:1+black:2+white:2=#996666,yellow:4+black:2+white:2=#c0c040,blue:1+black:2=#001839,blue:1+yellow:4+black:2+white:2=#aab24c,yellow:4+red:1+white:2=#ffdb49,red:1+white:2=#ffaaaa",
+      "number": "4f",
+      "target_colour": 4292195869,
+      "title": "Een perfect huis voor Vincent",
+      "type": "ColoursSegment"
+    }
+  ],
+  "title": "Het gele huis",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "groen",
+        "audio": null,
+        "is_correct": true
+      },
+      {
+        "answer": "roze",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "rood",
+        "audio": null,
+        "is_correct": false
+      }
+    ],
+    "correct_audio": {
+      "duration": 35,
+      "path": "4f_fb_dut.79c4345c536d8bab5250aa3970d2b632b099bf0d.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 4,
+      "path": "4f_fa_dut.a034c79bc3874015c6ea30a05c7ae94dc37f3707.mp3"
+    },
+    "question": "Welke kleur hebben de luiken van het huis in het midden van het schilderij?",
+    "unlock_type": "QuizUnlock"
+  }
+}

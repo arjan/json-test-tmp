@@ -1,0 +1,107 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/u3Kpolvxn2kV_720x1280_a0z6gcbV.jpg",
+    "focal_point": [
+      360,
+      742
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/u3Kpolvxn2kV_720x300_-6UcERp7.jpg",
+    "path": "8.8194a0ffe9fd3f2930057cc8fb50ed39be51c866.jpg",
+    "width": 720
+  },
+  "number": 8,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 36,
+        "path": "8a_rus.ac93833001d840b8b9eccb258cfbf57ed44148e4.mp3"
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "images": [],
+      "number": "8a",
+      "title": "Лодки в качестве вдохновения",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "8b_0_v2.2dc9e2229343eeb47a80cdf913a0281b1f36b456.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292893491,
+        "foreground": 4291969329
+      },
+      "intro_audio": {
+        "duration": 9,
+        "path": "8b_0_rus.43ed1a91a1ef5b69e11bfed4fed9441a4e3b2b42.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 5,
+            "path": "8b_1a_rus.93816e6bd3ae11e550297e9d4c34667545324478.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1a.b830ae6b32efbedc138459e3217e95526ba7d94b.jpg",
+            "width": 720
+          },
+          "label": "Элегантные лодки"
+        },
+        {
+          "audio": {
+            "duration": 8,
+            "path": "8b_1b_rus.647c7cd9d1e642fe1d29060846727ab1772f53c3.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1b.1fb19c751ba0b732acf528715b01a247974a2ff0.jpg",
+            "width": 720
+          },
+          "label": "Лодки около берега"
+        },
+        {
+          "audio": {
+            "duration": 6,
+            "path": "8b_1c_rus.5ef07007d9b1ff1556eed9450430542021841a68.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1c.07319f1338b934e66fd39602cb45ed8a30910ddd.jpg",
+            "width": 720
+          },
+          "label": "Линии дождя"
+        },
+        {
+          "audio": {
+            "duration": 5,
+            "path": "8b_1d_rus.b37036285ec1751455d4957d617131cf6f366299.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1d_2.b888cab3d31c258a28dc0ed028859c4f50d720a8.jpg",
+            "width": 720
+          },
+          "label": "Листья обрамляют изображение"
+        }
+      ],
+      "number": "8b",
+      "title": "Ван Гог коллекционирует произведения искусства",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Рыбацкие лодки на берегу в Сен-Мари-де-ла-Мер"
+}

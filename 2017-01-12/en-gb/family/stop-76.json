@@ -1,0 +1,209 @@
+{
+  "floor": 1,
+  "hints": [
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/Q_h26OlRWQ4m_720x1280_FLSMFu8c.jpg",
+        "focal_point": [
+          360,
+          230
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Q_h26OlRWQ4m_720x360_1T483cKd.jpg",
+        "path": "76f_hint-a.7eb7189afa730089c7ea846412f1611e0495e089.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/Gbx3-ZtLFG9f_720x1280_Ix1deDCa.jpg",
+        "focal_point": [
+          360,
+          409
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Gbx3-ZtLFG9f_720x360_M2EzHcY6.jpg",
+        "path": "76f_hint-b.d4949df3f6cdd57dfe4bee905a2927421728d341.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/Gd-ohRp_rZnr_720x1280_DMCgOIIS.jpg",
+        "focal_point": [
+          360,
+          691
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Gd-ohRp_rZnr_720x360_jYAVjE-R.jpg",
+        "path": "76f_hint-c.3222c794542acbcf063f6823b042fdb5ebeeb131.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 10,
+        "path": "76f_hd_eng.052928a1285db221db42172aa1eb38581c4d97ba.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/QLVN9_T--BTW_720x1280_fZ0UKMig.jpg",
+        "focal_point": [
+          360,
+          1100
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/QLVN9_T--BTW_720x360_aOkjKOWX.jpg",
+        "path": "76f_hint-d.52f2eed9e1e6fc0a475f1d726665623159ee166c.jpg",
+        "width": 720
+      },
+      "quote": "nothing but sunflowers"
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/m8muaKcFUj74_720x1280_koN5B6eQ.jpg",
+    "focal_point": [
+      360,
+      652
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/m8muaKcFUj74_720x300_3__BWwZ7.jpg",
+    "path": "76.2ee03767ccb9064c78449a8ccbf60756bd0c4f9e.jpg",
+    "width": 720
+  },
+  "number": 76,
+  "overview_colour": 4294888192,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/A01FrYtBGNfY_720x1280_16jGVcjb.jpg",
+        "height": 720,
+        "orientation": 8,
+        "path": "76b_1.ca7c5df1fd9c5aa64bed91936094ef171612860c.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "hide_during_intro": false,
+      "hotspots": [],
+      "intro_audio": {
+        "duration": 25,
+        "path": "76f_a1_eng.4f103057beb9301dc9bc531d2331e0d8cfb3d33e.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "76f",
+      "title": "Blooming sunflowers",
+      "type": "HotspotsSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/raNYGRMZbeUF_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "76f_a2_0.2ee03767ccb9064c78449a8ccbf60756bd0c4f9e.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292959793,
+        "foreground": 4292432431
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 11,
+            "path": "76f_a2_1_eng.f527c863c596c46e2baceb778bd570c39006a27b.mp3"
+          },
+          "coordinate": [
+            288,
+            998
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "76f_a2_1.8ae6d2c144b708a1b3e7629918ed7e091f98079c.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 10,
+            "path": "76f_a2_2_eng.0a3ce2d64c333c304bca112fe0ac49bd4f0b2b55.mp3"
+          },
+          "coordinate": [
+            439,
+            166
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "76f_a2_2-2.15891b7ddcc99c28b0bec309a227a87a17b4fd5c.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 6,
+            "path": "76f_a2_3_eng.ecc148d3005db67c2c84ba740eea0b7cac17536e.mp3"
+          },
+          "coordinate": [
+            612,
+            1152
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 11,
+        "path": "76f_a2_0_eng.c85c69fd67fd99e9afbdec3cd2d729835c7a04ba.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "76g",
+      "title": "Vincent succeeds!",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Sunflowers",
+  "unlock": {
+    "code": "VINCENT",
+    "correct_audio": {
+      "duration": 26,
+      "path": "76f_fb_eng.a3bca615382456579a3a85f7d9231d67b6930e55.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 4,
+      "path": "76f_fa_eng.62edfd3e805fbc46d3cef88a0187407bc8b62380.mp3"
+    },
+    "question": "What word do you see in this painting? Spell it out by using these letters.",
+    "unlock_type": "CodeUnlock"
+  }
+}

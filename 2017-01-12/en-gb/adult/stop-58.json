@@ -1,0 +1,48 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/i7eOsgBTK_h1_720x1280_kWAZ1oMj.jpg",
+    "focal_point": [
+      360,
+      422
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/i7eOsgBTK_h1_720x300_ekNv0XFE.jpg",
+    "path": "58.a11241cf1bf04896eb9f049b6f709bf827e3ab6f.jpg",
+    "width": 720
+  },
+  "number": 58,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 78,
+        "path": "58a_eng.ca195dca9b4f989e5b02aa863cb36599d45ab4c5.mp3"
+      },
+      "footprint": {
+        "background": 4288417308,
+        "foreground": 4291044910
+      },
+      "images": [],
+      "number": "58a",
+      "title": "An unusual setting",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 60,
+        "path": "58b_eng.363d1ad01465eac27e4631a7c6faebaf63d3b933.mp3"
+      },
+      "footprint": {
+        "background": 4288417308,
+        "foreground": 4291044910
+      },
+      "images": [],
+      "number": "58b",
+      "title": "Van Gogh’s love life",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "In the Café: Agostina Segatori in Le Tambourin"
+}

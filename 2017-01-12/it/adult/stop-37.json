@@ -1,0 +1,109 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/raJTxqv4hf1F_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/raJTxqv4hf1F_720x300_74tHK9Wi.jpg",
+    "path": "37_3.cc20c6c4be14b066b1abc1903f4bd33c463524d0.jpg",
+    "width": 720
+  },
+  "number": 37,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 79,
+        "path": "37a_ita.e5bacf0cfaa677a2f85520bb9db46e17cf264ee1.mp3"
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "images": [],
+      "number": "37a",
+      "title": "L’arte prediletta da Van Gogh",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/becvtgWX7Mqf_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "37b_0.6d32c582fa177715ea1147ecf77490b0cb080141.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 8,
+            "path": "37b_1_ita.4c9b34b7eaeb5ab6646286047d1f020bba35c327.mp3"
+          },
+          "coordinate": [
+            172,
+            448
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "37b_1.8c4a1212c43ba45333514cf10b967e5678f32d3e.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "37b_2_ita.9be96c9afaae95ae4b5dcbe6ee49de6795277323.mp3"
+          },
+          "coordinate": [
+            612,
+            883
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "37b_2.f24c4da239a01ffd6d5c6fdb17e5d2f0a7a9af97.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 15,
+            "path": "37b_3_ita.25e8cd28c25838cf9da522203e41fb17e5a843c5.mp3"
+          },
+          "coordinate": [
+            194,
+            1164
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "37b_3.d70f0588997f991938bdabc7dffcc1f2d1be5949.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 6,
+        "path": "37b_0_ita.5cbdd073e5dda0106264a0776eab2d58abfc57dd.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "37b",
+      "title": "Van Gogh e i contadini",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "La vita di campagna"
+}

@@ -1,0 +1,78 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/FAKCe0_vYhOH_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/FAKCe0_vYhOH_720x300_74tHK9Wi.jpg",
+    "path": "16.f165619e742c3c7ec4019c71782eea2da715bedd.jpg",
+    "width": 720
+  },
+  "number": 16,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 48,
+        "path": "16a_dut.ee7f11c3cf26402404776426e0467131eaf45337.mp3"
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "images": [],
+      "number": "16a",
+      "title": "Boeren als modellen",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/_LtM5t-0M0HO_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "16b.0414b1004e0807b12e6fbee0f5093d706e5b37fe.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292893491,
+        "foreground": 4291969329
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 9,
+            "path": "16b_1_dut.6071c61693bbdcf2a7e59b78337a6c1442862b95.mp3"
+          },
+          "coordinate": [
+            475,
+            908
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "16b_2_dut.c9ba01ce2129358487c9f47b12c62e6f7309554f.mp3"
+          },
+          "coordinate": [
+            237,
+            601
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": null,
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "16b",
+      "title": "Het zit in de penseelstreken",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Boerenkoppen"
+}

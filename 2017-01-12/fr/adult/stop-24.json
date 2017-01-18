@@ -1,0 +1,124 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/iWrOAUUTaeMf_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/iWrOAUUTaeMf_720x300_mfj8bjKL.jpg",
+    "path": "24_kaart.073ad8b70ca2e9c0e0c0b858310eb0743d86f25b.jpg",
+    "width": 720
+  },
+  "number": 24,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/yZKQwdlLVsmg_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "24a_final_frame.073ad8b70ca2e9c0e0c0b858310eb0743d86f25b.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 15,
+            "path": "24a_2a_fre.33078a0d6af94856750ad002dd98e6bb5835135e.mp3"
+          },
+          "coordinate": [
+            302,
+            358
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "24a_2a.ffd14bb03e95f5a5a28c7468e1821d1ee99a2e87.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 360,
+            "orientation": 8,
+            "path": "thumb_24a_2a.9f6930bff5b961fdc54ec6742afce32c41aa9884.jpg",
+            "width": 624
+          },
+          "panel_coordinate": [
+            489,
+            281
+          ]
+        },
+        {
+          "audio": {
+            "duration": 26,
+            "path": "24a_2b_fre.f1334b17ddfcad0e295ab48eeff01dd1855f26e4.mp3"
+          },
+          "coordinate": [
+            410,
+            678
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "24a_2b.fd1b0d86ee627a95e677f0812f138800fcc3beb3.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 360,
+            "orientation": 8,
+            "path": "thumb_24a_2b.4c0784869f547876d92d42f88cb1cc46dd9e3c0f.jpg",
+            "width": 624
+          },
+          "panel_coordinate": [
+            230,
+            588
+          ]
+        },
+        {
+          "audio": {
+            "duration": 14,
+            "path": "24a_2c_fre.ab041323231e60efb7e6aa1768abbc2e8c40073f.mp3"
+          },
+          "coordinate": [
+            540,
+            921
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "24_datavisualisatie_fre.56e1b59a2b12a7729ef7deb0241f7939abb80189.png",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 10,
+        "path": "24a_2_fre.c33b0c95a22a180c7b1550b8985c55e73a14ae00.mp3"
+      },
+      "intro_video": {
+        "duration": 21,
+        "height": 1280,
+        "orientation": 1,
+        "path": "24a_fre.mp4.442d1e9267a19a46237ed1fdfe3c1c95f4141d7c.mp4",
+        "width": 720
+      },
+      "intro_voiceover_audio": {
+        "duration": 11,
+        "path": "24a_1_fre.4a7ca34df1fafa334903412bdf0a6bb7db6870b5.mp3"
+      },
+      "number": "24a",
+      "title": "En route pour Arles",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Arles"
+}

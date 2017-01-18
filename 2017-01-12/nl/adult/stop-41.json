@@ -1,0 +1,95 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/ypqC2fSvDeKn_720x1280_hojwExeZ.jpg",
+    "focal_point": [
+      360,
+      704
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/ypqC2fSvDeKn_720x300_Hq6Sn6Uk.jpg",
+    "path": "41.e64d61742a3162f72861a62c4b8fa92e9b6f9868.jpg",
+    "width": 720
+  },
+  "number": 41,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 56,
+        "path": "41a_dut.5b28e42e8e4bbe70f3e9364da76157650cfeb1bb.mp3"
+      },
+      "footprint": {
+        "background": 4287332728,
+        "foreground": 4288845960
+      },
+      "images": [],
+      "number": "41a",
+      "title": "Veel roken",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/lQsK3xmn1XVr_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "41b_0.319d3880e9898d7a089e560a1125176932b6cc62.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 13,
+            "path": "41b_1_dut.2b09f237ac85ce38ac444b672cfbc591aa036616.mp3"
+          },
+          "coordinate": [
+            259,
+            512
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "41b_1.ffe4e64de0c0030cadfca91f1ecfff0dc77100f6.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 7,
+            "path": "41b_2_dut.61a05fbe6f9ebb664b60ff4839f30e84da2ee6d2.mp3"
+          },
+          "coordinate": [
+            259,
+            947
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "41b_2.00b7559b6170d7c34d6b2bd10ff2edfa1dee9c55.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 7,
+        "path": "41b_0_dut.2bfbf1666adaf17d93d7f99025ff0d816adc378f.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "41b",
+      "title": "Een kijkje in het klaslokaal",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Kop van een skelet met brandende sigaret"
+}

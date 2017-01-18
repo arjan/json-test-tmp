@@ -1,0 +1,243 @@
+{
+  "floor": 1,
+  "hints": [
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/n8wTawlNi2eq_720x1280_RInB8YRo.jpg",
+        "focal_point": [
+          360,
+          960
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/n8wTawlNi2eq_720x360_L2Az2DoK.jpg",
+        "path": "45f_hint_a.b58860614efd1603a84090dc685c4152103c2b6d.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "45f_hb_eng.b468b38d2da684c535813cda642ddb6fb1ee2294.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/dsWwZJEuZoie_720x1280_ZiljKdqv.jpg",
+        "focal_point": [
+          360,
+          768
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/dsWwZJEuZoie_720x360_ZkXHilZg.jpg",
+        "path": "45f_hint_b.7197a8fdb368f37199720b3177000017600d495f.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/D5lxwNe80hrK_720x1280_ZiljKdqv.jpg",
+        "focal_point": [
+          360,
+          768
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/D5lxwNe80hrK_720x360_ZkXHilZg.jpg",
+        "path": "45f_hint_c.ea59a98afb4e366545706c7e3f30355e4c9488d2.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 8,
+        "path": "45f_hd_eng.e085d5d89a37d51b27ead1bbb545f6889f5b54d9.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/QYBRMIPIMJ62_720x1280_FIRhSqVO.jpg",
+        "focal_point": [
+          360,
+          512
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/QYBRMIPIMJ62_720x360_QLPrwBEy.jpg",
+        "path": "45f_hint_d.5d5a5f624fb307dfb7a83a2b83dd06c9e4e1652f.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/F1jBQm2_iwlf_720x1280_BW_yjAoy.jpg",
+    "focal_point": [
+      360,
+      320
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/F1jBQm2_iwlf_720x300_UlJSVHay.jpg",
+    "path": "45.974d00f2c1bf0d56c84f9539162d8267e04efd3e.jpg",
+    "width": 720
+  },
+  "number": 45,
+  "overview_colour": 4288928744,
+  "segments": [
+    {
+      "assignment_audio": {
+        "duration": 22,
+        "path": "45f_a1_0_eng.823508c15c1f41029ca98a7dcebedb0c3bba985d.mp3"
+      },
+      "background_image": {
+        "height": 720,
+        "orientation": 8,
+        "path": "45f_background.712c04c313c0f338ec83aa48ca82b9cc1d51f77a.jpg",
+        "width": 900
+      },
+      "correct_audio": {
+        "duration": 16,
+        "path": "45f_a1_2_eng.ae49866859b875e80144200f8c958a304508782f.mp3"
+      },
+      "correct_colours": null,
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "incorrect_audio": {
+        "duration": 6,
+        "path": "45f_a1_1_revised_eng.fe651e010101b8336ef388ac8bd86f88e23a2969.mp3"
+      },
+      "incorrect_colours": null,
+      "intro_audio": {
+        "duration": 22,
+        "path": "45f_a1_0_eng.823508c15c1f41029ca98a7dcebedb0c3bba985d.mp3"
+      },
+      "layers": [
+        {
+          "colour": 4278240414,
+          "hover_image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "45f_emeraude_hover.4edeeb836e1214af82fc451648179f9459891874.png",
+            "width": 900
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "45f_emeraude.56964c80ebb13991aad453a8e04ca5eb563c7ec8.png",
+            "width": 900
+          },
+          "label": "Emeraude"
+        },
+        {
+          "colour": 4294964117,
+          "hover_image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "45f_jaune_hover.1a33267f2303fc9a5a1f5d392e40de633a683a5a.png",
+            "width": 900
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "45f_jaune.1d368d34981eafb319672adc4ab14a66dff6919a.png",
+            "width": 900
+          },
+          "label": "Jaune"
+        },
+        {
+          "colour": 4292920802,
+          "hover_image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "45f_lila_hover.ecd4d1356aae426b7666c0fde2fbc96066332379.png",
+            "width": 900
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "45f_lila.064f9e80de80831957b756988f514159c65da311.png",
+            "width": 900
+          },
+          "label": "Lila"
+        },
+        {
+          "colour": 4294953921,
+          "hover_image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "45f_rose_hover.ece6459e8d417bd03986a35a47ebd17882816165.png",
+            "width": 900
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "45f_rose.18e8edb8a2f9b6f1102b21ad55713a23d7b2efcb.png",
+            "width": 900
+          },
+          "label": "Rose"
+        },
+        {
+          "colour": 4278229335,
+          "hover_image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "45f_vert_hover.c072821561799cab460fd1a9072563b1b06fa9b5.png",
+            "width": 900
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "45f_vert.4a717a67694dfb264ff4e12dcc616ffccb995abf.png",
+            "width": 900
+          },
+          "label": "Vert"
+        }
+      ],
+      "number": "45f",
+      "patches": [],
+      "title": "Solve the mystery",
+      "type": "PaletteSegment"
+    }
+  ],
+  "title": "Bridge of Langlois",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "a swan",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "a rowboat",
+        "audio": null,
+        "is_correct": true
+      },
+      {
+        "answer": "a sailboat",
+        "audio": null,
+        "is_correct": false
+      }
+    ],
+    "correct_audio": {
+      "duration": 49,
+      "path": "45f_fb_eng.8f253534c4a7f7c7a340f5723f551d0aa964bda1.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 2,
+      "path": "45f_fa_eng.f783a83e82005fd95ab725618e81a1bad2185765.mp3"
+    },
+    "question": "What's in the water in this painting?",
+    "unlock_type": "QuizUnlock"
+  }
+}

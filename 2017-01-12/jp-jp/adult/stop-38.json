@@ -1,0 +1,30 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/bKNLbKteS7NY_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/bKNLbKteS7NY_720x300_74tHK9Wi.jpg",
+    "path": "38.68a6277c72f28dd1428fd13f622556b2f08c2cb9.jpg",
+    "width": 720
+  },
+  "number": 38,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 68,
+        "path": "38a_jpn.7ec424ef807b5fad6fe8f19a4af13a4bf256d4e4.mp3"
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "images": [],
+      "number": "38a",
+      "title": "自然発見",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "木々と下生え"
+}

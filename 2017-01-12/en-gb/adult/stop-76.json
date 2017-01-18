@@ -1,0 +1,110 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/m8muaKcFUj74_720x1280_koN5B6eQ.jpg",
+    "focal_point": [
+      360,
+      652
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/m8muaKcFUj74_720x300_3__BWwZ7.jpg",
+    "path": "76.2ee03767ccb9064c78449a8ccbf60756bd0c4f9e.jpg",
+    "width": 720
+  },
+  "number": 76,
+  "overview_colour": 4294888192,
+  "segments": [
+    {
+      "audio": {
+        "duration": 78,
+        "path": "76a_eng.960e4a35f1f4b346cb5148883fac44a3f8598dbc.mp3"
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "76a",
+      "title": "Full of light",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/hqt7s0qTvcux_720x1280_16jGVcjb.jpg",
+        "height": 720,
+        "orientation": 8,
+        "path": "76b_0_revised.684c4a2734958c39c81390a45b2263c878cbfa52.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 27,
+            "path": "76b_1_eng.75c5dcab2ade5ac56946c835414eb5906fac0efd.mp3"
+          },
+          "coordinate": [
+            89,
+            302
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "76b_1.ca7c5df1fd9c5aa64bed91936094ef171612860c.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 15,
+            "path": "76b_2_eng.c126d6baed3aa8e94cc977a8b86931112a106678.mp3"
+          },
+          "coordinate": [
+            512,
+            590
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "76b_2_revised.a144a4cf839e465fbaf2aabd5a86a59d6c572ac6.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 11,
+            "path": "76b_3_eng.253c4f3f4632027c7977615a17e3a3de5342a4c1.mp3"
+          },
+          "coordinate": [
+            1062,
+            432
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "76b_3.bdb063a461f2203c521842fa2338d3d08dba83c6.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": null,
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "76b",
+      "title": "The story of the Sunflowers",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Sunflowers"
+}

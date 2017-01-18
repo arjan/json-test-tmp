@@ -1,0 +1,124 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/iWrOAUUTaeMf_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/iWrOAUUTaeMf_720x300_mfj8bjKL.jpg",
+    "path": "24_kaart.073ad8b70ca2e9c0e0c0b858310eb0743d86f25b.jpg",
+    "width": 720
+  },
+  "number": 24,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/yZKQwdlLVsmg_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "24a_final_frame.073ad8b70ca2e9c0e0c0b858310eb0743d86f25b.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 12,
+            "path": "24a_2a_kor.af27becb3387b9a990993144d400b44031643675.mp3"
+          },
+          "coordinate": [
+            302,
+            358
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "24a_2a.ffd14bb03e95f5a5a28c7468e1821d1ee99a2e87.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 360,
+            "orientation": 8,
+            "path": "thumb_24a_2a.9f6930bff5b961fdc54ec6742afce32c41aa9884.jpg",
+            "width": 624
+          },
+          "panel_coordinate": [
+            489,
+            281
+          ]
+        },
+        {
+          "audio": {
+            "duration": 23,
+            "path": "24a_2b_kor.19286f035b963b62d8ace325576747c80327ebac.mp3"
+          },
+          "coordinate": [
+            410,
+            678
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "24a_2b.fd1b0d86ee627a95e677f0812f138800fcc3beb3.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 360,
+            "orientation": 8,
+            "path": "thumb_24a_2b.4c0784869f547876d92d42f88cb1cc46dd9e3c0f.jpg",
+            "width": 624
+          },
+          "panel_coordinate": [
+            230,
+            588
+          ]
+        },
+        {
+          "audio": {
+            "duration": 12,
+            "path": "24a_2c_kor.38e1187cd043f978302578f5ef79d015a86b579a.mp3"
+          },
+          "coordinate": [
+            540,
+            921
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "24_datavisualisatie_kor.8dfc33fc7d126b03ff789af53c154066e02167fb.png",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 9,
+        "path": "24a_2_kor.f19bc3fee972c35c8114ac36de012360def059d7.mp3"
+      },
+      "intro_video": {
+        "duration": 21,
+        "height": 1280,
+        "orientation": 1,
+        "path": "24a_Paris-Arles_kor.ac9b37b141e33c91300fc980ffebd780913aef83.mp4",
+        "width": 720
+      },
+      "intro_voiceover_audio": {
+        "duration": 11,
+        "path": "24a_1_kor.8f929a1764c13ebe0feb35c5f28d88bb3468fd96.mp3"
+      },
+      "number": "24a",
+      "title": "아를로 가다",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "아를"
+}

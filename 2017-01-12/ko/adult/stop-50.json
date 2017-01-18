@@ -1,0 +1,121 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/Mdr3P5aVKKLK_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Mdr3P5aVKKLK_720x300_mfj8bjKL.jpg",
+    "path": "50.513a83b1d4c4ad1441830f718193ab486aa5da36.jpg",
+    "width": 720
+  },
+  "number": 50,
+  "overview_colour": 4283974952,
+  "segments": [
+    {
+      "audio": {
+        "duration": 68,
+        "path": "50a_kor.a52f387e5e4041bf1eead30f903d82b99e7301c0.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50a",
+      "title": "그들의 집에서",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 40,
+        "path": "50b_kor.73f24c2602fdf536bf8d47e0a0d566599bfc57ca.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50b",
+      "title": "충격적인 반응",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 720,
+        "orientation": 8,
+        "path": "50c_0.c180b2ba5347f7886ab09ab696274bd824f909bd.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "intro_audio": {
+        "duration": 10,
+        "path": "50c_0_kor.46793b387a112a2f159dbfff66a11f913bf772f9.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 8,
+            "path": "50c_1a_kor.dd51d23c511d0af9c711fa3ef1863eebf5ee88eb.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1a.b05318853f4e52c1f7bc3e2a305d97abbeca3eb7.jpg",
+            "width": 1280
+          },
+          "label": "작업하는 그의 손"
+        },
+        {
+          "audio": {
+            "duration": 6,
+            "path": "50c_1b_kor.4437a417f3f2670665484394e4f7682e32c5c99a.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1b.bd84d94f46848240fbe1c17e9e3852fdb15a4f4d.jpg",
+            "width": 1280
+          },
+          "label": "또 다른 스케치"
+        },
+        {
+          "audio": {
+            "duration": 5,
+            "path": "50c_1c_kor.32b12f7766eae555a21f92c7e757702e96aab581.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1c.6785d6a6131b10abf84137ce991ab7febf7be26a.jpg",
+            "width": 1280
+          },
+          "label": "더 가까이"
+        },
+        {
+          "audio": {
+            "duration": 10,
+            "path": "50c_1d_kor.6ee86493a79029724a8901bae39899a35cc208fa.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1d.5fdd945117753980959b4f58c215f258f6b7443d.jpg",
+            "width": 1280
+          },
+          "label": "계획"
+        }
+      ],
+      "number": "50c",
+      "title": "오랜 계획과 준비 ",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "감자 먹는 사람들"
+}

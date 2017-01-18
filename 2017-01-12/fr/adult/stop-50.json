@@ -1,0 +1,121 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/Mdr3P5aVKKLK_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Mdr3P5aVKKLK_720x300_mfj8bjKL.jpg",
+    "path": "50.513a83b1d4c4ad1441830f718193ab486aa5da36.jpg",
+    "width": 720
+  },
+  "number": 50,
+  "overview_colour": 4283974952,
+  "segments": [
+    {
+      "audio": {
+        "duration": 74,
+        "path": "50a_fre.610953ddca3685aede91c5bc89b93829c0316a28.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50a",
+      "title": "Dans leur maison",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 44,
+        "path": "50b_fre.ccf4bd76cd72e00500a4da50d0b6da136a1cfe3b.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50b",
+      "title": "Une réponse choquante",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 720,
+        "orientation": 8,
+        "path": "50c_0.c180b2ba5347f7886ab09ab696274bd824f909bd.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "intro_audio": {
+        "duration": 12,
+        "path": "50c_0_fre.788853bfa3b1e1313d7249e12d0df42760d6448a.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 10,
+            "path": "50c_1a_fre.65ca5586480b79e411a1afc39ac88521c4adf5f6.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1a.b05318853f4e52c1f7bc3e2a305d97abbeca3eb7.jpg",
+            "width": 1280
+          },
+          "label": "La main à l’œuvre"
+        },
+        {
+          "audio": {
+            "duration": 7,
+            "path": "50c_1b_fre.e636a6340ab145926906bc4a4433231c8d1746d1.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1b.bd84d94f46848240fbe1c17e9e3852fdb15a4f4d.jpg",
+            "width": 1280
+          },
+          "label": "Un autre croquis"
+        },
+        {
+          "audio": {
+            "duration": 3,
+            "path": "50c_1c_fre.4c5fb3ea6785b91a373fb2302c056d3a3933be18.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1c.6785d6a6131b10abf84137ce991ab7febf7be26a.jpg",
+            "width": 1280
+          },
+          "label": "Encore plus près des mains"
+        },
+        {
+          "audio": {
+            "duration": 11,
+            "path": "50c_1d_fre.07d7b87cfb7a4f3e0b9e45efe29afa1767edd1ce.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1d.5fdd945117753980959b4f58c215f258f6b7443d.jpg",
+            "width": 1280
+          },
+          "label": "Le travail préparatoire"
+        }
+      ],
+      "number": "50c",
+      "title": "Une longue étude",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Les Mangeurs de pommes de terre"
+}

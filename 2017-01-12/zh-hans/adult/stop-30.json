@@ -1,0 +1,73 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/Cgde7fog_XYQ_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Cgde7fog_XYQ_720x300_74tHK9Wi.jpg",
+    "path": "30.61ab18c294f3ce68c6d83073cd1d91537fa91387.jpg",
+    "width": 720
+  },
+  "number": 30,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 57,
+        "path": "30a_chn.90a27b39124144a5ec352bd56a6b71d42487621f.mp3"
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "images": [],
+      "number": "30a",
+      "title": "巴黎之光",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/S_chwUc119EY_720x1280_16jGVcjb.jpg",
+        "height": 720,
+        "orientation": 8,
+        "path": "30b_0.2e2af9374d61d58784c68e9edf00f25161de8d40.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4292893491,
+        "foreground": 4291969329
+      },
+      "hide_during_intro": true,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 20,
+            "path": "30b_2_chn.378828147dc1eca35ee9422531ade22bba95540b.mp3"
+          },
+          "coordinate": [
+            473,
+            583
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "30b_1.1e528917500d86bdee88f657a26a09202257aa4b.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 13,
+        "path": "30b_0_chn_revised.5d5c3c1b0e51c50e6c477032345679675043c498.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "30b",
+      "title": "凡高的便条",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "克利希大道"
+}

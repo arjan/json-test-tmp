@@ -1,0 +1,151 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/4lOpmAUjQWN9_720x1280_RInB8YRo.jpg",
+    "focal_point": [
+      360,
+      960
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/4lOpmAUjQWN9_720x300_L2Az2DoK.jpg",
+    "path": "56.f4fae5203020192a7670327f120b12c53785ddb7.jpg",
+    "width": 720
+  },
+  "number": 56,
+  "overview_colour": 4294888192,
+  "segments": [
+    {
+      "audio": {
+        "duration": 76,
+        "path": "56a_ita.5afadf225128aecf1ec28c5b1419e6a253337f1f.mp3"
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "56a",
+      "title": "Un esperimento",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": null,
+      "draggables": [
+        {
+          "audio": {
+            "duration": 14,
+            "path": "56b_1a_ita.b5d8c9596ffe2faa4fd8266937c38edb24600074.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "grijs-vlak.44a808caeee80ef0ca3dfd4c86fa41e1bf371f31.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 300,
+            "orientation": 1,
+            "path": "lijst_2_image_.f228abde9f53ec39ae06ac3195a12b173a4d6823.png",
+            "width": 225
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "lijst_2_image_.f228abde9f53ec39ae06ac3195a12b173a4d6823.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 535,
+            "orientation": 8,
+            "path": "lijst_2_drop_image_2.e55f6b986597d704f92e8add2546de2470528383.png",
+            "width": 680
+          }
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "56b_2_ita.afe5c9ff40491d3e4a0a04695d3f6eebfd9b5bfd.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "grijs-vlak.44a808caeee80ef0ca3dfd4c86fa41e1bf371f31.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 300,
+            "orientation": 1,
+            "path": "lijst_1_image.c8b94115c943b6a2435492a075dbf57e0167c4c9.png",
+            "width": 225
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "lijst_1_image.c8b94115c943b6a2435492a075dbf57e0167c4c9.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 535,
+            "orientation": 8,
+            "path": "lijst_1_drop_image_2.7b34c3b027ef1a302c3bfe68eb6dcca51221e610.png",
+            "width": 680
+          }
+        },
+        {
+          "audio": {
+            "duration": 11,
+            "path": "56b_3_ita.5ae9fcf2c7086c9c6a68b1bcbe7cac9a9a115776.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "grijs-vlak.44a808caeee80ef0ca3dfd4c86fa41e1bf371f31.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 300,
+            "orientation": 1,
+            "path": "lijst_3_image_.fe7227ef74c10dfb3c788694c436a4de32b47288.png",
+            "width": 225
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "lijst_3_image_.fe7227ef74c10dfb3c788694c436a4de32b47288.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 535,
+            "orientation": 8,
+            "path": "lijst_3_drop_image_2.9b4a163314be20b692aa1807635e44f97b9b7b6c.png",
+            "width": 680
+          }
+        }
+      ],
+      "drop_image": {
+        "height": 535,
+        "orientation": 8,
+        "path": "drop_image_2.f5cd5e5b1bf13064d807d09254235ccca298be97.png",
+        "width": 680
+      },
+      "footprint": {
+        "background": 4291537982,
+        "foreground": 4293180191
+      },
+      "intro_audio": {
+        "duration": 14,
+        "path": "56b_0_ita.077c5c9ba42bd3f454c000ecbfa328d1a2502806.mp3"
+      },
+      "is_bottom_aligned": false,
+      "is_question": false,
+      "number": "56b",
+      "title": "Quale cornice è la migliore?",
+      "type": "DragAndDropSegment"
+    }
+  ],
+  "title": "Mele cotogne, limoni, pere e uva"
+}

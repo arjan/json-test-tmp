@@ -1,0 +1,18 @@
+[
+  {
+    "building": "main_building",
+    "id": 1,
+    "long_title": "Voglio visitare il museo a mio piacimento",
+    "slug": "adult",
+    "title": "A proprio piacimento",
+    "type": "unordered"
+  },
+  {
+    "building": "main_building",
+    "id": 2,
+    "long_title": "Voglio vedere le opere principali",
+    "slug": "highlights",
+    "title": "Le opere principali",
+    "type": "ordered"
+  }
+]

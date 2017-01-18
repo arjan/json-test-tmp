@@ -1,0 +1,48 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/N65n9e9TGX8N_720x1280_F6F8kqJV.jpg",
+    "focal_point": [
+      360,
+      486
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/N65n9e9TGX8N_720x300_eLMJc1Bk.jpg",
+    "path": "12.87b981118658d4f2dd63b39d1194f1516c268f90.jpg",
+    "width": 720
+  },
+  "number": 12,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 67,
+        "path": "12a_eng.22a6bb678e464cfd683f0e6105a14c7b9e314cad.mp3"
+      },
+      "footprint": {
+        "background": 4288928744,
+        "foreground": 4288400078
+      },
+      "images": [],
+      "number": "12a",
+      "title": "Gauguin's view",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 62,
+        "path": "12b_eng_nieuw.c6cda16ff7a58d976cd3bda7e76f63c9d91567f7.mp3"
+      },
+      "footprint": {
+        "background": 4288928744,
+        "foreground": 4288400078
+      },
+      "images": [],
+      "number": "12b",
+      "title": "The \"ear incident\" and Gauguin",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Gauguin: Van Gogh painting Sunflowers"
+}

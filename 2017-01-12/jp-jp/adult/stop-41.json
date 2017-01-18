@@ -1,0 +1,95 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/ypqC2fSvDeKn_720x1280_hojwExeZ.jpg",
+    "focal_point": [
+      360,
+      704
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/ypqC2fSvDeKn_720x300_Hq6Sn6Uk.jpg",
+    "path": "41.e64d61742a3162f72861a62c4b8fa92e9b6f9868.jpg",
+    "width": 720
+  },
+  "number": 41,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 78,
+        "path": "41a_jpn.592956b83a6e9b2c78b7dbb46d596b2be3021ee0.mp3"
+      },
+      "footprint": {
+        "background": 4287332728,
+        "foreground": 4288845960
+      },
+      "images": [],
+      "number": "41a",
+      "title": "ヘビースモーカー",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/lQsK3xmn1XVr_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "41b_0.319d3880e9898d7a089e560a1125176932b6cc62.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 16,
+            "path": "41b_1_jpn.6cdf7f38ee3c54679b445be468e4d81f21fb1ffa.mp3"
+          },
+          "coordinate": [
+            259,
+            512
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "41b_1.ffe4e64de0c0030cadfca91f1ecfff0dc77100f6.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 10,
+            "path": "41b_2_jpn.59b7929d87bb9d9b6635dca9dde480b6f43a0d24.mp3"
+          },
+          "coordinate": [
+            259,
+            947
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "41b_2.00b7559b6170d7c34d6b2bd10ff2edfa1dee9c55.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 11,
+        "path": "41b_0_jpn.20b48c0c2165e14bcdeac6dabb1e5d0c751e3d6a.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "41b",
+      "title": "ゴッホの教室をのぞく",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "火の付いたタバコをくわえた骸骨"
+}

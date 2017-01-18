@@ -1,0 +1,44 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/bUJS_AFPJZfX_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/bUJS_AFPJZfX_720x300_74tHK9Wi.jpg",
+    "path": "13.2343b157b0ccf2f2512e068f4ce1d42f8a82f066.jpg",
+    "width": 720
+  },
+  "number": 13,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 71,
+        "path": "13a_ger.19a5d780aba2a31554ecf60f350765b17f1df74e.mp3"
+      },
+      "footprint": {
+        "background": 4291537982,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "13a",
+      "title": "Andere Arten von Büchern",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 50,
+        "path": "13b_ger.93645493f101e178bde897c2b1a88547f196f2f0.mp3"
+      },
+      "footprint": {
+        "background": 4291537982,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "13b",
+      "title": "Auf der Suche nach dem Spirituellen",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Stillleben mit Bibel"
+}

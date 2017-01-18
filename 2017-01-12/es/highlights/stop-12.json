@@ -1,0 +1,48 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/N65n9e9TGX8N_720x1280_F6F8kqJV.jpg",
+    "focal_point": [
+      360,
+      486
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/N65n9e9TGX8N_720x300_eLMJc1Bk.jpg",
+    "path": "12.87b981118658d4f2dd63b39d1194f1516c268f90.jpg",
+    "width": 720
+  },
+  "number": 12,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 86,
+        "path": "12a_spa.2b994d1c1bf2cdb0ce2d62847d7cc16a1293bae0.mp3"
+      },
+      "footprint": {
+        "background": 4288928744,
+        "foreground": 4288400078
+      },
+      "images": [],
+      "number": "12a",
+      "title": "La perspectiva de Gauguin",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 71,
+        "path": "12b_spa_nieuw.fe65e99b94612368fe65c3459b97a4cf26615153.mp3"
+      },
+      "footprint": {
+        "background": 4288928744,
+        "foreground": 4288400078
+      },
+      "images": [],
+      "number": "12b",
+      "title": "El \"incidente de la oreja\" y Gauguin",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Gauguin, Vincent van Gogh pintando girasoles"
+}

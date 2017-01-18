@@ -1,0 +1,124 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/Yv1L8UvF9-QI_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Yv1L8UvF9-QI_720x300_mfj8bjKL.jpg",
+    "path": "43_kaart.923953097fbd11a486f082a189b77eea35df61c2.jpg",
+    "width": 720
+  },
+  "number": 43,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/uA8W5X5H8koN_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "arles-saintremy.06ed81c4710940b69607f7a2d9b9a8bb7b20684a.png",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 9,
+            "path": "43a_2a_kor.3eeaa005a57220bbe634a5ca6ef960868da775d0.mp3"
+          },
+          "coordinate": [
+            230,
+            460
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "43a_2a_.577f8d79d73104e7d4a7ea72cc20f42fc2ec0e51.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 400,
+            "orientation": 8,
+            "path": "thumb_43a_2a_revised.a7218b6196795c687d7705fed0c21453c9bb4675.jpg",
+            "width": 513
+          },
+          "panel_coordinate": [
+            410,
+            345
+          ]
+        },
+        {
+          "audio": {
+            "duration": 22,
+            "path": "43a_2b_kor.795351ff7f75490e8e206275ede0a1efe4144ab7.mp3"
+          },
+          "coordinate": [
+            108,
+            1024
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "43a_2b.9bf254c0d3d3676946071801099a90420981d09c.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 400,
+            "orientation": 8,
+            "path": "thumb_43a_2b.7cb850fa75b6b981204d65352591fc38e912bfc6.jpg",
+            "width": 534
+          },
+          "panel_coordinate": [
+            223,
+            1011
+          ]
+        },
+        {
+          "audio": {
+            "duration": 16,
+            "path": "43a_2c_kor.2a10c20380bfb8c0df0ba803207c24d82a163133.mp3"
+          },
+          "coordinate": [
+            280,
+            678
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "43_datavisualisatie_kor.7b54f528e81f5f29d11da96438e3ec37aff9e4a5.png",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 8,
+        "path": "43a_2_kor.75cb43dfab27c677bdfd74a3c0770610746bfaf2.mp3"
+      },
+      "intro_video": {
+        "duration": 21,
+        "height": 1280,
+        "orientation": 1,
+        "path": "43_Arles-Saint-Remy_kor.dc671962fc8581bd41c40eda91e13b7257396d3c.mp4",
+        "width": 720
+      },
+      "intro_voiceover_audio": {
+        "duration": 12,
+        "path": "43a_1_kor.18191cbb0efb6c60fea68cef0bf16a9b852dbf5d.mp3"
+      },
+      "number": "43a",
+      "title": "생 레미로 가다",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "생레미드프로방스"
+}

@@ -1,0 +1,87 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/gkGMpm4ipXSb_720x1280_DMCgOIIS.jpg",
+    "focal_point": [
+      360,
+      691
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/gkGMpm4ipXSb_720x300_jYAVjE-R.jpg",
+    "path": "65.1d5b5881fd70b4e5f9111b0fcf2fa07a2cd2c09c.jpg",
+    "width": 720
+  },
+  "number": 65,
+  "overview_colour": 4288928744,
+  "segments": [
+    {
+      "audio": {
+        "duration": 72,
+        "path": "65a_ger.53eeda15dc3fde4c9d2855ccb9b34dca9a952abb.mp3"
+      },
+      "footprint": {
+        "background": 4288928744,
+        "foreground": 4288400078
+      },
+      "images": [],
+      "number": "65a",
+      "title": "Van Goghs Art zu sehen",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/wLXUoye4ZFPx_720x1280_16jGVcjb.jpg",
+        "height": 720,
+        "orientation": 8,
+        "path": "65b_0_revised.2b5f832738d94867c13eea963bf2380703e37a9f.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 10,
+            "path": "65b_1_ger.87353a8095f84cd2459137c8106328c3d23f1921.mp3"
+          },
+          "coordinate": [
+            153,
+            180
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 14,
+            "path": "65b_2_ger.e7b7ff4f25f1169f03c3125f885002156cdadd6f.mp3"
+          },
+          "coordinate": [
+            601,
+            259
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "65b_2_revised.356853720d430011a6a1ee6b45994708160a4e1a.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": null,
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "65b",
+      "title": "Näheres Hinsehen wirft Fragen auf",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Baumwurzeln"
+}

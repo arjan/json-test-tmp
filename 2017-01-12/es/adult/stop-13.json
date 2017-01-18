@@ -1,0 +1,44 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/bUJS_AFPJZfX_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/bUJS_AFPJZfX_720x300_74tHK9Wi.jpg",
+    "path": "13.2343b157b0ccf2f2512e068f4ce1d42f8a82f066.jpg",
+    "width": 720
+  },
+  "number": 13,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 81,
+        "path": "13a_spa.2fea6150a833f1efe185c32f6bfbf1c61c9b455f.mp3"
+      },
+      "footprint": {
+        "background": 4291537982,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "13a",
+      "title": "Diferentes tipos de libros",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 43,
+        "path": "13b_spa.65abf9b15760ba1e434d3b90d0e3a75ee8afe8e1.mp3"
+      },
+      "footprint": {
+        "background": 4291537982,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "13b",
+      "title": "Buscando lo espiritual",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Naturaleza muerta con Biblia"
+}

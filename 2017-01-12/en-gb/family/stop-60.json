@@ -1,0 +1,178 @@
+{
+  "floor": 1,
+  "hints": [
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/FXsK35fpA-Uk_720x1280_TzWzbZuN.jpg",
+        "focal_point": [
+          360,
+          217
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/FXsK35fpA-Uk_720x360_CEDF-Yzt.jpg",
+        "path": "60f_hint-a.8cac393fa4be9607cd89c469e42f8905aeaca6a7.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 5,
+        "path": "60f_hb_eng.6026584e6437e20ae2eb64e719d1ad5026ddde14.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/npdhWybWu9MJ_720x1280_r-Z2YgTK.jpg",
+        "focal_point": [
+          360,
+          243
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/npdhWybWu9MJ_720x360_Mgso5QYk.jpg",
+        "path": "60f_hint-b.c77577c9f1956bdb9d2773d7fd565ee8e6ab8605.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/ThHUpjyE1a3Y_720x1280_R5-LupD8.jpg",
+        "focal_point": [
+          360,
+          435
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/ThHUpjyE1a3Y_720x360_zsyod7Rd.jpg",
+        "path": "60f_hint-c.32edb8c57e9b89c090f8427bc9be91070bb8f1ea.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/f22BuaME7JvU_720x1280_oavWv3F3.jpg",
+        "focal_point": [
+          360,
+          729
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/f22BuaME7JvU_720x360_hdBd3ZKY.jpg",
+        "path": "60f_hint-d.ae7315a1c3ec0997065302efca3577f8a9ec4672.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/HHmpLvVMapKm_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/HHmpLvVMapKm_720x300_mfj8bjKL.jpg",
+    "path": "60.b95e0e770ace458603a3d1dddc79ef43d947d513.jpg",
+    "width": 720
+  },
+  "number": 60,
+  "overview_colour": 4291044910,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/8ci-ykuHNebO_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "60_2.4454ad866801c2b7705359a5cbe749ac48dcd855.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4291044910,
+        "foreground": 4291969072
+      },
+      "hide_during_intro": true,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 27,
+            "path": "60f_a2a_eng.85dfafbccb403fd3b8bf3def956887bd32563531.mp3"
+          },
+          "coordinate": [
+            619,
+            332
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 20,
+            "path": "60f_a2b_eng.4391c37a5ab58e22fa7006c3cacf23807db7b4bc.mp3"
+          },
+          "coordinate": [
+            180,
+            640
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 27,
+        "path": "60f_a1_eng.55ed4bdbb4f981fe6ca8eed67d38623ebf461900.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "60f",
+      "title": "Vincent makes a copy",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Flowering Plum Orchard",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "Blue",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "Red",
+        "audio": null,
+        "is_correct": true
+      },
+      {
+        "answer": "Green",
+        "audio": null,
+        "is_correct": false
+      }
+    ],
+    "correct_audio": {
+      "duration": 21,
+      "path": "60f_fb_eng.adfb48ffc1699c9d22b8f4ed90be54ce5bc9d0a2.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 5,
+      "path": "60f_fa_eng.b66319fc11ef1589903fd52a860817ee18e7175d.mp3"
+    },
+    "question": "What colour is the sky in this painting?",
+    "unlock_type": "QuizUnlock"
+  }
+}

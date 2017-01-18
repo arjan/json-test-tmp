@@ -1,0 +1,121 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/Mdr3P5aVKKLK_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Mdr3P5aVKKLK_720x300_mfj8bjKL.jpg",
+    "path": "50.513a83b1d4c4ad1441830f718193ab486aa5da36.jpg",
+    "width": 720
+  },
+  "number": 50,
+  "overview_colour": 4283974952,
+  "segments": [
+    {
+      "audio": {
+        "duration": 78,
+        "path": "50a_dut.4855c25ac8f4da1c3c05ddd163b7e49d7bb6cbd1.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50a",
+      "title": "In hun huis",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 44,
+        "path": "50b_dut.02a59d4347f5c97fee46f66f67194b2faff5dea1.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50b",
+      "title": "Een schokkend antwoord",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 720,
+        "orientation": 8,
+        "path": "50c_0.c180b2ba5347f7886ab09ab696274bd824f909bd.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "intro_audio": {
+        "duration": 9,
+        "path": "50c_0_dut.39ce5e40367499f31e362271c57cdccf873f2851.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 8,
+            "path": "50c_1a_dut.75f49fddd4f7aae4dd2cde78226dbbd371cf25d1.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1a.b05318853f4e52c1f7bc3e2a305d97abbeca3eb7.jpg",
+            "width": 1280
+          },
+          "label": "De hand van de schilder"
+        },
+        {
+          "audio": {
+            "duration": 7,
+            "path": "50c_1b_dut.3404300b86f04635b38e6391d47828aa037c0ad2.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1b.bd84d94f46848240fbe1c17e9e3852fdb15a4f4d.jpg",
+            "width": 1280
+          },
+          "label": "Nog een schets"
+        },
+        {
+          "audio": {
+            "duration": 4,
+            "path": "50c_1c_dut.fcdc7346b9937a9ab194ba5876c080a88abba065.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1c.6785d6a6131b10abf84137ce991ab7febf7be26a.jpg",
+            "width": 1280
+          },
+          "label": "Dichterbij de handen"
+        },
+        {
+          "audio": {
+            "duration": 10,
+            "path": "50c_1d_dut.71819cba70cbe0384d093f513d1c578c912204db.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1d.5fdd945117753980959b4f58c215f258f6b7443d.jpg",
+            "width": 1280
+          },
+          "label": "De uitwerking van zijn plan"
+        }
+      ],
+      "number": "50c",
+      "title": "Een lange studie",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "De aardappeleters"
+}

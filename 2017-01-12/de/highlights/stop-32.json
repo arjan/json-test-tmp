@@ -1,0 +1,100 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/xBMXmvs75g79_720x1280_CD2D1u_4.jpg",
+    "focal_point": [
+      360,
+      448
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/xBMXmvs75g79_720x300_u9whUD-F.jpg",
+    "path": "32.44d63a0e3cc415fbd4a448d8d97b1abdf8f7f4ef.jpg",
+    "width": 720
+  },
+  "number": 32,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 57,
+        "path": "32a_ger.3ca657d93aa8723446f69b43a938595e8c386455.mp3"
+      },
+      "footprint": {
+        "background": 4288928744,
+        "foreground": 4288400078
+      },
+      "images": [],
+      "number": "32a",
+      "title": "Zur Ruhe kommen",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/S16HRtCnq4qu_720x1280_16jGVcjb.png",
+        "height": 720,
+        "orientation": 8,
+        "path": "32b_0.6b859ba9ec1191576487b48eb1bcf95a8354a14d.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 12,
+            "path": "32b_1_ger.68fa0c3f16d7c02da91d6254f874e77fd2fe707f.mp3"
+          },
+          "coordinate": [
+            1049,
+            144
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 11,
+            "path": "32b_2_ger.8a99dde8b18f18b8c7377d3c1c07e311d89a9dad.mp3"
+          },
+          "coordinate": [
+            729,
+            360
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 10,
+            "path": "32b_3_ger.e0e0709cd9839cfa750244d366ebec2126d1724b.mp3"
+          },
+          "coordinate": [
+            409,
+            180
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "32b_3_.0bed5aa5f76c90632ca5a708f312d78eceb2a23c.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": null,
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "32b",
+      "title": "Besuch in van Goghs Schlafzimmer",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Das Schlafzimmer"
+}

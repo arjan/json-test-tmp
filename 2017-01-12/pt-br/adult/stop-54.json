@@ -1,0 +1,77 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/3NX43Qyrapcr_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/3NX43Qyrapcr_720x300_74tHK9Wi.jpg",
+    "path": "54_2.442e2666427230412816de850b01ce0b767d428c.jpg",
+    "width": 720
+  },
+  "number": 54,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 68,
+        "path": "54a_prt.85f4c13a17a76a99610bc6edac53fa4732ac7f0f.mp3"
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "images": [],
+      "number": "54a",
+      "title": "Van Gogh Aventura-se",
+      "type": "AudioSegment"
+    },
+    {
+      "correct_audio": {
+        "duration": 5,
+        "path": "54b_1a_prt.664f09f7298d08f05865b3ffccd8d55afcdfe992.mp3"
+      },
+      "correct_colours": [
+        {
+          "base": "black",
+          "weight": 1
+        },
+        {
+          "base": "white",
+          "weight": 3
+        },
+        {
+          "base": "red",
+          "weight": 2
+        },
+        {
+          "base": "blue",
+          "weight": 1
+        }
+      ],
+      "footprint": {
+        "background": 4288928744,
+        "foreground": 4288400078
+      },
+      "incorrect_audio": {
+        "duration": 5,
+        "path": "54b_1b_prt.3f66f5ee8a3e7208eb4266b0327c3ec397c9cba1.mp3"
+      },
+      "incorrect_colours": [
+        {
+          "base": "yellow",
+          "weight": 2
+        }
+      ],
+      "intro_audio": {
+        "duration": 11,
+        "path": "54b_1_prt.494129110a653663a2778c65e1cfff6d34d7d07f.mp3"
+      },
+      "mix": "white:3+red:2+blue:1=#d58c9c,yellow:2+white:3+red:2=#ffb76e,black:1+yellow:2+blue:1=#80922b,yellow:2+red:2=#ff8000,black:1+white:3+blue:1=#99a8bc,white:3+blue:1=#c0d1ea,yellow:2+white:3=#ffff99,black:1+yellow:2+red:2+blue:1=#aa611d,white:3+red:2=#ff9999,black:1+yellow:2=#aaaa00,yellow:2+white:3+blue:1=#d5e19c,black:1+yellow:2+white:3+red:2=#e0a060,yellow:2=#ffff00,black:1+red:2=#aa0000,blue:1=#0047ab,red:2=#ff0000,black:1+yellow:2+white:3=#d5d580,black:1+white:3=#c0c0c0,black:1+white:3+red:2+blue:1=#b77886,white:3=#ffffff,black:1+blue:1=#002456,yellow:2+white:3+red:2+blue:1=#e0a975,yellow:2+red:2+blue:1=#cc7523,black:1+red:2+blue:1=#80122b,black:1+yellow:2+white:3+blue:1=#b7c186,black:1+yellow:2+red:2=#cc6600,red:2+blue:1=#aa1839,yellow:2+blue:1=#aac239,black:1=#000000,black:1+white:3+red:2=#d58080,black:1+yellow:2+white:3+red:2+blue:1=#c79668",
+      "number": "54b",
+      "target_colour": 4290214022,
+      "title": "Uma Cor incomum",
+      "type": "ColoursSegment"
+    }
+  ],
+  "title": "Pomares em Flor, Vista de Arles"
+}

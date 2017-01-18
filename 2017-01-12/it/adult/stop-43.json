@@ -1,0 +1,124 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/Yv1L8UvF9-QI_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Yv1L8UvF9-QI_720x300_mfj8bjKL.jpg",
+    "path": "43_kaart.923953097fbd11a486f082a189b77eea35df61c2.jpg",
+    "width": 720
+  },
+  "number": 43,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/uA8W5X5H8koN_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "arles-saintremy.06ed81c4710940b69607f7a2d9b9a8bb7b20684a.png",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 14,
+            "path": "43a_2a_ita.55e97a2569a745bff752375df84c3a3e6fec96ee.mp3"
+          },
+          "coordinate": [
+            230,
+            460
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "43a_2a_.577f8d79d73104e7d4a7ea72cc20f42fc2ec0e51.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 400,
+            "orientation": 8,
+            "path": "thumb_43a_2a_revised.a7218b6196795c687d7705fed0c21453c9bb4675.jpg",
+            "width": 513
+          },
+          "panel_coordinate": [
+            410,
+            345
+          ]
+        },
+        {
+          "audio": {
+            "duration": 29,
+            "path": "43a_2b_ita.8930a8651e310e40356de645e891d496f2884b17.mp3"
+          },
+          "coordinate": [
+            108,
+            1024
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "43a_2b.9bf254c0d3d3676946071801099a90420981d09c.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 400,
+            "orientation": 8,
+            "path": "thumb_43a_2b.7cb850fa75b6b981204d65352591fc38e912bfc6.jpg",
+            "width": 534
+          },
+          "panel_coordinate": [
+            223,
+            1011
+          ]
+        },
+        {
+          "audio": {
+            "duration": 17,
+            "path": "43a_2c_ita.1144b4cb26c0b85fde1c92c1c4751e4009f0947b.mp3"
+          },
+          "coordinate": [
+            280,
+            678
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "43_datavisualisatie_ita.10c5edff85eabc1e35432c2b05b0d32dca76cb1a.png",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 9,
+        "path": "43a_2_ita.0c8ea1dc64b1cac3851a6abe54352325d9a03038.mp3"
+      },
+      "intro_video": {
+        "duration": 21,
+        "height": 1280,
+        "orientation": 1,
+        "path": "43_ita.mp4.48a17341d62b74f70551a7615597e69e0d0b66c8.mp4",
+        "width": 720
+      },
+      "intro_voiceover_audio": {
+        "duration": 18,
+        "path": "43a_1_ita.8261096ef39da72507ba1e78eb7209a71fbf49df.mp3"
+      },
+      "number": "43a",
+      "title": "Alla volta di Saint-Rémy",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Saint-Rémy-de-Provence"
+}

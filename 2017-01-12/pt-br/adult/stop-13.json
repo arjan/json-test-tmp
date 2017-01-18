@@ -1,0 +1,44 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/bUJS_AFPJZfX_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/bUJS_AFPJZfX_720x300_74tHK9Wi.jpg",
+    "path": "13.2343b157b0ccf2f2512e068f4ce1d42f8a82f066.jpg",
+    "width": 720
+  },
+  "number": 13,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 86,
+        "path": "13a_prt.558f3a2dd68e79ea2b9a123b29c23eb4b896361e.mp3"
+      },
+      "footprint": {
+        "background": 4291537982,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "13a",
+      "title": "Diferentes Tipos de Livros",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 54,
+        "path": "13b_prt.2e0d3c4e0394bfba52c3de100b92f0f34e3c6968.mp3"
+      },
+      "footprint": {
+        "background": 4291537982,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "13b",
+      "title": "A Busca pelo Espiritual",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Natureza Morta com a Bíblia"
+}

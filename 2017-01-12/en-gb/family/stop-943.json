@@ -1,0 +1,279 @@
+{
+  "floor": 3,
+  "hints": [
+    {
+      "audio": {
+        "duration": 6,
+        "path": "43f_h_revised_eng.5fa7157e7816b9238528b1c55f1dbbdfcbed8080.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/frrARM6GJHWZ_720x1280_R5-LupD8.png",
+        "focal_point": [
+          360,
+          435
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/frrARM6GJHWZ_720x360_zsyod7Rd.png",
+        "path": "43_hint_blad_v3.a3023d168f0d3bdc36b03f6a799e34489dc8d80f.png",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/frrARM6GJHWZ_720x1280_R5-LupD8.png",
+    "focal_point": [
+      360,
+      435
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/frrARM6GJHWZ_720x300_zsyod7Rd.png",
+    "path": "43_hint_blad_v3.a3023d168f0d3bdc36b03f6a799e34489dc8d80f.png",
+    "width": 720
+  },
+  "number": 943,
+  "overview_colour": 4289246208,
+  "segments": [
+    {
+      "background_image": {
+        "height": 720,
+        "orientation": 8,
+        "path": "43f_a1_1_v2.255ccbb24c8157f66ffe5338a77c5affa7716ecd.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "intro_audio": {
+        "duration": 25,
+        "path": "43f_a_eng.9e0b68af88e544669273e8504577646a4992a51e.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 10,
+            "path": "43f_a1b_eng.6dd459152f74e17c6232e94a8d712292e9a8349a.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "43f_a1b_v2.43874e5e06678465c1bcf0adbe4aad3d9466994a.jpg",
+            "width": 1280
+          },
+          "label": "Some noisy cicadas!"
+        },
+        {
+          "audio": {
+            "duration": 4,
+            "path": "43f_a1c_eng.238d2ba1d6b631472072f1f8afa59e59951cef37.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "43f_a1c_v2.a71f137fa21251cecddda2b04338adcfc8d8da6a.jpg",
+            "width": 1280
+          },
+          "label": "A crab stuck on its back"
+        },
+        {
+          "audio": {
+            "duration": 3,
+            "path": "43f_a1a_eng.635539ed6ece610e49e251efdd9de051fab08412.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "43f_a1a_v2.5b55c3999fc99af8e2664d1701661f5ed4ad1413.jpg",
+            "width": 1280
+          },
+          "label": "A mighty moth!"
+        }
+      ],
+      "number": "943f",
+      "title": "Little, not big",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Looking closely",
+  "unlock": {
+    "colour": 4282157647,
+    "correct_audio": {
+      "duration": 17,
+      "path": "43f_fb_eng.1bbfade64eca9bc02e01ccda1b8a22fb2db9b5e2.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 7,
+      "path": "43f_fa_eng.b5b3c7a91c6f1c7b3832c83edbafc60cf4ad289b.mp3"
+    },
+    "intro_audio": {
+      "duration": 5,
+      "path": "43f_q_eng.38dc8fe52952fbca86eceecc96473866aa39512e.mp3"
+    },
+    "lines": [
+      [
+        [
+          279,
+          723
+        ],
+        [
+          279,
+          635
+        ]
+      ],
+      [
+        [
+          279,
+          635
+        ],
+        [
+          279,
+          501
+        ]
+      ],
+      [
+        [
+          279,
+          501
+        ],
+        [
+          146,
+          368
+        ]
+      ],
+      [
+        [
+          279,
+          501
+        ],
+        [
+          413,
+          368
+        ]
+      ],
+      [
+        [
+          279,
+          501
+        ],
+        [
+          279,
+          323
+        ]
+      ],
+      [
+        [
+          279,
+          323
+        ],
+        [
+          190,
+          234
+        ]
+      ],
+      [
+        [
+          279,
+          323
+        ],
+        [
+          368,
+          234
+        ]
+      ],
+      [
+        [
+          279,
+          323
+        ],
+        [
+          279,
+          145
+        ]
+      ],
+      [
+        [
+          279,
+          635
+        ],
+        [
+          101,
+          546
+        ]
+      ],
+      [
+        [
+          101,
+          546
+        ],
+        [
+          12,
+          368
+        ]
+      ],
+      [
+        [
+          12,
+          368
+        ],
+        [
+          101,
+          190
+        ]
+      ],
+      [
+        [
+          101,
+          190
+        ],
+        [
+          279,
+          12
+        ]
+      ],
+      [
+        [
+          279,
+          12
+        ],
+        [
+          457,
+          190
+        ]
+      ],
+      [
+        [
+          457,
+          190
+        ],
+        [
+          546,
+          368
+        ]
+      ],
+      [
+        [
+          546,
+          368
+        ],
+        [
+          457,
+          546
+        ]
+      ],
+      [
+        [
+          457,
+          546
+        ],
+        [
+          279,
+          635
+        ]
+      ]
+    ],
+    "unlock_type": "PatternUnlock"
+  }
+}

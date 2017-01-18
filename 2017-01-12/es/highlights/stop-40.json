@@ -1,0 +1,48 @@
+{
+  "floor": 0,
+  "image": {
+    "blurred_image_path": "thumbnails/t2fPJ6J4BMWW_720x1280_n9CpgZva.jpg",
+    "focal_point": [
+      360,
+      665
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/t2fPJ6J4BMWW_720x300_1X-gwbDN.jpg",
+    "path": "40_.5974ff60df0a718b84eab098dbd6b4a735f50a93.jpg",
+    "width": 720
+  },
+  "number": 40,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 42,
+        "path": "40a_spa.0f57e1d7edf4c60fc81cce7c9a7ea9b6e3e27c8f.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "40a",
+      "title": "La paleta de Van Gogh",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 66,
+        "path": "40b_spa.63b4024bfe56a19ecafce0ff5946a76086bf0530.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "40b",
+      "title": "Retroceso en el tiempo",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "La paleta de Van Gogh"
+}

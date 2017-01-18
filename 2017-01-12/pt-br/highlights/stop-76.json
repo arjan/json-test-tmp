@@ -1,0 +1,110 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/m8muaKcFUj74_720x1280_koN5B6eQ.jpg",
+    "focal_point": [
+      360,
+      652
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/m8muaKcFUj74_720x300_3__BWwZ7.jpg",
+    "path": "76.2ee03767ccb9064c78449a8ccbf60756bd0c4f9e.jpg",
+    "width": 720
+  },
+  "number": 76,
+  "overview_colour": 4294888192,
+  "segments": [
+    {
+      "audio": {
+        "duration": 91,
+        "path": "76a_prt.42956b9a52dffc045e4bb355088cc7e15b181eae.mp3"
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "76a",
+      "title": "Repleto de Luminosidade",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/hqt7s0qTvcux_720x1280_16jGVcjb.jpg",
+        "height": 720,
+        "orientation": 8,
+        "path": "76b_0_revised.684c4a2734958c39c81390a45b2263c878cbfa52.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 33,
+            "path": "76b_1_prt.f25421d755e4eb97876f4b91f79269b4f17c6c68.mp3"
+          },
+          "coordinate": [
+            89,
+            302
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "76b_1.ca7c5df1fd9c5aa64bed91936094ef171612860c.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 18,
+            "path": "76b_2_prt.074026087c1aa8df7f17c1633f98222c573076df.mp3"
+          },
+          "coordinate": [
+            512,
+            590
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "76b_2_revised.a144a4cf839e465fbaf2aabd5a86a59d6c572ac6.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 13,
+            "path": "76b_3_prt.59e2e250a3eac0bb459e467a2838c02dd44b8142.mp3"
+          },
+          "coordinate": [
+            1062,
+            432
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "76b_3.bdb063a461f2203c521842fa2338d3d08dba83c6.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": null,
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "76b",
+      "title": "A História dos Girassóis",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Girassóis"
+}

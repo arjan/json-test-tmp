@@ -1,0 +1,244 @@
+{
+  "floor": 2,
+  "hints": [
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/vOL7-W_Fok9Y_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/vOL7-W_Fok9Y_720x360_1tCnCAD2.jpg",
+        "path": "56_hint-a.72333b88915c27a35eada1bd3f40ba93521ab1fe.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/TaV39JKBkdyE_720x1280_Nb2hKWwA.jpg",
+        "focal_point": [
+          360,
+          780
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/TaV39JKBkdyE_720x360_Vg_bUK2g.jpg",
+        "path": "56_hint-b_v2.7cfa78fed09267f800e65f6ec1799b9b1ddf3aa2.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/OsMvG38HN38c_720x1280_PExV7KIw.jpg",
+        "focal_point": [
+          360,
+          358
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/OsMvG38HN38c_720x360_cpNyGkAW.jpg",
+        "path": "56_hint-c.87d3e184bfe94aab59d5f607df5ba2bce2d964ff.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/Nbx1SUDeYFcn_720x1280_xVZIbn_8.jpg",
+        "focal_point": [
+          360,
+          294
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Nbx1SUDeYFcn_720x360_OkBcLY0b.jpg",
+        "path": "56_hint-d.b9180c44d65462a0fe98ee1b8ee757048085c01c.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/4lOpmAUjQWN9_720x1280_RInB8YRo.jpg",
+    "focal_point": [
+      360,
+      960
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/4lOpmAUjQWN9_720x300_L2Az2DoK.jpg",
+    "path": "56.f4fae5203020192a7670327f120b12c53785ddb7.jpg",
+    "width": 720
+  },
+  "number": 56,
+  "overview_colour": 4294888192,
+  "segments": [
+    {
+      "background_image": null,
+      "draggables": [
+        {
+          "audio": {
+            "duration": 17,
+            "path": "56f_a2_dut.48319da23d691f2a16ac595cc10692f2fb41e83c.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "grijs-vlak_2.44a808caeee80ef0ca3dfd4c86fa41e1bf371f31.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 300,
+            "orientation": 1,
+            "path": "lijst_1_image.c8b94115c943b6a2435492a075dbf57e0167c4c9.png",
+            "width": 225
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "lijst_1_image.c8b94115c943b6a2435492a075dbf57e0167c4c9.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 535,
+            "orientation": 8,
+            "path": "lijst_1_drop_image_2.7b34c3b027ef1a302c3bfe68eb6dcca51221e610.png",
+            "width": 680
+          }
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "56f_a3_dut.8f088b3384666de51135089411262890d31fbaa9.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "grijs-vlak_2.44a808caeee80ef0ca3dfd4c86fa41e1bf371f31.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 300,
+            "orientation": 1,
+            "path": "lijst_3_image_.fe7227ef74c10dfb3c788694c436a4de32b47288.png",
+            "width": 225
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "lijst_3_image_.fe7227ef74c10dfb3c788694c436a4de32b47288.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 535,
+            "orientation": 8,
+            "path": "lijst_3_drop_image_2.9b4a163314be20b692aa1807635e44f97b9b7b6c.png",
+            "width": 680
+          }
+        },
+        {
+          "audio": {
+            "duration": 15,
+            "path": "56f_a1_dut.7326d3d114fa6718c618d68994bf613ffeaf8ec1.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "grijs-vlak_2.44a808caeee80ef0ca3dfd4c86fa41e1bf371f31.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 300,
+            "orientation": 1,
+            "path": "lijst_2_image_.f228abde9f53ec39ae06ac3195a12b173a4d6823.png",
+            "width": 225
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "lijst_2_image_.f228abde9f53ec39ae06ac3195a12b173a4d6823.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 535,
+            "orientation": 8,
+            "path": "lijst_2_drop_image_2.e55f6b986597d704f92e8add2546de2470528383.png",
+            "width": 680
+          }
+        }
+      ],
+      "drop_image": {
+        "height": 535,
+        "orientation": 8,
+        "path": "drop_image_2.f5cd5e5b1bf13064d807d09254235ccca298be97.png",
+        "width": 680
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "intro_audio": {
+        "duration": 23,
+        "path": "56f_a0_dut.f5c9f400d3ac78fd0f5d95b21788e4ae1c801b2d.mp3"
+      },
+      "is_bottom_aligned": false,
+      "is_question": false,
+      "number": "56f",
+      "title": "Probeer verschillende lijsten uit",
+      "type": "DragAndDropSegment"
+    }
+  ],
+  "title": "Kweeperen, citroenen, peren en druiven",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "blauw",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "rood",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "allebei",
+        "audio": null,
+        "is_correct": true
+      }
+    ],
+    "correct_audio": {
+      "duration": 29,
+      "path": "56f_fb_dut.62a683487f6793b45d25ed08295e0c3d1ec6da91.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 6,
+      "path": "56f_fa_dut_1.cef56243f961c9b5a08dab9663b361548461124d.mp3"
+    },
+    "question": "Welke kleuren zie je in dit schilderij, naast geel?",
+    "unlock_type": "QuizUnlock"
+  }
+}

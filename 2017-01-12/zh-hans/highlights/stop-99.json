@@ -1,0 +1,48 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/zd0-0sw4wNis_720x1280_n9CpgZva.jpg",
+    "focal_point": [
+      360,
+      665
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/zd0-0sw4wNis_720x300_1X-gwbDN.jpg",
+    "path": "99.d9653c65b691c1870c1cc92c454b191e8df27675.jpg",
+    "width": 720
+  },
+  "number": 99,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 92,
+        "path": "99a_chn.6355933608f65669d3fa75aa5b2b1f94cbb56748.mp3"
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "images": [],
+      "number": "99a",
+      "title": "撒种",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 64,
+        "path": "99b_chn.2fcb002196d526af6a1a072f671405bca70db7bb.mp3"
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "images": [],
+      "number": "99b",
+      "title": "您的见解",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "播种者"
+}

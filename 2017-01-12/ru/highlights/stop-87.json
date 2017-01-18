@@ -1,0 +1,34 @@
+{
+  "floor": 0,
+  "image": {
+    "blurred_image_path": "thumbnails/9pZlJREAxt2O_720x1280_Cw5HsHyV.jpg",
+    "focal_point": [
+      360,
+      524
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/9pZlJREAxt2O_720x300_o6JmsRgx.jpg",
+    "path": "87.9cfcdbc14826888c6a4f2da3236b88cbd459679f.jpg",
+    "width": 720
+  },
+  "number": 87,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 65,
+        "path": "87a_rus.6587109a0b883c1e4031584180fe3e779ffd0582.mp3"
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "87a",
+      "title": "Познакомьтесь с Ван Гогом",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Автопортрет в соломенной шляпе"
+}

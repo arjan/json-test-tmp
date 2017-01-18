@@ -1,0 +1,48 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/i7eOsgBTK_h1_720x1280_kWAZ1oMj.jpg",
+    "focal_point": [
+      360,
+      422
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/i7eOsgBTK_h1_720x300_ekNv0XFE.jpg",
+    "path": "58.a11241cf1bf04896eb9f049b6f709bf827e3ab6f.jpg",
+    "width": 720
+  },
+  "number": 58,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 101,
+        "path": "58a_jpn.289826b08ad52ee3c63dba435e67eca8b14d4ad9.mp3"
+      },
+      "footprint": {
+        "background": 4288417308,
+        "foreground": 4291044910
+      },
+      "images": [],
+      "number": "58a",
+      "title": "変わった背景",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 88,
+        "path": "58b_jpn.64b40b696331bcb58f3d2ace2c0a0d71a329be65.mp3"
+      },
+      "footprint": {
+        "background": 4288417308,
+        "foreground": 4291044910
+      },
+      "images": [],
+      "number": "58b",
+      "title": "ゴッホと恋愛",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "カフェにて（ル・タンブランのアゴスティーナ・セガトリ）"
+}

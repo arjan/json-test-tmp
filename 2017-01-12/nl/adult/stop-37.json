@@ -1,0 +1,109 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/raJTxqv4hf1F_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/raJTxqv4hf1F_720x300_74tHK9Wi.jpg",
+    "path": "37_3.cc20c6c4be14b066b1abc1903f4bd33c463524d0.jpg",
+    "width": 720
+  },
+  "number": 37,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 63,
+        "path": "37a_dut.0a92d227bef30ff1c9f890abb5109a9242563c11.mp3"
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "images": [],
+      "number": "37a",
+      "title": "Kunst waar Van Gogh van hield",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/becvtgWX7Mqf_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "37b_0.6d32c582fa177715ea1147ecf77490b0cb080141.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 6,
+            "path": "37b_1_dut.3a439d91b7e90373bf42eedb9f95b6cb6ebb2a9c.mp3"
+          },
+          "coordinate": [
+            172,
+            448
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "37b_1.8c4a1212c43ba45333514cf10b967e5678f32d3e.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 7,
+            "path": "37b_2_dut.037365b6a5253c2cf2d5caf0664242875b3bde70.mp3"
+          },
+          "coordinate": [
+            612,
+            883
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "37b_2.f24c4da239a01ffd6d5c6fdb17e5d2f0a7a9af97.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 13,
+            "path": "37b_3_dut.041ae7f2630ee1207828b8fce90f9ed4c1ad04c3.mp3"
+          },
+          "coordinate": [
+            194,
+            1164
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "37b_3.d70f0588997f991938bdabc7dffcc1f2d1be5949.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 5,
+        "path": "37b_0_dut.8ea62f3c31a983fd4fac72d4a03574b6fe058b08.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "37b",
+      "title": "Wat Van Gogh zei over boeren",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Het landleven"
+}

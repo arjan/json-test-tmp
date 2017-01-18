@@ -1,0 +1,44 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/bUJS_AFPJZfX_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/bUJS_AFPJZfX_720x300_74tHK9Wi.jpg",
+    "path": "13.2343b157b0ccf2f2512e068f4ce1d42f8a82f066.jpg",
+    "width": 720
+  },
+  "number": 13,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 69,
+        "path": "13a_kor.efda255acdf080ada098e41aa635b55db0fd2b8f.mp3"
+      },
+      "footprint": {
+        "background": 4291537982,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "13a",
+      "title": "다른 종류의 책들",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 43,
+        "path": "13b_kor.0e13c24834dbd1f94c259deb659e697f2af6e634.mp3"
+      },
+      "footprint": {
+        "background": 4291537982,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "13b",
+      "title": "영적 추구",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "성경이 있는 정물"
+}
