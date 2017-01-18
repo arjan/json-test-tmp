@@ -1,0 +1,219 @@
+{
+  "floor": 2,
+  "hints": [
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/NgYmoFCdJcz__720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/NgYmoFCdJcz__720x360_1tCnCAD2.jpg",
+        "path": "52f_hints-a.35c07b05705d3f9a5a799a4ae8174da0c1f9f8c5.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 9,
+        "path": "52f_hb_eng.19b20595b092d399479be2844780b9084eb81232.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/yFFxf8Gj94A6_720x1280_qOKgxFDX.jpg",
+        "focal_point": [
+          360,
+          1088
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/yFFxf8Gj94A6_720x360_GyaJIuwC.jpg",
+        "path": "52f_hints-b.b599d4e7e6814f885a7415247d7694b22d06b155.jpg",
+        "width": 720
+      },
+      "quote": "I wanted to have a red note in the green."
+    },
+    {
+      "audio": {
+        "duration": 20,
+        "path": "52f_hc_eng.2659570cf77a852321e4afe4ad82dda5f8c7e834.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/EC-Bs7wSxump_720x1280_FiHT_kSk.jpg",
+        "focal_point": [
+          360,
+          716
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/EC-Bs7wSxump_720x360_0Pk_ka1O.jpg",
+        "path": "52f_hints-c.96a07971553ebc556d063bfa32803a242ed6716a.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/6DmyINSlRAMM_720x1280_qOKgxFDX.jpg",
+        "focal_point": [
+          360,
+          1088
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/6DmyINSlRAMM_720x360_GyaJIuwC.jpg",
+        "path": "52f_hints-d.fbed6750464c175a077e720330776ea773404602.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/5YR5gjfjMWam_720x1280_BW_yjAoy.jpg",
+    "focal_point": [
+      360,
+      320
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/5YR5gjfjMWam_720x300_UlJSVHay.jpg",
+    "path": "52.d4a4e714a16c13dc0d9493ed32d75c6224dd6f67.jpg",
+    "width": 720
+  },
+  "number": 52,
+  "overview_colour": 4278221970,
+  "segments": [
+    {
+      "audio": {
+        "duration": 27,
+        "path": "52f_a1_eng.8d5fbdc9a2311e4f8c77074aa3ed3bd9237f7cd5.mp3"
+      },
+      "footprint": {
+        "background": 4278221970,
+        "foreground": 4282029216
+      },
+      "images": [],
+      "number": "52f",
+      "title": "Vincent’s mark",
+      "type": "AudioSegment"
+    },
+    {
+      "assignment_audio": null,
+      "background_image": {
+        "height": 1200,
+        "orientation": 1,
+        "path": "palette.3ceac0dc8a9f03f6ce393ba0e1f5735a94c43d0a.png",
+        "width": 720
+      },
+      "correct_audio": {
+        "duration": 2,
+        "path": "52f_a2_feedback_eng.df5bcaf3d36f7d579c0882a5970e8787dd8d1975.mp3"
+      },
+      "correct_colours": [
+        4282416323,
+        4288252928,
+        4291373593,
+        4282547757,
+        4293981394
+      ],
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "incorrect_audio": {
+        "duration": 2,
+        "path": "52f_a2_answer_wrong_eng.ce9aef2927159264aa12a4d16e3f2413a4aac311.mp3"
+      },
+      "incorrect_colours": [
+        4286928333,
+        4294938624,
+        4292963523
+      ],
+      "intro_audio": {
+        "duration": 27,
+        "path": "52f_a2_eng.146bc53b7e6f2092955c83c3a953676cf62fa3a3.mp3"
+      },
+      "layers": [],
+      "number": "52g",
+      "patches": [
+        {
+          "path": "M 15.5 122 C -20.4765 94.7219 19 63.5 26.9191 32.7471 C 40.5 -8.5 89.5771 0.0966 104.5681 2.3619 C 116.4051 4.8351 130.4337 9.6934 142.5216 30.8131 C 151.5 46.5 158.382 58.0467 144.5 82 C 119.6181 117.7492 109.1412 113.9697 90.1379 119.881 C 69.0714 126.434 46.2345 145.3034 15.5 122 Z",
+          "root": [
+            326,
+            530
+          ]
+        },
+        {
+          "path": "M 0.5436 67.9957 C 6.2616 23.3443 57.5655 51.0463 85.0323 15.2896 C 107.0622 -13.389 141.7501 -0.1379 133.1566 32.0886 C 129.3964 46.1896 144.5 53 150 67.0577 C 153.75 78.5 154 91.75 144.25 114 C 136.0745 132.6569 109.9747 149.5 82.3185 149.5 C 38.9706 145.9099 55.6121 126.772 41.0331 113.3406 C 24.8714 98.4508 -4.3412 106.141 0.5436 67.9957 Z",
+          "root": [
+            135,
+            578
+          ]
+        },
+        {
+          "path": "M 4.2852 34.4597 C 23.2909 -14.8707 65.3591 1.7286 84.7137 9.8345 C 113.4091 21.8524 121.4203 79.5602 109.9926 119.745 C 103.473 142.6715 76.3027 159.6083 45.7543 148.5104 C 16.4637 132.6232 45.8432 106.178 25 95.75 C 7.5407 87.015 -8.8061 68.4393 4.2852 34.4597 Z",
+          "root": [
+            110,
+            758
+          ]
+        },
+        {
+          "path": "M 65.3138 2.0736 C 118.9545 -8.3212 119.8975 35.8042 139.9115 46.044 C 165.9904 58.0906 165.9904 90.6166 150.2217 108.6866 C 134.483 126.7223 111.5786 122.2394 72.5917 141.2127 C 50.3848 152.02 14.6003 145.1597 2.1883 114.1754 C -5.6449 80.9792 15.8411 74.1245 24.4495 51.8043 C 33.9927 27.0609 40.448 6.8922 65.3138 2.0736 Z",
+          "root": [
+            274,
+            800
+          ]
+        },
+        {
+          "path": "M 0.5436 67.9957 C 6.2616 23.3443 57.5655 51.0462 85.0323 15.2896 C 107.0622 -13.389 141.7501 -0.1379 133.1566 32.0886 C 129.3964 46.1895 150 52.4105 150 67.0577 C 150 84.5073 121.1255 78.0284 123.8754 113.6835 C 125.4419 133.9926 109.9747 149.5 82.3185 149.5 C 38.9706 145.9099 55.6121 126.772 41.0331 113.3405 C 24.8713 98.4507 -4.3412 106.141 0.5436 67.9957 Z",
+          "root": [
+            450,
+            752
+          ]
+        }
+      ],
+      "title": "Play a colour memory game",
+      "type": "PaletteSegment"
+    }
+  ],
+  "title": "Seascape near Les Saint-Marie-de-la-Mer",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "by a river",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "by a lake",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "at the seaside",
+        "audio": null,
+        "is_correct": true
+      }
+    ],
+    "correct_audio": {
+      "duration": 38,
+      "path": "52f_fb_eng.6987279483805456e047a7bef791646dae45fbfd.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 6,
+      "path": "52f_fa_eng.9ca146105e063ddba9f376e0b34eacd848638b7e.mp3"
+    },
+    "question": "Where did Vincent paint this?",
+    "unlock_type": "QuizUnlock"
+  }
+}

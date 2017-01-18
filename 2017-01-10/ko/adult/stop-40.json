@@ -1,0 +1,48 @@
+{
+  "floor": 0,
+  "image": {
+    "blurred_image_path": "thumbnails/t2fPJ6J4BMWW_720x1280_n9CpgZva.jpg",
+    "focal_point": [
+      360,
+      665
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/t2fPJ6J4BMWW_720x300_1X-gwbDN.jpg",
+    "path": "40_.5974ff60df0a718b84eab098dbd6b4a735f50a93.jpg",
+    "width": 720
+  },
+  "number": 40,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 43,
+        "path": "40a_kor.3a8019365bd3590ebf71325c70dbc39c7e5d9086.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "40a",
+      "title": "반 고흐의 팔레트",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 54,
+        "path": "40b_kor.445498e9142df1c85349f886b276b8fe65696ad7.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "40b",
+      "title": "과거로 거슬러 올라가다",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "반 고흐의 팔레트  "
+}

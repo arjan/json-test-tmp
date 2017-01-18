@@ -1,0 +1,187 @@
+{
+  "floor": 1,
+  "hints": [
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/YUcQdNcHsDwA_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/YUcQdNcHsDwA_720x360_1tCnCAD2.jpg",
+        "path": "18_hint-a.90cec2970177a482a6cc75f6c73bb8145b97ba4f.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/PRha_FudlYLJ_720x1280_r-Z2YgTK.jpg",
+        "focal_point": [
+          360,
+          243
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/PRha_FudlYLJ_720x360_Mgso5QYk.jpg",
+        "path": "18_hint-b.c3f40f1bfcb63484ca2cf2e7ef45ac819f491a70.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/Wh5olzR1LzPY_720x1280_ZiljKdqv.jpg",
+        "focal_point": [
+          360,
+          768
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Wh5olzR1LzPY_720x360_ZkXHilZg.jpg",
+        "path": "18_hint-c.09a6f06c4e1d5619583deb0bb5c106026524fc5f.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/uTMZ3GKnu0kO_720x1280_oavWv3F3.jpg",
+        "focal_point": [
+          360,
+          729
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/uTMZ3GKnu0kO_720x360_hdBd3ZKY.jpg",
+        "path": "18_hint-d.a598bac842dcb7ca8b7559988c59afd91f3d8a2d.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/JRrEqhgSzkke_720x1280_QlLpMcbC.jpg",
+    "focal_point": [
+      360,
+      1024
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/JRrEqhgSzkke_720x300_QyjusLq8.jpg",
+    "path": "18.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+    "width": 720
+  },
+  "number": 18,
+  "overview_colour": 4282157647,
+  "segments": [
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "18b_0_v2.b3421f3d735fa44f95b550ebe58823cfcf9fabe2.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "intro_audio": {
+        "duration": 13,
+        "path": "18f_a0_dut.4b4674fa74abe7cd1745a6028385a6beffb2f745.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 11,
+            "path": "18f_a2_dut.e64e97e27a4db03503af17a9ead7a1881cff1914.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_2_v2.d3815459ae2c04fc45237cb6642903fbde713a3d.jpg",
+            "width": 720
+          },
+          "label": "zie je de mix?"
+        },
+        {
+          "audio": {
+            "duration": 15,
+            "path": "18f_a3_dut.0804fb0d88b0e7a8e8bb92e719cb5de168220981.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_3_v2.b3421f3d735fa44f95b550ebe58823cfcf9fabe2.jpg",
+            "width": 720
+          },
+          "label": "de kleuren lichter maken"
+        },
+        {
+          "audio": {
+            "duration": 25,
+            "path": "18f_a1_dut.3b68d9c10bf14406b70ba4b695f133aa36541106.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_1_v2.3fe6b42d5eafe0da4271b3b3e27779680f97bb85.jpg",
+            "width": 720
+          },
+          "label": "zoom in!"
+        }
+      ],
+      "number": "18f",
+      "title": "Ontdek hoe Vincents kleuren werken",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Tuin met geliefden: Square Saint-Pierre",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "4",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "6",
+        "audio": null,
+        "is_correct": true
+      },
+      {
+        "answer": "8",
+        "audio": null,
+        "is_correct": false
+      }
+    ],
+    "correct_audio": {
+      "duration": 19,
+      "path": "18f_fb_dut.5080a7b589e1937b9fec757d975a88f93e05c079.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 8,
+      "path": "18f_fa_dut.e7168b6904c81c56258d3c786aa4e8300ff3ec6e.mp3"
+    },
+    "question": "Hoeveel mensen zijn er in de tuin?",
+    "unlock_type": "QuizUnlock"
+  }
+}

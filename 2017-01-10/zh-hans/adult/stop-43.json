@@ -1,0 +1,124 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/Yv1L8UvF9-QI_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Yv1L8UvF9-QI_720x300_mfj8bjKL.jpg",
+    "path": "43_kaart.923953097fbd11a486f082a189b77eea35df61c2.jpg",
+    "width": 720
+  },
+  "number": 43,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/uA8W5X5H8koN_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "arles-saintremy.06ed81c4710940b69607f7a2d9b9a8bb7b20684a.png",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 11,
+            "path": "43a_2a_chn.f02dd4df3c343ac0739c48b94084b97ac4ac4db1.mp3"
+          },
+          "coordinate": [
+            230,
+            460
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "43a_2a_.577f8d79d73104e7d4a7ea72cc20f42fc2ec0e51.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 400,
+            "orientation": 8,
+            "path": "thumb_43a_2a_revised.a7218b6196795c687d7705fed0c21453c9bb4675.jpg",
+            "width": 513
+          },
+          "panel_coordinate": [
+            410,
+            345
+          ]
+        },
+        {
+          "audio": {
+            "duration": 25,
+            "path": "43a_2b_chn.c99afb6ba31413123e651f0524654e9b5f0c4745.mp3"
+          },
+          "coordinate": [
+            108,
+            1024
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "43a_2b.9bf254c0d3d3676946071801099a90420981d09c.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 400,
+            "orientation": 8,
+            "path": "thumb_43a_2b.7cb850fa75b6b981204d65352591fc38e912bfc6.jpg",
+            "width": 534
+          },
+          "panel_coordinate": [
+            223,
+            1011
+          ]
+        },
+        {
+          "audio": {
+            "duration": 16,
+            "path": "43a_2c_chn.19df81e130cde1359297753bca218cbe24f3a185.mp3"
+          },
+          "coordinate": [
+            280,
+            678
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "43_datavisualisatie_chn.ed5fb5e40cf3aa7c469c74e60827a6f2c0aea718.png",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 8,
+        "path": "43a_2_chn.62ce262214a5397a3a55cc2ca03ce740b0a0037b.mp3"
+      },
+      "intro_video": {
+        "duration": 21,
+        "height": 1280,
+        "orientation": 1,
+        "path": "43_chn.mp4.2442e11f65019a3f5d93ac215aa5cd83dff25afc.mp4",
+        "width": 720
+      },
+      "intro_voiceover_audio": {
+        "duration": 14,
+        "path": "43a_1_chn.612b1c350bbe15d91b0e092e5c8cf82c21d1e3b6.mp3"
+      },
+      "number": "43a",
+      "title": "到圣雷米去",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "普罗旺斯的圣雷米"
+}

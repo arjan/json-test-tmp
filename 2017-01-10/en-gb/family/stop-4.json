@@ -1,0 +1,174 @@
+{
+  "floor": 2,
+  "hints": [
+    {
+      "audio": {
+        "duration": 7,
+        "path": "4f_ha_eng.101a7a99fe9e37f94e3ce09372c386f87fcfcd45.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/oCNeyRi-yCo3_720x1280_7CmYEeqz.jpg",
+        "focal_point": [
+          360,
+          985
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/oCNeyRi-yCo3_720x360_n7DvGMWW.jpg",
+        "path": "4f_hints-a.2886ad9d82b5a0b0cca41505d9b69fae33f659ed.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/7kSxZdOJSfQc_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/7kSxZdOJSfQc_720x360_1tCnCAD2.jpg",
+        "path": "4f_hints-b_v2.afa3d31d51d2238f4adb9979637b6143225d3c06.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 15,
+        "path": "4f_hc_eng.21a46c32ef8f0a1132709123f9d04744d6a514b2.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/c8YgIyPokn4H_720x1280_OUOTRh0m.jpg",
+        "focal_point": [
+          360,
+          192
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/c8YgIyPokn4H_720x360_yS-ZkPr_.jpg",
+        "path": "4f_hints-c_v2.730b14f9be20434d15a871be65d2a88d334b95f8.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 5,
+        "path": "4f_hd_eng.c44da28347300455f08dbfe17bfcfba49ab49587.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/V6GrTBoathWm_720x1280_9945y8W_.jpg",
+        "focal_point": [
+          360,
+          793
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/V6GrTBoathWm_720x360_McuZZbk3.jpg",
+        "path": "4f_hints-d.b917c32fa61ef2363ead9c2f3807cb769a676a42.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/FunSqFut2_1o_720x1280_Cw5HsHyV.jpg",
+    "focal_point": [
+      360,
+      524
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/FunSqFut2_1o_720x300_o6JmsRgx.jpg",
+    "path": "4.dc50b61be5d96bfd21a95a4f9f5c33f53e214b4e.jpg",
+    "width": 720
+  },
+  "number": 4,
+  "overview_colour": 4294888192,
+  "segments": [
+    {
+      "correct_audio": {
+        "duration": 5,
+        "path": "4f_a_answer_eng.854b6762dd887ffef20fb45b36fec0540193d398.mp3"
+      },
+      "correct_colours": [
+        {
+          "base": "blue",
+          "weight": 1
+        },
+        {
+          "base": "yellow",
+          "weight": 4
+        },
+        {
+          "base": "red",
+          "weight": 1
+        }
+      ],
+      "footprint": {
+        "background": 4294967295,
+        "foreground": 4294963200
+      },
+      "incorrect_audio": {
+        "duration": 4,
+        "path": "4f_a_incorrect_eng.7acbd4796afbcd055f6b14cf355df6a2831d704a.mp3"
+      },
+      "incorrect_colours": [
+        {
+          "base": "black",
+          "weight": 2
+        },
+        {
+          "base": "white",
+          "weight": 2
+        }
+      ],
+      "intro_audio": {
+        "duration": 22,
+        "path": "4f_a0_eng.c99cd8fdd4de2cc93324eb7bb2d941dfc71f2204.mp3"
+      },
+      "mix": "white:2=#ffffff,blue:1+yellow:4+red:1+white:2=#e0c956,blue:1=#0047ab,black:2=#000000,yellow:4+red:1=#ffcc00,blue:1+yellow:4+red:1+black:2=#a08916,blue:1+black:2+white:2=#667589,red:1=#ff0000,yellow:4+white:2=#ffff55,blue:1+yellow:4+black:2=#929c19,yellow:4+red:1+black:2+white:2=#c7aa39,blue:1+red:1+black:2=#40122b,red:1+black:2=#550000,blue:1+white:2=#aac2e3,blue:1+red:1+black:2+white:2=#806172,yellow:4+black:2=#aaaa00,yellow:4=#ffff00,blue:1+yellow:4=#ccdb23,black:2+white:2=#808080,blue:1+red:1+white:2=#c092ab,yellow:4+red:1+black:2=#b79200,blue:1+yellow:4+red:1+black:2+white:2=#b3a145,blue:1+yellow:4+red:1=#d5b61d,blue:1+red:1=#802456,blue:1+yellow:4+white:2=#dbe562,red:1+black:2+white:2=#996666,yellow:4+black:2+white:2=#c0c040,blue:1+black:2=#001839,blue:1+yellow:4+black:2+white:2=#aab24c,yellow:4+red:1+white:2=#ffdb49,red:1+white:2=#ffaaaa",
+      "number": "4f",
+      "target_colour": 4292195869,
+      "title": "A perfect house for Vincent",
+      "type": "ColoursSegment"
+    }
+  ],
+  "title": "The Yellow House",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "green",
+        "audio": null,
+        "is_correct": true
+      },
+      {
+        "answer": "pink",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "red",
+        "audio": null,
+        "is_correct": false
+      }
+    ],
+    "correct_audio": {
+      "duration": 31,
+      "path": "4f_fb_eng.2647f3eda997567a9d9d15ce1839696c8d2e0c1c.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 4,
+      "path": "4f_fa_eng.7acbd4796afbcd055f6b14cf355df6a2831d704a.mp3"
+    },
+    "question": "What colour are the shutters on the house in the centre of the painting?",
+    "unlock_type": "QuizUnlock"
+  }
+}

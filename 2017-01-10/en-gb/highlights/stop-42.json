@@ -1,0 +1,34 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/TSR3T5sC7NaW_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/TSR3T5sC7NaW_720x300_mfj8bjKL.jpg",
+    "path": "42.03fc1a73a22bb3b71b6d8df6b1304899fbf0045f.jpg",
+    "width": 720
+  },
+  "number": 42,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 73,
+        "path": "42a_eng.f48ae11cf172909cc8ba79b812ecec15f9971d6f.mp3"
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "42a",
+      "title": "Wheatfields as big as the sea",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Wheatfield with Crows"
+}

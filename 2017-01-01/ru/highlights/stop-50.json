@@ -1,0 +1,121 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/Mdr3P5aVKKLK_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Mdr3P5aVKKLK_720x300_mfj8bjKL.jpg",
+    "path": "50.513a83b1d4c4ad1441830f718193ab486aa5da36.jpg",
+    "width": 720
+  },
+  "number": 50,
+  "overview_colour": 4283974952,
+  "segments": [
+    {
+      "audio": {
+        "duration": 74,
+        "path": "50a_rus.13a206b9725b9637736982d10d3411d0237cce3d.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50a",
+      "title": "У себя дома",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 44,
+        "path": "50b_rus.d09e82c7be7fe1f6df54d409ee77681a2745fbcd.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50b",
+      "title": "Шокирующий ответ",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 720,
+        "orientation": 8,
+        "path": "50c_0.c180b2ba5347f7886ab09ab696274bd824f909bd.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "intro_audio": {
+        "duration": 11,
+        "path": "50c_0_rus.d6a8c742917404d34cf4db109bef79e20162f89b.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 10,
+            "path": "50c_1a_rus.a249d3af08560c74ddf47d3596a27d818b82ea7b.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1a.b05318853f4e52c1f7bc3e2a305d97abbeca3eb7.jpg",
+            "width": 1280
+          },
+          "label": "За работой"
+        },
+        {
+          "audio": {
+            "duration": 8,
+            "path": "50c_1b_rus.f930153fad7c1a2115cc7d9670a0bf3a3e9dd1a6.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1b.bd84d94f46848240fbe1c17e9e3852fdb15a4f4d.jpg",
+            "width": 1280
+          },
+          "label": "Другой эскиз"
+        },
+        {
+          "audio": {
+            "duration": 4,
+            "path": "50c_1c_rus.e5eeb1ba6a5a77553d2864560d902a6005698b0d.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1c.6785d6a6131b10abf84137ce991ab7febf7be26a.jpg",
+            "width": 1280
+          },
+          "label": "Ближе к рукам"
+        },
+        {
+          "audio": {
+            "duration": 11,
+            "path": "50c_1d_rus.495b07e793c3b75257a50f6423f4d8ed8fedc0b8.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1d.5fdd945117753980959b4f58c215f258f6b7443d.jpg",
+            "width": 1280
+          },
+          "label": "Разработка ​​плана"
+        }
+      ],
+      "number": "50c",
+      "title": "Длительное изучение",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Едоки картофеля"
+}

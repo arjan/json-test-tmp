@@ -1,0 +1,48 @@
+{
+  "floor": 0,
+  "image": {
+    "blurred_image_path": "thumbnails/t2fPJ6J4BMWW_720x1280_n9CpgZva.jpg",
+    "focal_point": [
+      360,
+      665
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/t2fPJ6J4BMWW_720x300_1X-gwbDN.jpg",
+    "path": "40_.5974ff60df0a718b84eab098dbd6b4a735f50a93.jpg",
+    "width": 720
+  },
+  "number": 40,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 40,
+        "path": "40a_fre.087590ec06a4bb0e7db7a76cdf9755284d28a27e.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "40a",
+      "title": "La palette de Van Gogh",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 59,
+        "path": "40b_fre.165e215595cc621912832430392b5f630a80034e.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "40b",
+      "title": "Un regard vers le passé",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "La palette de Van Gogh"
+}

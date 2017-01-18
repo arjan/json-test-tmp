@@ -1,0 +1,18 @@
+[
+  {
+    "building": "main_building",
+    "id": 1,
+    "long_title": "Свободный осмотр",
+    "slug": "adult",
+    "title": "Свободный осмотр",
+    "type": "unordered"
+  },
+  {
+    "building": "main_building",
+    "id": 2,
+    "long_title": "Посмотреть самые знаменитые картины",
+    "slug": "highlights",
+    "title": "Посмотреть самые знаменитые картины",
+    "type": "ordered"
+  }
+]

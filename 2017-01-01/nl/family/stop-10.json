@@ -1,0 +1,167 @@
+{
+  "floor": 3,
+  "hints": [
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/VTzVSESzsvUO_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/VTzVSESzsvUO_720x360_1tCnCAD2.jpg",
+        "path": "10f_hint_a.32aa4c58757d9afb9b3d94fa215697572f7ecb41.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/zZlhcH6FPrb__720x1280_7CmYEeqz.jpg",
+        "focal_point": [
+          360,
+          985
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/zZlhcH6FPrb__720x360_n7DvGMWW.jpg",
+        "path": "10f_hint_b.57d106c64f543ed6ee303b87bb595a70593c03e4.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/bGKsR0yN2jRR_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/bGKsR0yN2jRR_720x360_1tCnCAD2.jpg",
+        "path": "10f_hint_c_2.ba72dea5174716c206e06d028a4f5de162bb65a2.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/8lhC9MldGlVY_720x1280_NqWJz72v.jpg",
+        "focal_point": [
+          360,
+          972
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/8lhC9MldGlVY_720x360_GitJqc5b.jpg",
+        "path": "10f_hint_d_v2.25ac80a8e12d0cc9646da056071ed6ff307dd546.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/7oCreZd8EcMe_720x1280_LoRTsT6h.jpg",
+    "focal_point": [
+      356,
+      980
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/7oCreZd8EcMe_720x300_dB_tEh7B.jpg",
+    "path": "10.d51f9d1d7d5f31361d42cc9c5c77a5870bca2632.jpg",
+    "width": 720
+  },
+  "number": 10,
+  "overview_colour": 4278221970,
+  "segments": [
+    {
+      "answers": [
+        {
+          "answer": "Van onderaf keek hij omhoog naar de boom.",
+          "audio": {
+            "duration": 15,
+            "path": "10f_a_answer_dut.6f89aec4c1ff100c5561d51a876b4888a4ff528c.mp3"
+          },
+          "is_correct": true
+        },
+        {
+          "answer": "Hij keek naar meer dan één boom.",
+          "audio": {
+            "duration": 15,
+            "path": "10f_a_answer_dut.6f89aec4c1ff100c5561d51a876b4888a4ff528c.mp3"
+          },
+          "is_correct": true
+        },
+        {
+          "answer": "Hij had takken in een vaas gezet.",
+          "audio": {
+            "duration": 15,
+            "path": "10f_a_answer_dut.6f89aec4c1ff100c5561d51a876b4888a4ff528c.mp3"
+          },
+          "is_correct": true
+        }
+      ],
+      "footprint": {
+        "background": 4278221970,
+        "foreground": 4282029216
+      },
+      "intro_audio": {
+        "duration": 26,
+        "path": "10f_a_0_dut.2a0fa272e7baf1c61481d4b3ee32ccbdcf331ca5.mp3"
+      },
+      "number": "10f",
+      "question": "Waar heeft Vincent dit geschilderd?",
+      "title": "Waar heeft Vincent dit geschilderd?",
+      "type": "QuizSegment"
+    }
+  ],
+  "title": "Amandelbloesem",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "bloemen",
+        "audio": null,
+        "is_correct": true
+      },
+      {
+        "answer": "fruit",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "groenten",
+        "audio": null,
+        "is_correct": false
+      }
+    ],
+    "correct_audio": {
+      "duration": 33,
+      "path": "10f_fb_dut.def79e5f0de00945ed57d076ee791238d6a0f1ba.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 6,
+      "path": "10f_fa_dut.4f976a7b80d16735fc69ef47e5b0cd451f963d7f.mp3"
+    },
+    "question": "Wat groeit er aan de bomen?",
+    "unlock_type": "QuizUnlock"
+  }
+}

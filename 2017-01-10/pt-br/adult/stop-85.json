@@ -1,0 +1,124 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/yN1NtejvrVoy_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/yN1NtejvrVoy_720x300_mfj8bjKL.jpg",
+    "path": "85_kaart.f6a08e3ee87e5e0af167d3bbae11cdeb9a6e9f9f.jpg",
+    "width": 720
+  },
+  "number": 85,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/BvHJd0kECUFC_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "85a_final_frame.f6a08e3ee87e5e0af167d3bbae11cdeb9a6e9f9f.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 29,
+            "path": "85a_2a_prt.9eb3f12683d38de480e50561801125bc015fc346.mp3"
+          },
+          "coordinate": [
+            367,
+            422
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "85a_2a.803f1cb8ac63850a07584e0e1c41135425909e95.jpg",
+            "width": 720
+          },
+          "panel": {
+            "height": 593,
+            "orientation": 1,
+            "path": "thumb_85a_2a.375e7e4c4e076d0b85ac09713619129a3de90be0.jpg",
+            "width": 360
+          },
+          "panel_coordinate": [
+            432,
+            384
+          ]
+        },
+        {
+          "audio": {
+            "duration": 24,
+            "path": "85a_2b_prt.058115b5fbc77d27abc5553257ae19298e436181.mp3"
+          },
+          "coordinate": [
+            216,
+            1100
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "85a_2b_v2.7f4613934880a5b04ea9023241b5e43fbd645494.jpg",
+            "width": 720
+          },
+          "panel": {
+            "height": 595,
+            "orientation": 1,
+            "path": "thumb_85a_2b.b14b879fb25722847bfa319e790cb349bd3d1fc5.png",
+            "width": 360
+          },
+          "panel_coordinate": [
+            115,
+            896
+          ]
+        },
+        {
+          "audio": {
+            "duration": 8,
+            "path": "85a_2c_prt.5633301106eadff77d9f5eb576a63a2df50745a8.mp3"
+          },
+          "coordinate": [
+            381,
+            742
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "85_datavisualisatie_prt.5d6e5c3d88fc91a47a001d89cdb88dd5403564fa.png",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 9,
+        "path": "85a_2_prt.2d093e18d96fa978a1cb65aee8a2075b6178414b.mp3"
+      },
+      "intro_video": {
+        "duration": 21,
+        "height": 1280,
+        "orientation": 1,
+        "path": "85a_prt.mp4.195676d423ccd326e187ba99b83eb88c5a2bedd5.mp4",
+        "width": 720
+      },
+      "intro_voiceover_audio": {
+        "duration": 20,
+        "path": "85a_1_prt.2e726b50442f9f280c9036265e0d7bbe7e696d91.mp3"
+      },
+      "number": "85a",
+      "title": "Viagem a Paris",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Paris"
+}

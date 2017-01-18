@@ -1,0 +1,48 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/zd0-0sw4wNis_720x1280_n9CpgZva.jpg",
+    "focal_point": [
+      360,
+      665
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/zd0-0sw4wNis_720x300_1X-gwbDN.jpg",
+    "path": "99.d9653c65b691c1870c1cc92c454b191e8df27675.jpg",
+    "width": 720
+  },
+  "number": 99,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 89,
+        "path": "99a_rus.87102f56ef459117f0c2824a786d368a583f8a3e.mp3"
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "images": [],
+      "number": "99a",
+      "title": "Разбрасывание семян",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 58,
+        "path": "99b_rus.aab727fd9ebb01764200c77b25bf9cf392c8320d.mp3"
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "images": [],
+      "number": "99b",
+      "title": "Ваше понимание",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Сеятель"
+}

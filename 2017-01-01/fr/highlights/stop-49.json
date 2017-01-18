@@ -1,0 +1,34 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/jzaIy9GqkbDt_720x1280_BME5Z4W0.jpg",
+    "focal_point": [
+      360,
+      934
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/jzaIy9GqkbDt_720x300_AxJKfDAM.jpg",
+    "path": "49.6c0294a5d75d275901bfcbf47a12f44c4a401d54.jpg",
+    "width": 720
+  },
+  "number": 49,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 63,
+        "path": "49a_fre.96f539019fbbfbf29789f6b90398a84288845131.mp3"
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "49a",
+      "title": "Bleu et jaune",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Les Iris"
+}

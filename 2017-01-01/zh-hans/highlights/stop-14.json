@@ -1,0 +1,34 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/CnCp-9lXqYGe_720x1280_hojwExeZ.jpg",
+    "focal_point": [
+      360,
+      704
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/CnCp-9lXqYGe_720x300_Hq6Sn6Uk.jpg",
+    "path": "14.7173a2d07bbdf04ab7837eec6c1ac00cd2d39ef5.jpg",
+    "width": 720
+  },
+  "number": 14,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 80,
+        "path": "14a_chn.c021b37c2fb3a19920b0d656dccd30308861647e.mp3"
+      },
+      "footprint": {
+        "background": 4278221970,
+        "foreground": 4282029216
+      },
+      "images": [],
+      "number": "14a",
+      "title": "科学理论",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "戴灰色毡帽的自画像"
+}

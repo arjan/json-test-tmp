@@ -1,0 +1,107 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/u3Kpolvxn2kV_720x1280_a0z6gcbV.jpg",
+    "focal_point": [
+      360,
+      742
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/u3Kpolvxn2kV_720x300_-6UcERp7.jpg",
+    "path": "8.8194a0ffe9fd3f2930057cc8fb50ed39be51c866.jpg",
+    "width": 720
+  },
+  "number": 8,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 42,
+        "path": "8a_eng.d33e6b2d527afc79a2e208b24ec98f825bb49e68.mp3"
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "images": [],
+      "number": "8a",
+      "title": "Boats as inspiration",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "8b_0_v2.2dc9e2229343eeb47a80cdf913a0281b1f36b456.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292893491,
+        "foreground": 4291969329
+      },
+      "intro_audio": {
+        "duration": 9,
+        "path": "8b_0_eng.8583ce458c8e6f45018e455c26e4506d8f170848.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 4,
+            "path": "8b_1a_eng.aa88b09bf66c60000fabd240f73dbeba72a8e774.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1a.b830ae6b32efbedc138459e3217e95526ba7d94b.jpg",
+            "width": 720
+          },
+          "label": "Elegant boats"
+        },
+        {
+          "audio": {
+            "duration": 5,
+            "path": "8b_1b_eng.4ade99673d69bba6ece83262ce61fed48991501b.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1b.1fb19c751ba0b732acf528715b01a247974a2ff0.jpg",
+            "width": 720
+          },
+          "label": "Boats near the shore"
+        },
+        {
+          "audio": {
+            "duration": 4,
+            "path": "8b_1c_eng.c2de8f81f40ca23d209c6b12f262e00d94616c4f.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1c.07319f1338b934e66fd39602cb45ed8a30910ddd.jpg",
+            "width": 720
+          },
+          "label": "Lines of rain"
+        },
+        {
+          "audio": {
+            "duration": 5,
+            "path": "8b_1d_eng.fab6edf4d4c8ba7056a7c4df3f678a3195ab38f0.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1d_2.b888cab3d31c258a28dc0ed028859c4f50d720a8.jpg",
+            "width": 720
+          },
+          "label": "Leaves frame the view"
+        }
+      ],
+      "number": "8b",
+      "title": "Van Gogh collects art",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Fishing Boats on the beach at Les Saint-Maries-de-la-Mer"
+}

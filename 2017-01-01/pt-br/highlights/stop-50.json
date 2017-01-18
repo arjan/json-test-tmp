@@ -1,0 +1,121 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/Mdr3P5aVKKLK_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Mdr3P5aVKKLK_720x300_mfj8bjKL.jpg",
+    "path": "50.513a83b1d4c4ad1441830f718193ab486aa5da36.jpg",
+    "width": 720
+  },
+  "number": 50,
+  "overview_colour": 4283974952,
+  "segments": [
+    {
+      "audio": {
+        "duration": 90,
+        "path": "50a_prt.75fd5757da710ae4edb573030123d6e045487db3.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50a",
+      "title": "Em Sua Casa",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 54,
+        "path": "50b_prt.35f7a1319875e5c0746a63d3a29f74c0ab9f386d.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50b",
+      "title": "Uma Carta Inusitada",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 720,
+        "orientation": 8,
+        "path": "50c_0.c180b2ba5347f7886ab09ab696274bd824f909bd.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "intro_audio": {
+        "duration": 13,
+        "path": "50c_0_prt.2c1542a52bdb35a5af7038968b35501d0e4e8163.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 11,
+            "path": "50c_1a_prt.365ef51dfd5f6df2707d0ceda1091406132ff37f.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1a.b05318853f4e52c1f7bc3e2a305d97abbeca3eb7.jpg",
+            "width": 1280
+          },
+          "label": "Suas Mãos no Trabalho"
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "50c_1b_prt.8544295e34b18579c545c283feacd9b7dffed353.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1b.bd84d94f46848240fbe1c17e9e3852fdb15a4f4d.jpg",
+            "width": 1280
+          },
+          "label": "Outro Esboço"
+        },
+        {
+          "audio": {
+            "duration": 5,
+            "path": "50c_1c_prt.d6a20c21dec2eecb95b183015395afedba462597.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1c.6785d6a6131b10abf84137ce991ab7febf7be26a.jpg",
+            "width": 1280
+          },
+          "label": "Mais Próximo das Mãos"
+        },
+        {
+          "audio": {
+            "duration": 11,
+            "path": "50c_1d_prt.a0049be9418975134e059f0598bbcba0d311d6ed.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1d.5fdd945117753980959b4f58c215f258f6b7443d.jpg",
+            "width": 1280
+          },
+          "label": "Elaborando o seu plano"
+        }
+      ],
+      "number": "50c",
+      "title": "Um Longo Estudo",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Os Comedores de Batatas"
+}

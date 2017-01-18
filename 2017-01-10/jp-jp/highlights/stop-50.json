@@ -1,0 +1,121 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/Mdr3P5aVKKLK_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Mdr3P5aVKKLK_720x300_mfj8bjKL.jpg",
+    "path": "50.513a83b1d4c4ad1441830f718193ab486aa5da36.jpg",
+    "width": 720
+  },
+  "number": 50,
+  "overview_colour": 4283974952,
+  "segments": [
+    {
+      "audio": {
+        "duration": 90,
+        "path": "50a_jpn.bfb593fc597a2b5b2909c4855852b02c3c997e8b.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50a",
+      "title": "家の中で",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 62,
+        "path": "50b_jpn.95d1a71aa943956097c8fb2b54d61d655bb90568.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50b",
+      "title": "衝撃的な返事",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 720,
+        "orientation": 8,
+        "path": "50c_0.c180b2ba5347f7886ab09ab696274bd824f909bd.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "intro_audio": {
+        "duration": 15,
+        "path": "50c_0_jpn.d4b99c18e22c1ea1ba6e0c7389a3b5e740742b5b.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 11,
+            "path": "50c_1a_jpn.8394755eaf6e25ec1d283ce741fc2093aacdf0a7.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1a.b05318853f4e52c1f7bc3e2a305d97abbeca3eb7.jpg",
+            "width": 1280
+          },
+          "label": "制作中の手"
+        },
+        {
+          "audio": {
+            "duration": 8,
+            "path": "50c_1b_jpn.ed6e951809255b1a78d30133e03fcd1dc2ae0971.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1b.bd84d94f46848240fbe1c17e9e3852fdb15a4f4d.jpg",
+            "width": 1280
+          },
+          "label": "別のスケッチ"
+        },
+        {
+          "audio": {
+            "duration": 4,
+            "path": "50c_1c_jpn.490d46e912e72bcefd53c4fdae681c88a95c684b.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1c.6785d6a6131b10abf84137ce991ab7febf7be26a.jpg",
+            "width": 1280
+          },
+          "label": "手のクローズアップ"
+        },
+        {
+          "audio": {
+            "duration": 14,
+            "path": "50c_1d_jpn.c1a601c17245ef24d46c72858ed5744f7e6e3527.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1d.5fdd945117753980959b4f58c215f258f6b7443d.jpg",
+            "width": 1280
+          },
+          "label": "構図を決める"
+        }
+      ],
+      "number": "50c",
+      "title": "長い習作",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "じゃがいもを食べる人達"
+}

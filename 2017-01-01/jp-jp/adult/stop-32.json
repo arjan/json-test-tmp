@@ -1,0 +1,100 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/xBMXmvs75g79_720x1280_CD2D1u_4.jpg",
+    "focal_point": [
+      360,
+      448
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/xBMXmvs75g79_720x300_u9whUD-F.jpg",
+    "path": "32.44d63a0e3cc415fbd4a448d8d97b1abdf8f7f4ef.jpg",
+    "width": 720
+  },
+  "number": 32,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 74,
+        "path": "32a_jpn.0d3a542c2988222a4b57fed8e0a026c7935d74dc.mp3"
+      },
+      "footprint": {
+        "background": 4288928744,
+        "foreground": 4288400078
+      },
+      "images": [],
+      "number": "32a",
+      "title": "休息をとる",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/S16HRtCnq4qu_720x1280_16jGVcjb.png",
+        "height": 720,
+        "orientation": 8,
+        "path": "32b_0.6b859ba9ec1191576487b48eb1bcf95a8354a14d.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 14,
+            "path": "32b_1_jpn.c358cfd2029232770f0fda124e2d592c76f483ef.mp3"
+          },
+          "coordinate": [
+            1049,
+            144
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 14,
+            "path": "32b_2_jpn.ad74839703eb52a877678fd97883a11c87544e5a.mp3"
+          },
+          "coordinate": [
+            729,
+            360
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "32b_3_jpn.44e4d7f64d171eed9bca1ae539103786bfd6bbb8.mp3"
+          },
+          "coordinate": [
+            409,
+            180
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "32b_3_.0bed5aa5f76c90632ca5a708f312d78eceb2a23c.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": null,
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "32b",
+      "title": "ゴッホの寝室へ",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "寝室"
+}

@@ -1,0 +1,187 @@
+{
+  "floor": 1,
+  "hints": [
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/YUcQdNcHsDwA_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/YUcQdNcHsDwA_720x360_1tCnCAD2.jpg",
+        "path": "18_hint-a.90cec2970177a482a6cc75f6c73bb8145b97ba4f.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/PRha_FudlYLJ_720x1280_r-Z2YgTK.jpg",
+        "focal_point": [
+          360,
+          243
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/PRha_FudlYLJ_720x360_Mgso5QYk.jpg",
+        "path": "18_hint-b.c3f40f1bfcb63484ca2cf2e7ef45ac819f491a70.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/Wh5olzR1LzPY_720x1280_ZiljKdqv.jpg",
+        "focal_point": [
+          360,
+          768
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Wh5olzR1LzPY_720x360_ZkXHilZg.jpg",
+        "path": "18_hint-c.09a6f06c4e1d5619583deb0bb5c106026524fc5f.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/uTMZ3GKnu0kO_720x1280_oavWv3F3.jpg",
+        "focal_point": [
+          360,
+          729
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/uTMZ3GKnu0kO_720x360_hdBd3ZKY.jpg",
+        "path": "18_hint-d.a598bac842dcb7ca8b7559988c59afd91f3d8a2d.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/JRrEqhgSzkke_720x1280_QlLpMcbC.jpg",
+    "focal_point": [
+      360,
+      1024
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/JRrEqhgSzkke_720x300_QyjusLq8.jpg",
+    "path": "18.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+    "width": 720
+  },
+  "number": 18,
+  "overview_colour": 4282157647,
+  "segments": [
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "18b_0_v2.b3421f3d735fa44f95b550ebe58823cfcf9fabe2.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "intro_audio": {
+        "duration": 13,
+        "path": "18f_a0_eng.a7eddd6c40ca62e642aec55ae756b0d317ac3af0.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 11,
+            "path": "18f_a2_eng.c00aaef4e9bc42c6c807fad4d439640649b686cb.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_2_v2.d3815459ae2c04fc45237cb6642903fbde713a3d.jpg",
+            "width": 720
+          },
+          "label": "see the mix?"
+        },
+        {
+          "audio": {
+            "duration": 15,
+            "path": "18f_a3_eng.487c146e243741c10a5c36754fb504aa04f85bc5.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_3_v2.b3421f3d735fa44f95b550ebe58823cfcf9fabe2.jpg",
+            "width": 720
+          },
+          "label": "turning up the brightness"
+        },
+        {
+          "audio": {
+            "duration": 26,
+            "path": "18f_a1_eng.f80204204e905b1582902adf942462e1be78cabd.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_1_v2.3fe6b42d5eafe0da4271b3b3e27779680f97bb85.jpg",
+            "width": 720
+          },
+          "label": "zoom in!"
+        }
+      ],
+      "number": "18f",
+      "title": "Discover how Vincent’s colours work",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Garden With Courting Couples: Square Saint-Pierre",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "4",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "6",
+        "audio": null,
+        "is_correct": true
+      },
+      {
+        "answer": "8",
+        "audio": null,
+        "is_correct": false
+      }
+    ],
+    "correct_audio": {
+      "duration": 22,
+      "path": "18f_fb_eng.4207d8e8ce9ea36189f86388a8225b127d6c405d.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 8,
+      "path": "18f_fa_eng.a299d9823bb15beb4dadfa3106dfc3a6d3256181.mp3"
+    },
+    "question": "How many people are there in the garden?",
+    "unlock_type": "QuizUnlock"
+  }
+}

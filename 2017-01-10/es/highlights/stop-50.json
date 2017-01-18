@@ -1,0 +1,121 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/Mdr3P5aVKKLK_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Mdr3P5aVKKLK_720x300_mfj8bjKL.jpg",
+    "path": "50.513a83b1d4c4ad1441830f718193ab486aa5da36.jpg",
+    "width": 720
+  },
+  "number": 50,
+  "overview_colour": 4283974952,
+  "segments": [
+    {
+      "audio": {
+        "duration": 83,
+        "path": "50a_spa.580d6f0deac2f30f2a443e20e3272317cfe6fb17.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50a",
+      "title": "En su hogar",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 58,
+        "path": "50b_spa.a264408f2deae8b603e8be9794334535aaf8ca3e.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50b",
+      "title": "Una respuesta chocante",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 720,
+        "orientation": 8,
+        "path": "50c_0.c180b2ba5347f7886ab09ab696274bd824f909bd.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "intro_audio": {
+        "duration": 13,
+        "path": "50c_0_spa.0fb65e8d77f283865af85c404341cd1e1de6b774.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 11,
+            "path": "50c_1a_spa.14e43202360c5557122a20ccc3b99921557feec9.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1a.b05318853f4e52c1f7bc3e2a305d97abbeca3eb7.jpg",
+            "width": 1280
+          },
+          "label": "Su mano de obra"
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "50c_1b_spa.893bbb656a9bf3d5324a508183bff62c9f3cad68.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1b.bd84d94f46848240fbe1c17e9e3852fdb15a4f4d.jpg",
+            "width": 1280
+          },
+          "label": "Otro boceto"
+        },
+        {
+          "audio": {
+            "duration": 4,
+            "path": "50c_1c_spa.f34d87270a7398fc411ab8891bbdd20e1386958b.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1c.6785d6a6131b10abf84137ce991ab7febf7be26a.jpg",
+            "width": 1280
+          },
+          "label": "Más cerca de las manos"
+        },
+        {
+          "audio": {
+            "duration": 11,
+            "path": "50c_1d_spa.1bac85ce75d16923013376a5da47741ab2e16cac.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1d.5fdd945117753980959b4f58c215f258f6b7443d.jpg",
+            "width": 1280
+          },
+          "label": "Tramando su plan"
+        }
+      ],
+      "number": "50c",
+      "title": "Un prolongado estudio",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Los comedores de patatas"
+}

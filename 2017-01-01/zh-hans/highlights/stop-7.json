@@ -1,0 +1,133 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/ZezUWXgzJuQ4_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/ZezUWXgzJuQ4_720x300_74tHK9Wi.jpg",
+    "path": "7.47465025ec0c514e3f2a4f467d9526957f5854c1.jpg",
+    "width": 720
+  },
+  "number": 7,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": null,
+      "draggables": [
+        {
+          "audio": {
+            "duration": 10,
+            "path": "7a_2_chn.2d376939a56a78803b088316954b3764f1db6a69.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-leeg_2.5dd51fc63e7162a55ccc0a78f46d1eefe4c9c208.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 180,
+            "orientation": 1,
+            "path": "7_brief-schuin_.d5ffbc15bb753d71fe0cbd557113fc5b4ff28126.png",
+            "width": 150
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-2_chn.0abdb12b0acd8abb588d79d033350bf70262e9aa.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 670,
+            "orientation": 1,
+            "path": "7_brief-2_chn.6d45569a33fed5838fe0a231d7f80352a6bc1081.png",
+            "width": 550
+          }
+        },
+        {
+          "audio": {
+            "duration": 12,
+            "path": "7a_3_chn.61c12d11898060a808ec82d6119966f483f12489.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-leeg_2.5dd51fc63e7162a55ccc0a78f46d1eefe4c9c208.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 180,
+            "orientation": 1,
+            "path": "7_brief-schuin_.d5ffbc15bb753d71fe0cbd557113fc5b4ff28126.png",
+            "width": 150
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-3_chn.aec88b40259dd925033f192408f039587e07469a.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 670,
+            "orientation": 1,
+            "path": "7_brief-3_chn.16c1dbe54b56d97999c05f7e998e69d87b6bd724.png",
+            "width": 550
+          }
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "7a_1_chn.a93cd025345545e4c3f8266ba8a4d7cd92565316.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-leeg_2.5dd51fc63e7162a55ccc0a78f46d1eefe4c9c208.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 180,
+            "orientation": 1,
+            "path": "7_brief-schuin_.d5ffbc15bb753d71fe0cbd557113fc5b4ff28126.png",
+            "width": 150
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-1_chn.6cdc6c426d8884ee6b0fff596249c41b072273ad.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 670,
+            "orientation": 1,
+            "path": "7_brief-1_chn.e168a370f423c81dc5b401d44a33a631018b5cbb.png",
+            "width": 550
+          }
+        }
+      ],
+      "drop_image": {
+        "height": 670,
+        "orientation": 1,
+        "path": "7a_drag_area.f3789b9e9e649563e6a0a04ce5aa93f408d8a9df.png",
+        "width": 550
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "intro_audio": {
+        "duration": 17,
+        "path": "7a_0_chn.6f59835abbb7b14b5d6589cb5b67a8246f40f553.mp3"
+      },
+      "is_bottom_aligned": false,
+      "is_question": false,
+      "number": "7a",
+      "title": "关于感情的话",
+      "type": "DragAndDropSegment"
+    }
+  ],
+  "title": "西奥·梵高的橱柜"
+}

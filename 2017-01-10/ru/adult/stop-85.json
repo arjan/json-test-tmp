@@ -1,0 +1,124 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/yN1NtejvrVoy_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/yN1NtejvrVoy_720x300_mfj8bjKL.jpg",
+    "path": "85_kaart.f6a08e3ee87e5e0af167d3bbae11cdeb9a6e9f9f.jpg",
+    "width": 720
+  },
+  "number": 85,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/BvHJd0kECUFC_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "85a_final_frame.f6a08e3ee87e5e0af167d3bbae11cdeb9a6e9f9f.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 28,
+            "path": "85a_2a_rus.17e81f9c78a7c6858b6a1671ae9be75733f97666.mp3"
+          },
+          "coordinate": [
+            367,
+            422
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "85a_2a.803f1cb8ac63850a07584e0e1c41135425909e95.jpg",
+            "width": 720
+          },
+          "panel": {
+            "height": 593,
+            "orientation": 1,
+            "path": "thumb_85a_2a.375e7e4c4e076d0b85ac09713619129a3de90be0.jpg",
+            "width": 360
+          },
+          "panel_coordinate": [
+            432,
+            384
+          ]
+        },
+        {
+          "audio": {
+            "duration": 20,
+            "path": "85a_2b_rus.24847d7024890e56e45da22e0ca695d402cb6daa.mp3"
+          },
+          "coordinate": [
+            216,
+            1100
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "85a_2b_v2.7f4613934880a5b04ea9023241b5e43fbd645494.jpg",
+            "width": 720
+          },
+          "panel": {
+            "height": 595,
+            "orientation": 1,
+            "path": "thumb_85a_2b.b14b879fb25722847bfa319e790cb349bd3d1fc5.png",
+            "width": 360
+          },
+          "panel_coordinate": [
+            115,
+            896
+          ]
+        },
+        {
+          "audio": {
+            "duration": 8,
+            "path": "85a_2c_rus.b608e130f3fdf478c181d7bdb794598c78b8a0af.mp3"
+          },
+          "coordinate": [
+            381,
+            742
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "85_datavisualisatie_rus.fdf7214cc791ba76ca0ef5ba7f1c496294893c16.png",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 8,
+        "path": "85a_2_rus.8f7198ea959438df0b212e048385cdb41af3dc43.mp3"
+      },
+      "intro_video": {
+        "duration": 21,
+        "height": 1280,
+        "orientation": 1,
+        "path": "85a_rus.mp4.f8aad325992a2ff1f2507517c6ab237bbc40eb75.mp4",
+        "width": 720
+      },
+      "intro_voiceover_audio": {
+        "duration": 17,
+        "path": "85a_1_rus.df1f02ed0845238b1f13e36f6e3d15096be81c18.mp3"
+      },
+      "number": "85a",
+      "title": "Прибытие в Париж",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Париж"
+}

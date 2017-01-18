@@ -1,0 +1,219 @@
+{
+  "floor": 0,
+  "hints": [
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/FSXynK0sW7gb_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/FSXynK0sW7gb_720x360_1tCnCAD2.jpg",
+        "path": "48f_hint-a.6725c998b55abf64d4182aa4274425dc9f582931.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/_sLw6E8Q8KVH_720x1280_oavWv3F3.jpg",
+        "focal_point": [
+          360,
+          729
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/_sLw6E8Q8KVH_720x360_hdBd3ZKY.jpg",
+        "path": "48f_hint-b.0871567f3d1ae48eadf1f0747585e5ed7e612bec.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/a0lczRdcO0E8_720x1280_uB9JOqxi.jpg",
+        "focal_point": [
+          360,
+          576
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/a0lczRdcO0E8_720x360_mfj8bjKL.jpg",
+        "path": "48f_hint-c.85751bd60b561c4984c65a8171084395f656b3c3.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/mfY-2vFnAOEy_720x1280_r-Z2YgTK.jpg",
+        "focal_point": [
+          360,
+          243
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/mfY-2vFnAOEy_720x360_Mgso5QYk.jpg",
+        "path": "48f_hint-d.b8791db387541bef553baf2201a7bd5227deae76.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/a0lczRdcO0E8_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/a0lczRdcO0E8_720x300_mfj8bjKL.jpg",
+    "path": "48f_hint-c.85751bd60b561c4984c65a8171084395f656b3c3.jpg",
+    "width": 720
+  },
+  "number": 48,
+  "overview_colour": 4278221970,
+  "segments": [
+    {
+      "audio": {
+        "duration": 41,
+        "path": "48f_a1_eng.ec1a8da837021ea270008b3eddb8493a8e9b44b7.mp3"
+      },
+      "footprint": {
+        "background": 4278221970,
+        "foreground": 4282029216
+      },
+      "images": [],
+      "number": "48f",
+      "title": "Peek around the back",
+      "type": "AudioSegment"
+    },
+    {
+      "assignment_audio": null,
+      "background_image": {
+        "height": 1200,
+        "orientation": 1,
+        "path": "palette.3ceac0dc8a9f03f6ce393ba0e1f5735a94c43d0a.png",
+        "width": 720
+      },
+      "correct_audio": {
+        "duration": 33,
+        "path": "48f_a2b_after-done_eng.a1fc014e9495796e03a906b4cff52ae4e1e9f961.mp3"
+      },
+      "correct_colours": [
+        4284711852,
+        4285357134,
+        4285104207,
+        4281298283,
+        4281019428
+      ],
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "incorrect_audio": {
+        "duration": 9,
+        "path": "48f_a2b_eng.882033afad67717d70a5afec660a27ea6feb1e37.mp3"
+      },
+      "incorrect_colours": [
+        4287634732,
+        4287975057,
+        4289612548
+      ],
+      "intro_audio": {
+        "duration": 12,
+        "path": "48f_a2a_eng.ea76fd57e692c0bce492360a64859615d0522652.mp3"
+      },
+      "layers": [],
+      "number": "48g",
+      "patches": [
+        {
+          "path": "M 15.5 122 C -20.4765 94.7219 19 63.5 26.9191 32.7471 C 40.5 -8.5 89.5771 0.0966 104.5681 2.3619 C 116.4051 4.8351 130.4337 9.6934 142.5216 30.8131 C 151.5 46.5 158.382 58.0467 144.5 82 C 119.6181 117.7492 109.1412 113.9697 90.1379 119.881 C 69.0714 126.434 46.2345 145.3034 15.5 122 Z",
+          "root": [
+            326,
+            530
+          ]
+        },
+        {
+          "path": "M 0.5436 67.9957 C 6.2616 23.3443 57.5655 51.0463 85.0323 15.2896 C 107.0622 -13.389 141.7501 -0.1379 133.1566 32.0886 C 129.3964 46.1896 144.5 53 150 67.0577 C 153.75 78.5 154 91.75 144.25 114 C 136.0745 132.6569 109.9747 149.5 82.3185 149.5 C 38.9706 145.9099 55.6121 126.772 41.0331 113.3406 C 24.8714 98.4508 -4.3412 106.141 0.5436 67.9957 Z",
+          "root": [
+            135,
+            578
+          ]
+        },
+        {
+          "path": "M 4.2852 34.4597 C 23.2909 -14.8707 65.3591 1.7286 84.7137 9.8345 C 113.4091 21.8524 121.4203 79.5602 109.9926 119.745 C 103.473 142.6715 76.3027 159.6083 45.7543 148.5104 C 16.4637 132.6232 45.8432 106.178 25 95.75 C 7.5407 87.015 -8.8061 68.4393 4.2852 34.4597 Z",
+          "root": [
+            110,
+            758
+          ]
+        },
+        {
+          "path": "M 65.3138 2.0736 C 118.9545 -8.3212 119.8975 35.8042 139.9115 46.044 C 165.9904 58.0906 165.9904 90.6166 150.2217 108.6866 C 134.483 126.7223 111.5786 122.2394 72.5917 141.2127 C 50.3848 152.02 14.6003 145.1597 2.1883 114.1754 C -5.6449 80.9792 15.8411 74.1245 24.4495 51.8043 C 33.9927 27.0609 40.448 6.8922 65.3138 2.0736 Z",
+          "root": [
+            274,
+            800
+          ]
+        },
+        {
+          "path": "M 0.5436 67.9957 C 6.2616 23.3443 57.5655 51.0462 85.0323 15.2896 C 107.0622 -13.389 141.7501 -0.1379 133.1566 32.0886 C 129.3964 46.1895 150 52.4105 150 67.0577 C 150 84.5073 121.1255 78.0284 123.8754 113.6835 C 125.4419 133.9926 109.9747 149.5 82.3185 149.5 C 38.9706 145.9099 55.6121 126.772 41.0331 113.3405 C 24.8713 98.4507 -4.3412 106.141 0.5436 67.9957 Z",
+          "root": [
+            450,
+            752
+          ]
+        }
+      ],
+      "title": "What colour eyes do you see?",
+      "type": "PaletteSegment"
+    }
+  ],
+  "title": "Self-Portrait with Straw Hat and Pipe",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "a white coat",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "a blue jacket",
+        "audio": null,
+        "is_correct": true
+      },
+      {
+        "answer": "a thick scarf",
+        "audio": null,
+        "is_correct": false
+      }
+    ],
+    "correct_audio": {
+      "duration": 24,
+      "path": "48f_fb_eng.6f6eefe50a3b5953f1772c56b68dbb0a134fee30.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 9,
+      "path": "48f_fa_eng.b9617c9f7f13c9080c54b0d9baaacd561d21078e.mp3"
+    },
+    "question": "What is Vincent wearing in this painting?",
+    "unlock_type": "QuizUnlock"
+  }
+}

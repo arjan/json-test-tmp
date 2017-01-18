@@ -1,0 +1,137 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/FunSqFut2_1o_720x1280_Cw5HsHyV.jpg",
+    "focal_point": [
+      360,
+      524
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/FunSqFut2_1o_720x300_o6JmsRgx.jpg",
+    "path": "4.dc50b61be5d96bfd21a95a4f9f5c33f53e214b4e.jpg",
+    "width": 720
+  },
+  "number": 4,
+  "overview_colour": 4294888192,
+  "segments": [
+    {
+      "audio": {
+        "duration": 74,
+        "path": "4a_prt.b274907529b9e6d23918e11107e0180ed5e443d4.mp3"
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "4a",
+      "title": "A Casa com um Plano",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "4b_0_intro.9270c17f9a9a24841eecfc23d9e4a91d617e1597.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "intro_audio": {
+        "duration": 8,
+        "path": "4b_1a_prt.1d6c9a878674e8d336690227d9d1190f8439871f.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 3,
+            "path": "4b_1b_prt.83118695a9477d0b822b73609ae1e78fe228d9de.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "4b_1_revised.f52410588af8534933934b098a38cf5d8ff98929.jpg",
+            "width": 720
+          },
+          "label": "Seu Quarto"
+        },
+        {
+          "audio": {
+            "duration": 5,
+            "path": "4b_1c_prt.d4f79fe0ef6d20662fe7ad01539bbddaaab77687.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "4b_2_revised.5225ce8939e97cfd1de4e742d532e37f177c92d5.jpg",
+            "width": 720
+          },
+          "label": "Lindos Girassóis"
+        },
+        {
+          "audio": {
+            "duration": 6,
+            "path": "4b_1d_prt.b739b76989784c5256aa13804b3a185b7d9dad85.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "4b_3_revised.6c3d6146a26c6e3dc496419a29ab34af4e718d3c.jpg",
+            "width": 720
+          },
+          "label": "Uma Cadeira para um Amigo"
+        }
+      ],
+      "number": "4b",
+      "title": "Grandes Coisas em uma Pequena Casa",
+      "type": "LayersSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/v4XW1aiqmGI2_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "4c_2_.9270c17f9a9a24841eecfc23d9e4a91d617e1597.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "hide_during_intro": true,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 36,
+            "path": "4c_1b_prt_.abe15de416e72a838afe8858fe5d8e12fe7d9b62.mp3"
+          },
+          "coordinate": [
+            288,
+            640
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "4c_1_.a144a4cf839e465fbaf2aabd5a86a59d6c572ac6.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 10,
+        "path": "4c_1a_prt_.1452adc7f01c47906b2a5975865edf86ea2e91a9.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "4c",
+      "title": "Um convidado",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "A Casa Amarela"
+}

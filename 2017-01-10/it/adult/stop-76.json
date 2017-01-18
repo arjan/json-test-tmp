@@ -1,0 +1,110 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/m8muaKcFUj74_720x1280_koN5B6eQ.jpg",
+    "focal_point": [
+      360,
+      652
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/m8muaKcFUj74_720x300_3__BWwZ7.jpg",
+    "path": "76.2ee03767ccb9064c78449a8ccbf60756bd0c4f9e.jpg",
+    "width": 720
+  },
+  "number": 76,
+  "overview_colour": 4294888192,
+  "segments": [
+    {
+      "audio": {
+        "duration": 100,
+        "path": "76a_ita.35e85ad969e4ef15923b6abb4537b3c1acfb61c3.mp3"
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "76a",
+      "title": "Pieni di luce",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/hqt7s0qTvcux_720x1280_16jGVcjb.jpg",
+        "height": 720,
+        "orientation": 8,
+        "path": "76b_0_revised.684c4a2734958c39c81390a45b2263c878cbfa52.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 30,
+            "path": "76b_1_ita.e6ebb859b45e500637eb808befe1361725ef1ad0.mp3"
+          },
+          "coordinate": [
+            89,
+            302
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "76b_1.ca7c5df1fd9c5aa64bed91936094ef171612860c.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 16,
+            "path": "76b_2_ita.3de2d92e1b3f6a6d2137e5eb877754f7bc1d7e38.mp3"
+          },
+          "coordinate": [
+            512,
+            590
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "76b_2_revised.a144a4cf839e465fbaf2aabd5a86a59d6c572ac6.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 14,
+            "path": "76b_3_ita.5f312a631e8bb6129f0757ba52cc56ca89f3934a.mp3"
+          },
+          "coordinate": [
+            1062,
+            432
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "76b_3.bdb063a461f2203c521842fa2338d3d08dba83c6.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": null,
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "76b",
+      "title": "La storia dei Girasoli",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Girasoli"
+}

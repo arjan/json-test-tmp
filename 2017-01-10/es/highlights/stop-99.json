@@ -1,0 +1,48 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/zd0-0sw4wNis_720x1280_n9CpgZva.jpg",
+    "focal_point": [
+      360,
+      665
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/zd0-0sw4wNis_720x300_1X-gwbDN.jpg",
+    "path": "99.d9653c65b691c1870c1cc92c454b191e8df27675.jpg",
+    "width": 720
+  },
+  "number": 99,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 108,
+        "path": "99a_spa.394f6ead2cb4341360ef72cf6996b8eae25f0033.mp3"
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "images": [],
+      "number": "99a",
+      "title": "Esparciendo las semillas",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 62,
+        "path": "99b_spa.f2b7dd1eb2642b5fdef385d4ffff77dd142cbeea.mp3"
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "images": [],
+      "number": "99b",
+      "title": "Sus percepciones",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "El sembrador"
+}

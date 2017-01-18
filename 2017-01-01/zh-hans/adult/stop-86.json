@@ -1,0 +1,30 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/E7AeVdcHBa-__720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/E7AeVdcHBa-__720x300_74tHK9Wi.jpg",
+    "path": "86.8944299d2c3d8a378ecf7bec72e58c4f32b8edc0.jpg",
+    "width": 720
+  },
+  "number": 86,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 81,
+        "path": "86a_chn.e1d2a45095093d27679c785b28144b832c7cb529.mp3"
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "images": [],
+      "number": "86a",
+      "title": "小生物",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "皇蛾"
+}

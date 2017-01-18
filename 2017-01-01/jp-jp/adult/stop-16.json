@@ -1,0 +1,78 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/FAKCe0_vYhOH_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/FAKCe0_vYhOH_720x300_74tHK9Wi.jpg",
+    "path": "16.f165619e742c3c7ec4019c71782eea2da715bedd.jpg",
+    "width": 720
+  },
+  "number": 16,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 66,
+        "path": "16a_jpn.9a1232815b3c42bf069c09697739af4423139056.mp3"
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "images": [],
+      "number": "16a",
+      "title": "モデルとしての農民",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/_LtM5t-0M0HO_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "16b.0414b1004e0807b12e6fbee0f5093d706e5b37fe.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292893491,
+        "foreground": 4291969329
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 11,
+            "path": "16b_1_jpn.0faf709dd15032cb47611bf1f53c143380eb04bd.mp3"
+          },
+          "coordinate": [
+            475,
+            908
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 12,
+            "path": "16b_2_jpn.7514e1eee357741e4b48622c64d56424752167cb.mp3"
+          },
+          "coordinate": [
+            237,
+            601
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": null,
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "16b",
+      "title": "すべては筆遣いの中に",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "農民の頭"
+}

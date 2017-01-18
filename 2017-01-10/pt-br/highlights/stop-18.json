@@ -1,0 +1,94 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/JRrEqhgSzkke_720x1280_QlLpMcbC.jpg",
+    "focal_point": [
+      360,
+      1024
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/JRrEqhgSzkke_720x300_QyjusLq8.jpg",
+    "path": "18.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+    "width": 720
+  },
+  "number": 18,
+  "overview_colour": 4282157647,
+  "segments": [
+    {
+      "audio": {
+        "duration": 87,
+        "path": "18a_prt.944f60542154f17eaa20ba54d7be44a587c1c6e2.mp3"
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "images": [],
+      "number": "18a",
+      "title": "O Amor está no Ar",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "18b_0_.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "intro_audio": {
+        "duration": 6,
+        "path": "18b_0_prt.24d12f68705b387c28bdbbe8dc58e6664beb07f2.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 8,
+            "path": "18b_1_prt.a87ff5bfebc0e87b6614dbf709c9c2b6caddadab.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_1_.295cd873df650bd8388b68e9c8ee831ebe135568.jpg",
+            "width": 720
+          },
+          "label": "Selecionar as Cores"
+        },
+        {
+          "audio": {
+            "duration": 11,
+            "path": "18b_2_prt.e5540f5ee0150d88bd9dc32a622c12effe670145.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_2_.b58780a386075a1caacb47fe4aef22b3db31ee46.jpg",
+            "width": 720
+          },
+          "label": "Metade dos Traços Preenchidos"
+        },
+        {
+          "audio": {
+            "duration": 24,
+            "path": "18b_3_prt.28b8a98394d48206a8824f3eb74f37078781e9de.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_3_.45443f6fcdfc882695b7b81dde408b7237cb065f.jpg",
+            "width": 720
+          },
+          "label": "Preencher"
+        }
+      ],
+      "number": "18b",
+      "title": "Tente Você Mesmo",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Jardim com casais cortejantes: Praça Saint-Pierre"
+}

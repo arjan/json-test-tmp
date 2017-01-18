@@ -1,0 +1,647 @@
+{
+  "background_audio": null,
+  "background_color": null,
+  "building": "main_building",
+  "icon": {
+    "height": 209,
+    "orientation": 8,
+    "path": "ic_pace_.22e52ce1fd93e0978e4944bf2a343a49d4d230a4.png",
+    "width": 240
+  },
+  "id": 1,
+  "intro_animation": null,
+  "labels": {
+    "button_start": "Commencer",
+    "intro": "Visitez le musée à votre propre rythme. Pendant la visite, nous vous proposerons des analyses approfondies, des détails surprenants, et quelques activités amusantes sur plus de 40 œuvres différentes.",
+    "intro_title": "Visiter à mon rythme",
+    "overview_intro": null,
+    "overview_intro_action": ""
+  },
+  "long_title": "Je souhaite visiter à mon rythme",
+  "overview_intro_audio": {
+    "duration": 17,
+    "path": "ayl_intro_fre.9a5215ccb1b3826f3370b9c0b5c3a5e76e9f0415.mp3"
+  },
+  "overview_intro_stop": null,
+  "overview_intro_video": null,
+  "overview_wheel_popup": "Cliquez ici pour régler le volume ou changer de visite",
+  "overview_wheel_popup_audio": null,
+  "slug": "adult",
+  "stops": [
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/X6UVm60FpKQR_720x1280_9O4lVJaA.jpg",
+        "focal_point": [
+          360,
+          755
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/X6UVm60FpKQR_720x300_U616brQS.jpg",
+        "path": "2.03d077de1a81a17ab8ad53b2bebd63f50763ba6c.jpg",
+        "width": 720
+      },
+      "number": 2,
+      "overview_colour": null,
+      "title": "Le Verger rose"
+    },
+    {
+      "floor": 2,
+      "image": {
+        "blurred_image_path": "thumbnails/FunSqFut2_1o_720x1280_Cw5HsHyV.jpg",
+        "focal_point": [
+          360,
+          524
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/FunSqFut2_1o_720x300_o6JmsRgx.jpg",
+        "path": "4.dc50b61be5d96bfd21a95a4f9f5c33f53e214b4e.jpg",
+        "width": 720
+      },
+      "number": 4,
+      "overview_colour": 4294888192,
+      "title": "La Maison jaune (la rue)"
+    },
+    {
+      "floor": 2,
+      "image": {
+        "blurred_image_path": "thumbnails/ZezUWXgzJuQ4_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/ZezUWXgzJuQ4_720x300_74tHK9Wi.jpg",
+        "path": "7.47465025ec0c514e3f2a4f467d9526957f5854c1.jpg",
+        "width": 720
+      },
+      "number": 7,
+      "overview_colour": null,
+      "title": "Le Cabinet de collectionneur de Theo Van Gogh"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/u3Kpolvxn2kV_720x1280_a0z6gcbV.jpg",
+        "focal_point": [
+          360,
+          742
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/u3Kpolvxn2kV_720x300_-6UcERp7.jpg",
+        "path": "8.8194a0ffe9fd3f2930057cc8fb50ed39be51c866.jpg",
+        "width": 720
+      },
+      "number": 8,
+      "overview_colour": null,
+      "title": "Bateaux de pêcheurs sur la plage des Saintes-Maries-de-la-Mer"
+    },
+    {
+      "floor": 3,
+      "image": {
+        "blurred_image_path": "thumbnails/Qw-IIqWDhuy9_720x1280_uB9JOqxi.jpg",
+        "focal_point": [
+          360,
+          576
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Qw-IIqWDhuy9_720x300_mfj8bjKL.jpg",
+        "path": "9.99c17db9b7d11ab31964520ff301e6e72ccd6e9e.jpg",
+        "width": 720
+      },
+      "number": 9,
+      "overview_colour": 4294888192,
+      "title": "Paysage au crépuscule"
+    },
+    {
+      "floor": 3,
+      "image": {
+        "blurred_image_path": "thumbnails/7oCreZd8EcMe_720x1280_LoRTsT6h.jpg",
+        "focal_point": [
+          356,
+          980
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/7oCreZd8EcMe_720x300_dB_tEh7B.jpg",
+        "path": "10.d51f9d1d7d5f31361d42cc9c5c77a5870bca2632.jpg",
+        "width": 720
+      },
+      "number": 10,
+      "overview_colour": 4278221970,
+      "title": "Amandier en fleurs"
+    },
+    {
+      "floor": 2,
+      "image": {
+        "blurred_image_path": "thumbnails/N65n9e9TGX8N_720x1280_F6F8kqJV.jpg",
+        "focal_point": [
+          360,
+          486
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/N65n9e9TGX8N_720x300_eLMJc1Bk.jpg",
+        "path": "12.87b981118658d4f2dd63b39d1194f1516c268f90.jpg",
+        "width": 720
+      },
+      "number": 12,
+      "overview_colour": null,
+      "title": "Gauguin, Vincent Van Gogh peignant des tournesols"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/bUJS_AFPJZfX_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/bUJS_AFPJZfX_720x300_74tHK9Wi.jpg",
+        "path": "13.2343b157b0ccf2f2512e068f4ce1d42f8a82f066.jpg",
+        "width": 720
+      },
+      "number": 13,
+      "overview_colour": null,
+      "title": "Nature morte avec Bible"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/CnCp-9lXqYGe_720x1280_hojwExeZ.jpg",
+        "focal_point": [
+          360,
+          704
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/CnCp-9lXqYGe_720x300_Hq6Sn6Uk.jpg",
+        "path": "14.7173a2d07bbdf04ab7837eec6c1ac00cd2d39ef5.jpg",
+        "width": 720
+      },
+      "number": 14,
+      "overview_colour": null,
+      "title": "Autoportrait au chapeau de feutre gris"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/FAKCe0_vYhOH_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/FAKCe0_vYhOH_720x300_74tHK9Wi.jpg",
+        "path": "16.f165619e742c3c7ec4019c71782eea2da715bedd.jpg",
+        "width": 720
+      },
+      "number": 16,
+      "overview_colour": null,
+      "title": "Têtes de paysans"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/JRrEqhgSzkke_720x1280_QlLpMcbC.jpg",
+        "focal_point": [
+          360,
+          1024
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/JRrEqhgSzkke_720x300_QyjusLq8.jpg",
+        "path": "18.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+        "width": 720
+      },
+      "number": 18,
+      "overview_colour": 4282157647,
+      "title": "Jardin des amoureux : Place Saint-Pierre"
+    },
+    {
+      "floor": 2,
+      "image": {
+        "blurred_image_path": "thumbnails/iWrOAUUTaeMf_720x1280_uB9JOqxi.jpg",
+        "focal_point": [
+          360,
+          576
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/iWrOAUUTaeMf_720x300_mfj8bjKL.jpg",
+        "path": "24_kaart.073ad8b70ca2e9c0e0c0b858310eb0743d86f25b.jpg",
+        "width": 720
+      },
+      "number": 24,
+      "overview_colour": null,
+      "title": "Arles"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/8HxFMZeDu3ks_720x1280_IYVYS5mB.jpg",
+        "focal_point": [
+          360,
+          832
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/8HxFMZeDu3ks_720x300_E0Em4fYC.jpg",
+        "path": "28.21288d0d75a1ddd958b2c5f2fccaf5847d4126b2.jpg",
+        "width": 720
+      },
+      "number": 28,
+      "overview_colour": 4291044910,
+      "title": "La Cabane"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/Cgde7fog_XYQ_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Cgde7fog_XYQ_720x300_74tHK9Wi.jpg",
+        "path": "30.61ab18c294f3ce68c6d83073cd1d91537fa91387.jpg",
+        "width": 720
+      },
+      "number": 30,
+      "overview_colour": null,
+      "title": "Boulevard de Clichy"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/xBMXmvs75g79_720x1280_CD2D1u_4.jpg",
+        "focal_point": [
+          360,
+          448
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/xBMXmvs75g79_720x300_u9whUD-F.jpg",
+        "path": "32.44d63a0e3cc415fbd4a448d8d97b1abdf8f7f4ef.jpg",
+        "width": 720
+      },
+      "number": 32,
+      "overview_colour": null,
+      "title": "La Chambre à coucher"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/raJTxqv4hf1F_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/raJTxqv4hf1F_720x300_74tHK9Wi.jpg",
+        "path": "37_3.cc20c6c4be14b066b1abc1903f4bd33c463524d0.jpg",
+        "width": 720
+      },
+      "number": 37,
+      "overview_colour": null,
+      "title": "La Vie paysanne"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/bKNLbKteS7NY_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/bKNLbKteS7NY_720x300_74tHK9Wi.jpg",
+        "path": "38.68a6277c72f28dd1428fd13f622556b2f08c2cb9.jpg",
+        "width": 720
+      },
+      "number": 38,
+      "overview_colour": null,
+      "title": "Arbres et broussailles"
+    },
+    {
+      "floor": 0,
+      "image": {
+        "blurred_image_path": "thumbnails/t2fPJ6J4BMWW_720x1280_n9CpgZva.jpg",
+        "focal_point": [
+          360,
+          665
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/t2fPJ6J4BMWW_720x300_1X-gwbDN.jpg",
+        "path": "40_.5974ff60df0a718b84eab098dbd6b4a735f50a93.jpg",
+        "width": 720
+      },
+      "number": 40,
+      "overview_colour": null,
+      "title": "La palette de Van Gogh"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/ypqC2fSvDeKn_720x1280_hojwExeZ.jpg",
+        "focal_point": [
+          360,
+          704
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/ypqC2fSvDeKn_720x300_Hq6Sn6Uk.jpg",
+        "path": "41.e64d61742a3162f72861a62c4b8fa92e9b6f9868.jpg",
+        "width": 720
+      },
+      "number": 41,
+      "overview_colour": null,
+      "title": "Crâne de squelette fumant une cigarette"
+    },
+    {
+      "floor": 3,
+      "image": {
+        "blurred_image_path": "thumbnails/TSR3T5sC7NaW_720x1280_uB9JOqxi.jpg",
+        "focal_point": [
+          360,
+          576
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/TSR3T5sC7NaW_720x300_mfj8bjKL.jpg",
+        "path": "42.03fc1a73a22bb3b71b6d8df6b1304899fbf0045f.jpg",
+        "width": 720
+      },
+      "number": 42,
+      "overview_colour": null,
+      "title": "Champ de blé avec corbeaux"
+    },
+    {
+      "floor": 3,
+      "image": {
+        "blurred_image_path": "thumbnails/Yv1L8UvF9-QI_720x1280_uB9JOqxi.jpg",
+        "focal_point": [
+          360,
+          576
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Yv1L8UvF9-QI_720x300_mfj8bjKL.jpg",
+        "path": "43_kaart.923953097fbd11a486f082a189b77eea35df61c2.jpg",
+        "width": 720
+      },
+      "number": 43,
+      "overview_colour": null,
+      "title": "Saint-Rémy-de-Provence"
+    },
+    {
+      "floor": 3,
+      "image": {
+        "blurred_image_path": "thumbnails/jzaIy9GqkbDt_720x1280_BME5Z4W0.jpg",
+        "focal_point": [
+          360,
+          934
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/jzaIy9GqkbDt_720x300_AxJKfDAM.jpg",
+        "path": "49.6c0294a5d75d275901bfcbf47a12f44c4a401d54.jpg",
+        "width": 720
+      },
+      "number": 49,
+      "overview_colour": null,
+      "title": "Les Iris"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/Mdr3P5aVKKLK_720x1280_uB9JOqxi.jpg",
+        "focal_point": [
+          360,
+          576
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Mdr3P5aVKKLK_720x300_mfj8bjKL.jpg",
+        "path": "50.513a83b1d4c4ad1441830f718193ab486aa5da36.jpg",
+        "width": 720
+      },
+      "number": 50,
+      "overview_colour": 4283974952,
+      "title": "Les Mangeurs de pommes de terre"
+    },
+    {
+      "floor": 2,
+      "image": {
+        "blurred_image_path": "thumbnails/5YR5gjfjMWam_720x1280_BW_yjAoy.jpg",
+        "focal_point": [
+          360,
+          320
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/5YR5gjfjMWam_720x300_UlJSVHay.jpg",
+        "path": "52.d4a4e714a16c13dc0d9493ed32d75c6224dd6f67.jpg",
+        "width": 720
+      },
+      "number": 52,
+      "overview_colour": 4278221970,
+      "title": "Vue de la mer aux Saintes-Maries-de-la-Mer"
+    },
+    {
+      "floor": 2,
+      "image": {
+        "blurred_image_path": "thumbnails/3NX43Qyrapcr_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/3NX43Qyrapcr_720x300_74tHK9Wi.jpg",
+        "path": "54_2.442e2666427230412816de850b01ce0b767d428c.jpg",
+        "width": 720
+      },
+      "number": 54,
+      "overview_colour": null,
+      "title": "Vergers en fleur avec la vue sur Arles"
+    },
+    {
+      "floor": 2,
+      "image": {
+        "blurred_image_path": "thumbnails/4lOpmAUjQWN9_720x1280_RInB8YRo.jpg",
+        "focal_point": [
+          360,
+          960
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/4lOpmAUjQWN9_720x300_L2Az2DoK.jpg",
+        "path": "56.f4fae5203020192a7670327f120b12c53785ddb7.jpg",
+        "width": 720
+      },
+      "number": 56,
+      "overview_colour": 4294888192,
+      "title": "Coings, citrons, poires et raisins"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/i7eOsgBTK_h1_720x1280_kWAZ1oMj.jpg",
+        "focal_point": [
+          360,
+          422
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/i7eOsgBTK_h1_720x300_ekNv0XFE.jpg",
+        "path": "58.a11241cf1bf04896eb9f049b6f709bf827e3ab6f.jpg",
+        "width": 720
+      },
+      "number": 58,
+      "overview_colour": null,
+      "title": "Au café : Agostina Segatori au Tambourin"
+    },
+    {
+      "floor": 3,
+      "image": {
+        "blurred_image_path": "thumbnails/gkGMpm4ipXSb_720x1280_DMCgOIIS.jpg",
+        "focal_point": [
+          360,
+          691
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/gkGMpm4ipXSb_720x300_jYAVjE-R.jpg",
+        "path": "65.1d5b5881fd70b4e5f9111b0fcf2fa07a2cd2c09c.jpg",
+        "width": 720
+      },
+      "number": 65,
+      "overview_colour": 4288928744,
+      "title": "Racines d’arbres"
+    },
+    {
+      "floor": 3,
+      "image": {
+        "blurred_image_path": "thumbnails/94hn8w9N8Dou_720x1280_DMCgOIIS.jpg",
+        "focal_point": [
+          360,
+          691
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/94hn8w9N8Dou_720x300_jYAVjE-R.jpg",
+        "path": "68.dce85d62c029044a0d91808ae5dce6033137384b.jpg",
+        "width": 720
+      },
+      "number": 68,
+      "overview_colour": 4278221970,
+      "title": "Copies d’après Millet"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/m8muaKcFUj74_720x1280_koN5B6eQ.jpg",
+        "focal_point": [
+          360,
+          652
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/m8muaKcFUj74_720x300_3__BWwZ7.jpg",
+        "path": "76.2ee03767ccb9064c78449a8ccbf60756bd0c4f9e.jpg",
+        "width": 720
+      },
+      "number": 76,
+      "overview_colour": 4294888192,
+      "title": "Les Tournesols"
+    },
+    {
+      "floor": 2,
+      "image": {
+        "blurred_image_path": "thumbnails/QA25ahhfVsvj_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/QA25ahhfVsvj_720x300_74tHK9Wi.jpg",
+        "path": "83.94b8521f5673dad6eac471fb149b5469df85d175.jpg",
+        "width": 720
+      },
+      "number": 83,
+      "overview_colour": null,
+      "title": "Dessins"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/yN1NtejvrVoy_720x1280_uB9JOqxi.jpg",
+        "focal_point": [
+          360,
+          576
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/yN1NtejvrVoy_720x300_mfj8bjKL.jpg",
+        "path": "85_kaart.f6a08e3ee87e5e0af167d3bbae11cdeb9a6e9f9f.jpg",
+        "width": 720
+      },
+      "number": 85,
+      "overview_colour": null,
+      "title": "Paris"
+    },
+    {
+      "floor": 3,
+      "image": {
+        "blurred_image_path": "thumbnails/E7AeVdcHBa-__720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/E7AeVdcHBa-__720x300_74tHK9Wi.jpg",
+        "path": "86.8944299d2c3d8a378ecf7bec72e58c4f32b8edc0.jpg",
+        "width": 720
+      },
+      "number": 86,
+      "overview_colour": null,
+      "title": "Grand paon de nuit"
+    },
+    {
+      "floor": 0,
+      "image": {
+        "blurred_image_path": "thumbnails/9pZlJREAxt2O_720x1280_Cw5HsHyV.jpg",
+        "focal_point": [
+          360,
+          524
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/9pZlJREAxt2O_720x300_o6JmsRgx.jpg",
+        "path": "87.9cfcdbc14826888c6a4f2da3236b88cbd459679f.jpg",
+        "width": 720
+      },
+      "number": 87,
+      "overview_colour": null,
+      "title": "Autoportrait au chapeau de paille"
+    },
+    {
+      "floor": 3,
+      "image": {
+        "blurred_image_path": "thumbnails/GCYCft9BMy07_720x1280_uB9JOqxi.jpg",
+        "focal_point": [
+          360,
+          576
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/GCYCft9BMy07_720x300_mfj8bjKL.jpg",
+        "path": "92_kaart.ca14a43268a70176c7a990271043f549261e7667.jpg",
+        "width": 720
+      },
+      "number": 92,
+      "overview_colour": null,
+      "title": "Auvers-sur-Oise"
+    },
+    {
+      "floor": 3,
+      "image": {
+        "blurred_image_path": "thumbnails/zd0-0sw4wNis_720x1280_n9CpgZva.jpg",
+        "focal_point": [
+          360,
+          665
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/zd0-0sw4wNis_720x300_1X-gwbDN.jpg",
+        "path": "99.d9653c65b691c1870c1cc92c454b191e8df27675.jpg",
+        "width": 720
+      },
+      "number": 99,
+      "overview_colour": null,
+      "title": "Le Semeur"
+    }
+  ],
+  "theme": "normal",
+  "title": "Visiter à mon rythme",
+  "type": "unordered"
+}

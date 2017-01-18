@@ -1,0 +1,48 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/i7eOsgBTK_h1_720x1280_kWAZ1oMj.jpg",
+    "focal_point": [
+      360,
+      422
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/i7eOsgBTK_h1_720x300_ekNv0XFE.jpg",
+    "path": "58.a11241cf1bf04896eb9f049b6f709bf827e3ab6f.jpg",
+    "width": 720
+  },
+  "number": 58,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 94,
+        "path": "58a_chn.79f8053b97d4bc98558b529ee9618b83ccd9bc84.mp3"
+      },
+      "footprint": {
+        "background": 4288417308,
+        "foreground": 4291044910
+      },
+      "images": [],
+      "number": "58a",
+      "title": "不同寻常的背景",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 74,
+        "path": "58b_chn.ae26be69b0c56e41f5ecfaecb8751269bb30880d.mp3"
+      },
+      "footprint": {
+        "background": 4288417308,
+        "foreground": 4291044910
+      },
+      "images": [],
+      "number": "58b",
+      "title": "凡高的爱情生活",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "铃鼓咖啡馆里的奥古斯托尼娅·萨格托瑞"
+}

@@ -1,0 +1,394 @@
+{
+  "background_audio": null,
+  "background_color": null,
+  "building": "main_building",
+  "icon": {
+    "height": 209,
+    "orientation": 8,
+    "path": "ic_highlights_small.c04fe1378fda7fe0d0e73e4c8938a4b83fef2d7e.png",
+    "width": 398
+  },
+  "id": 2,
+  "intro_animation": null,
+  "labels": {
+    "button_start": "Inizio",
+    "intro": "Avete poco tempo? Abbiamo selezionato le opere più importanti. Il percorso è ricco di informazioni, dettagli e non mancherà di farvi divertire un po'. La durata è di circa 45 minuti.",
+    "intro_title": "Le opere principali",
+    "overview_intro": "Usate questo menu per trovare i dipinti. Sono raggruppati per piano. Per verificare che si tratti del dipinto giusto, confrontate il numero sullo schermo con quello del cartellino sul muro. Dopodiché, cliccate sulla voce del menu per accedere al commento.",
+    "overview_intro_action": ""
+  },
+  "long_title": "Voglio vedere le opere principali",
+  "overview_intro_audio": {
+    "duration": 27,
+    "path": "h_intro_ita.b6c040f77e13fc291796d9b5986474df02d60095.mp3"
+  },
+  "overview_intro_stop": null,
+  "overview_intro_video": null,
+  "overview_wheel_popup": "Cliccate qui per regolare il volume o per cambiare tour",
+  "overview_wheel_popup_audio": {
+    "duration": 10,
+    "path": "switch_ita.3c0de129aafb8b76dd9a823e093e54d8e982b78f.mp3"
+  },
+  "slug": "highlights",
+  "stops": [
+    {
+      "floor": 0,
+      "image": {
+        "blurred_image_path": "thumbnails/t2fPJ6J4BMWW_720x1280_n9CpgZva.jpg",
+        "focal_point": [
+          360,
+          665
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/t2fPJ6J4BMWW_720x300_1X-gwbDN.jpg",
+        "path": "40_.5974ff60df0a718b84eab098dbd6b4a735f50a93.jpg",
+        "width": 720
+      },
+      "number": 40,
+      "overview_colour": null,
+      "title": "La tavolozza di Van Gogh"
+    },
+    {
+      "floor": 0,
+      "image": {
+        "blurred_image_path": "thumbnails/9pZlJREAxt2O_720x1280_Cw5HsHyV.jpg",
+        "focal_point": [
+          360,
+          524
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/9pZlJREAxt2O_720x300_o6JmsRgx.jpg",
+        "path": "87.9cfcdbc14826888c6a4f2da3236b88cbd459679f.jpg",
+        "width": 720
+      },
+      "number": 87,
+      "overview_colour": null,
+      "title": "Autoritratto con cappello di paglia"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/Mdr3P5aVKKLK_720x1280_uB9JOqxi.jpg",
+        "focal_point": [
+          360,
+          576
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Mdr3P5aVKKLK_720x300_mfj8bjKL.jpg",
+        "path": "50.513a83b1d4c4ad1441830f718193ab486aa5da36.jpg",
+        "width": 720
+      },
+      "number": 50,
+      "overview_colour": 4283974952,
+      "title": "I mangiatori di patate"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/ypqC2fSvDeKn_720x1280_hojwExeZ.jpg",
+        "focal_point": [
+          360,
+          704
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/ypqC2fSvDeKn_720x300_Hq6Sn6Uk.jpg",
+        "path": "41.e64d61742a3162f72861a62c4b8fa92e9b6f9868.jpg",
+        "width": 720
+      },
+      "number": 41,
+      "overview_colour": null,
+      "title": "Testa di scheletro con sigaretta accesa"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/i7eOsgBTK_h1_720x1280_kWAZ1oMj.jpg",
+        "focal_point": [
+          360,
+          422
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/i7eOsgBTK_h1_720x300_ekNv0XFE.jpg",
+        "path": "58.a11241cf1bf04896eb9f049b6f709bf827e3ab6f.jpg",
+        "width": 720
+      },
+      "number": 58,
+      "overview_colour": null,
+      "title": "Al caffè: Agostina Segatori al Le Tambourin"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/CnCp-9lXqYGe_720x1280_hojwExeZ.jpg",
+        "focal_point": [
+          360,
+          704
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/CnCp-9lXqYGe_720x300_Hq6Sn6Uk.jpg",
+        "path": "14.7173a2d07bbdf04ab7837eec6c1ac00cd2d39ef5.jpg",
+        "width": 720
+      },
+      "number": 14,
+      "overview_colour": null,
+      "title": "Autoritratto con cappello in feltro grigio"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/JRrEqhgSzkke_720x1280_QlLpMcbC.jpg",
+        "focal_point": [
+          360,
+          1024
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/JRrEqhgSzkke_720x300_QyjusLq8.jpg",
+        "path": "18.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+        "width": 720
+      },
+      "number": 18,
+      "overview_colour": 4282157647,
+      "title": "Giardino con innamorati: Piazza Saint-Pierre"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/X6UVm60FpKQR_720x1280_9O4lVJaA.jpg",
+        "focal_point": [
+          360,
+          755
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/X6UVm60FpKQR_720x300_U616brQS.jpg",
+        "path": "2.03d077de1a81a17ab8ad53b2bebd63f50763ba6c.jpg",
+        "width": 720
+      },
+      "number": 2,
+      "overview_colour": null,
+      "title": "Il frutteto rosa"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/m8muaKcFUj74_720x1280_koN5B6eQ.jpg",
+        "focal_point": [
+          360,
+          652
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/m8muaKcFUj74_720x300_3__BWwZ7.jpg",
+        "path": "76.2ee03767ccb9064c78449a8ccbf60756bd0c4f9e.jpg",
+        "width": 720
+      },
+      "number": 76,
+      "overview_colour": 4294888192,
+      "title": "Girasoli"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/xBMXmvs75g79_720x1280_CD2D1u_4.jpg",
+        "focal_point": [
+          360,
+          448
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/xBMXmvs75g79_720x300_u9whUD-F.jpg",
+        "path": "32.44d63a0e3cc415fbd4a448d8d97b1abdf8f7f4ef.jpg",
+        "width": 720
+      },
+      "number": 32,
+      "overview_colour": null,
+      "title": "La camera da letto"
+    },
+    {
+      "floor": 1,
+      "image": {
+        "blurred_image_path": "thumbnails/u3Kpolvxn2kV_720x1280_a0z6gcbV.jpg",
+        "focal_point": [
+          360,
+          742
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/u3Kpolvxn2kV_720x300_-6UcERp7.jpg",
+        "path": "8.8194a0ffe9fd3f2930057cc8fb50ed39be51c866.jpg",
+        "width": 720
+      },
+      "number": 8,
+      "overview_colour": null,
+      "title": "Barche di pescatori sulla spiaggia di Les Saintes-Maries-de-la-Mer"
+    },
+    {
+      "floor": 2,
+      "image": {
+        "blurred_image_path": "thumbnails/ZezUWXgzJuQ4_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/ZezUWXgzJuQ4_720x300_74tHK9Wi.jpg",
+        "path": "7.47465025ec0c514e3f2a4f467d9526957f5854c1.jpg",
+        "width": 720
+      },
+      "number": 7,
+      "overview_colour": null,
+      "title": "L’armadio di Theo Van Gogh"
+    },
+    {
+      "floor": 2,
+      "image": {
+        "blurred_image_path": "thumbnails/FunSqFut2_1o_720x1280_Cw5HsHyV.jpg",
+        "focal_point": [
+          360,
+          524
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/FunSqFut2_1o_720x300_o6JmsRgx.jpg",
+        "path": "4.dc50b61be5d96bfd21a95a4f9f5c33f53e214b4e.jpg",
+        "width": 720
+      },
+      "number": 4,
+      "overview_colour": 4294888192,
+      "title": "La casa gialla"
+    },
+    {
+      "floor": 2,
+      "image": {
+        "blurred_image_path": "thumbnails/N65n9e9TGX8N_720x1280_F6F8kqJV.jpg",
+        "focal_point": [
+          360,
+          486
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/N65n9e9TGX8N_720x300_eLMJc1Bk.jpg",
+        "path": "12.87b981118658d4f2dd63b39d1194f1516c268f90.jpg",
+        "width": 720
+      },
+      "number": 12,
+      "overview_colour": null,
+      "title": "Gauguin, Vincent van Gogh che dipinge i girasoli"
+    },
+    {
+      "floor": 2,
+      "image": {
+        "blurred_image_path": "thumbnails/4lOpmAUjQWN9_720x1280_RInB8YRo.jpg",
+        "focal_point": [
+          360,
+          960
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/4lOpmAUjQWN9_720x300_L2Az2DoK.jpg",
+        "path": "56.f4fae5203020192a7670327f120b12c53785ddb7.jpg",
+        "width": 720
+      },
+      "number": 56,
+      "overview_colour": 4294888192,
+      "title": "Mele cotogne, limoni, pere e uva"
+    },
+    {
+      "floor": 3,
+      "image": {
+        "blurred_image_path": "thumbnails/7oCreZd8EcMe_720x1280_LoRTsT6h.jpg",
+        "focal_point": [
+          356,
+          980
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/7oCreZd8EcMe_720x300_dB_tEh7B.jpg",
+        "path": "10.d51f9d1d7d5f31361d42cc9c5c77a5870bca2632.jpg",
+        "width": 720
+      },
+      "number": 10,
+      "overview_colour": 4278221970,
+      "title": "Ramo di mandorlo in fiore"
+    },
+    {
+      "floor": 3,
+      "image": {
+        "blurred_image_path": "thumbnails/jzaIy9GqkbDt_720x1280_BME5Z4W0.jpg",
+        "focal_point": [
+          360,
+          934
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/jzaIy9GqkbDt_720x300_AxJKfDAM.jpg",
+        "path": "49.6c0294a5d75d275901bfcbf47a12f44c4a401d54.jpg",
+        "width": 720
+      },
+      "number": 49,
+      "overview_colour": null,
+      "title": "Iris"
+    },
+    {
+      "floor": 3,
+      "image": {
+        "blurred_image_path": "thumbnails/TSR3T5sC7NaW_720x1280_uB9JOqxi.jpg",
+        "focal_point": [
+          360,
+          576
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/TSR3T5sC7NaW_720x300_mfj8bjKL.jpg",
+        "path": "42.03fc1a73a22bb3b71b6d8df6b1304899fbf0045f.jpg",
+        "width": 720
+      },
+      "number": 42,
+      "overview_colour": null,
+      "title": "Campo di grano con corvi"
+    },
+    {
+      "floor": 3,
+      "image": {
+        "blurred_image_path": "thumbnails/gkGMpm4ipXSb_720x1280_DMCgOIIS.jpg",
+        "focal_point": [
+          360,
+          691
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/gkGMpm4ipXSb_720x300_jYAVjE-R.jpg",
+        "path": "65.1d5b5881fd70b4e5f9111b0fcf2fa07a2cd2c09c.jpg",
+        "width": 720
+      },
+      "number": 65,
+      "overview_colour": 4288928744,
+      "title": "Radici e tronchi d’albero"
+    },
+    {
+      "floor": 3,
+      "image": {
+        "blurred_image_path": "thumbnails/zd0-0sw4wNis_720x1280_n9CpgZva.jpg",
+        "focal_point": [
+          360,
+          665
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/zd0-0sw4wNis_720x300_1X-gwbDN.jpg",
+        "path": "99.d9653c65b691c1870c1cc92c454b191e8df27675.jpg",
+        "width": 720
+      },
+      "number": 99,
+      "overview_colour": null,
+      "title": "Il seminatore"
+    }
+  ],
+  "theme": "normal",
+  "title": "Le opere principali",
+  "type": "ordered"
+}

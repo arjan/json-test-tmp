@@ -1,0 +1,124 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/GCYCft9BMy07_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/GCYCft9BMy07_720x300_mfj8bjKL.jpg",
+    "path": "92_kaart.ca14a43268a70176c7a990271043f549261e7667.jpg",
+    "width": 720
+  },
+  "number": 92,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/w40vfnyW7Rbq_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "saintremy-auvers.f5d9fc7c55dac94c5b25fb73883936e7d144a489.png",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 27,
+            "path": "92a_2a_ger.2312b52cc35e777f94d266cebbfc449b47007faa.mp3"
+          },
+          "coordinate": [
+            244,
+            665
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "92a_2a.f22d1c806835a7e8271f40d6144e3ca934598b1a.jpg",
+            "width": 720
+          },
+          "panel": {
+            "height": 625,
+            "orientation": 1,
+            "path": "thumb_92a_2a.9880ba7c4bd58f9ad214751d0dd23c6c7db6ad34.jpg",
+            "width": 360
+          },
+          "panel_coordinate": [
+            172,
+            550
+          ]
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "92a_2b_ger.565c7564baba807a9e7a655bd37dcaac66a4070c.mp3"
+          },
+          "coordinate": [
+            540,
+            998
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "92a_2b.613f2dea085290541f4e27b8c721627ac2d392cc.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 360,
+            "orientation": 8,
+            "path": "thumb_92a_2b.f40479885affa542c1202349bee1dfe363e3c64f.jpg",
+            "width": 624
+          },
+          "panel_coordinate": [
+            374,
+            934
+          ]
+        },
+        {
+          "audio": {
+            "duration": 20,
+            "path": "92a_2c_ger.f7cab0776689c8bfb6090274c2ea07b9c0389a6f.mp3"
+          },
+          "coordinate": [
+            453,
+            448
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "92_datavisualisatie_ger.bef4344160707f483f7405c017399f5bff2d231f.png",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 12,
+        "path": "92a_2_ger.d61737b09141abef0796d4e1dc367c4f3641777b.mp3"
+      },
+      "intro_video": {
+        "duration": 21,
+        "height": 1280,
+        "orientation": 1,
+        "path": "92_ger.mp4.2ae699216b2c70e2d7217f328aee9b8e0794dbe6.mp4",
+        "width": 720
+      },
+      "intro_voiceover_audio": {
+        "duration": 20,
+        "path": "92a_1_ger.d51746cbab79764669376eadb78e3de265b669a7.mp3"
+      },
+      "number": "92a",
+      "title": "Der Weg nach Auvers",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Auvers-sur-Oise"
+}

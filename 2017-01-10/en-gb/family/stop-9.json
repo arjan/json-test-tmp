@@ -1,0 +1,175 @@
+{
+  "floor": 3,
+  "hints": [
+    {
+      "audio": {
+        "duration": 9,
+        "path": "9f_ha_eng.63a8ca833df7a96e151e5b143d06d0045acf019a.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/v-XrdF54nh3d_720x1280_qOKgxFDX.jpg",
+        "focal_point": [
+          360,
+          1088
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/v-XrdF54nh3d_720x360_GyaJIuwC.jpg",
+        "path": "9f_hint_a.52f2eed9e1e6fc0a475f1d726665623159ee166c.jpg",
+        "width": 720
+      },
+      "quote": "...two pear trees – against a yellow sky"
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/lnBpHf99P3zR_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/lnBpHf99P3zR_720x360_1tCnCAD2.jpg",
+        "path": "9f_hint_b.23c153486cf5773ebe388f09e4b84222d58a220f.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/5UbiHj4vnlP2_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/5UbiHj4vnlP2_720x360_1tCnCAD2.jpg",
+        "path": "9f_hint_c.e7636ca89a85477125daba493e4819e11fb5250d.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/iNKRfQ598ljW_720x1280_DMCgOIIS.jpg",
+        "focal_point": [
+          360,
+          691
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/iNKRfQ598ljW_720x360_jYAVjE-R.jpg",
+        "path": "9f_hint_d.f6dae2252ee4d0aabc5d26bddf817d894edb8bd8.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/Qw-IIqWDhuy9_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Qw-IIqWDhuy9_720x300_mfj8bjKL.jpg",
+    "path": "9.99c17db9b7d11ab31964520ff301e6e72ccd6e9e.jpg",
+    "width": 720
+  },
+  "number": 9,
+  "overview_colour": 4294888192,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/kRjy-kku-_fr_720x1280_16jGVcjb.jpg",
+        "height": 720,
+        "orientation": 8,
+        "path": "9f_0.a2e414a5877f28d983cdcb7b5c8bcc5e6bea4032.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 15,
+            "path": "9f_a1_eng.9a031317eb8ef8655bfdd36fb387c2cc284d0abe.mp3"
+          },
+          "coordinate": [
+            640,
+            302
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 11,
+            "path": "9f_a2_eng.baff8104dd3d65f91838832d64aa2f557b596863.mp3"
+          },
+          "coordinate": [
+            422,
+            583
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": null,
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "9f",
+      "title": "A moving sky",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Landscape at Twilight",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "late at night",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "at lunchtime",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "at sunset",
+        "audio": null,
+        "is_correct": true
+      }
+    ],
+    "correct_audio": {
+      "duration": 10,
+      "path": "9f_fb_eng.cb43909f2fb9ed63f5817761980dce0223af542f.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 5,
+      "path": "9f_fa_eng.73832b4ad6b4513e8ee6cd02a8f6d603a7497054.mp3"
+    },
+    "question": "What time of day did Vincent paint this?",
+    "unlock_type": "QuizUnlock"
+  }
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "building": "main_building",
+    "id": 1,
+    "long_title": "Quiero explorar por mi cuenta",
+    "slug": "adult",
+    "title": "Explore por su cuenta",
+    "type": "unordered"
+  },
+  {
+    "building": "main_building",
+    "id": 2,
+    "long_title": "Quiero ver lo más destacado",
+    "slug": "highlights",
+    "title": "Vea lo más destacado",
+    "type": "ordered"
+  }
+]

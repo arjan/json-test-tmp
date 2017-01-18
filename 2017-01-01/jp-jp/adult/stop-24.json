@@ -1,0 +1,124 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/iWrOAUUTaeMf_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/iWrOAUUTaeMf_720x300_mfj8bjKL.jpg",
+    "path": "24_kaart.073ad8b70ca2e9c0e0c0b858310eb0743d86f25b.jpg",
+    "width": 720
+  },
+  "number": 24,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/yZKQwdlLVsmg_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "24a_final_frame.073ad8b70ca2e9c0e0c0b858310eb0743d86f25b.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 16,
+            "path": "24a_2a_jpn.081ac1a785ea9607427715ad9db501206488aa5e.mp3"
+          },
+          "coordinate": [
+            302,
+            358
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "24a_2a.ffd14bb03e95f5a5a28c7468e1821d1ee99a2e87.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 360,
+            "orientation": 8,
+            "path": "thumb_24a_2a.9f6930bff5b961fdc54ec6742afce32c41aa9884.jpg",
+            "width": 624
+          },
+          "panel_coordinate": [
+            489,
+            281
+          ]
+        },
+        {
+          "audio": {
+            "duration": 33,
+            "path": "24a_2b_jpn.15e0a1f05f6f211d7b1960e5502c5ac563f68443.mp3"
+          },
+          "coordinate": [
+            410,
+            678
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "24a_2b.fd1b0d86ee627a95e677f0812f138800fcc3beb3.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 360,
+            "orientation": 8,
+            "path": "thumb_24a_2b.4c0784869f547876d92d42f88cb1cc46dd9e3c0f.jpg",
+            "width": 624
+          },
+          "panel_coordinate": [
+            230,
+            588
+          ]
+        },
+        {
+          "audio": {
+            "duration": 13,
+            "path": "24a_2c_jpn.465bce09852b3eba12c43d0cd14d3352d6abf262.mp3"
+          },
+          "coordinate": [
+            540,
+            921
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "24_datavisualisatie_jpn.c55fdf5814c97a0c35ac9f518c17543ed4017e1f.png",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 12,
+        "path": "24a_2_jpn.bf4d48ec5e6954b90f175048733226910286f8e6.mp3"
+      },
+      "intro_video": {
+        "duration": 21,
+        "height": 1280,
+        "orientation": 1,
+        "path": "24a_jpn.mp4.b3f5c0d8cf2b88b1eec3efc733e6f975af705f1a.mp4",
+        "width": 720
+      },
+      "intro_voiceover_audio": {
+        "duration": 14,
+        "path": "24a_1_jpn.0ae84ee378eee940bce74457d9ada3016dc020f9.mp3"
+      },
+      "number": "24a",
+      "title": "アルルへ",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "アルル"
+}

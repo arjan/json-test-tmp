@@ -1,0 +1,292 @@
+{
+  "floor": 3,
+  "hints": [
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/CtCtlc-l-bOH_720x1280_R5-LupD8.jpg",
+        "focal_point": [
+          360,
+          435
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/CtCtlc-l-bOH_720x360_zsyod7Rd.jpg",
+        "path": "68f_hints-a.9ca115398a650257aae6141a70a17e7586b01f45.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 14,
+        "path": "68f_hb_dut.83a40575cb332ef1cd9fb680740f312871573ee4.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/eYYlnp4Pkdii_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/eYYlnp4Pkdii_720x360_1tCnCAD2.jpg",
+        "path": "68f_hints-b.17c4b94dc04798db6ccff1455de881fe335124b9.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/xhx6Zfale6oA_720x1280_R5-LupD8.jpg",
+        "focal_point": [
+          360,
+          435
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/xhx6Zfale6oA_720x360_zsyod7Rd.jpg",
+        "path": "68f_hints-c.aa147fbf0a144ae7bdfb4b7d8ff6fc8ffaaf0e54.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/oEBl0igEHPos_720x1280_PExV7KIw.jpg",
+        "focal_point": [
+          360,
+          358
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/oEBl0igEHPos_720x360_cpNyGkAW.jpg",
+        "path": "68f_hints-d.a30172cb1c3752cd08422fdb5c8a4b4b4da4b0de.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/94hn8w9N8Dou_720x1280_DMCgOIIS.jpg",
+    "focal_point": [
+      360,
+      691
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/94hn8w9N8Dou_720x300_jYAVjE-R.jpg",
+    "path": "68.dce85d62c029044a0d91808ae5dce6033137384b.jpg",
+    "width": 720
+  },
+  "number": 68,
+  "overview_colour": 4278221970,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/x4N_LUBe70xO_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "68f_a0.dd7d534567aeef09c6e6764cf9ea29db11723f9b.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292893491,
+        "foreground": 4291969329
+      },
+      "hide_during_intro": true,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 37,
+            "path": "68f_a1_dut.4a6fe3fb4eb6cb6728c008e7210e9cee4ef7769c.mp3"
+          },
+          "coordinate": [
+            288,
+            640
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "68f_a1.266943407ab70f13048fba6ac9aa76b25c2e31c1.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 5,
+        "path": "68f_a0_dut.b035dc0ab91a83213b63da1987819babd13a32da.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "68f",
+      "title": "Bekijk de prent",
+      "type": "HotspotsSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "68f_background.b3d1a09faf8c8806de550d555a6cc4990199b029.jpg",
+        "width": 720
+      },
+      "draggables": [
+        {
+          "audio": {
+            "duration": 21,
+            "path": "68f_a2a_dut.c81d6ba3e66b5d831b4837ca3776a9460186dcf7.mp3"
+          },
+          "dragged_image": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_dragged.6d5b3b18bb2566312afbb39b5f69e9b4d7b52d72.png",
+            "width": 210
+          },
+          "dragged_proxy": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_drag_piano.48db5dcd632ab31c0915dce200cdcfad9efac54e.png",
+            "width": 210
+          },
+          "image": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_drag_piano.48db5dcd632ab31c0915dce200cdcfad9efac54e.png",
+            "width": 210
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 779,
+            "orientation": 1,
+            "path": "68f_piano_dropped.0390c31c7d1421d83f342055f02402c1e40a5b55.png",
+            "width": 720
+          }
+        },
+        {
+          "audio": {
+            "duration": 23,
+            "path": "68f_a2c_dut.4e2bdc02b8832d2d1ebc065345523bf2db00c029.mp3"
+          },
+          "dragged_image": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_dragged.6d5b3b18bb2566312afbb39b5f69e9b4d7b52d72.png",
+            "width": 210
+          },
+          "dragged_proxy": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_drag_harp.096080357af7cf8d94db8877de9fad8261e380be.png",
+            "width": 210
+          },
+          "image": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_drag_harp.096080357af7cf8d94db8877de9fad8261e380be.png",
+            "width": 210
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 779,
+            "orientation": 1,
+            "path": "68f_harp_dropped.5a993bda6c7ef3f42065b42d78db339cf3e81f9f.png",
+            "width": 720
+          }
+        },
+        {
+          "audio": {
+            "duration": 20,
+            "path": "68f_a2b_dut.a5c983901fd15481c28dbd0baad69e2e35aaefe8.mp3"
+          },
+          "dragged_image": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_dragged.6d5b3b18bb2566312afbb39b5f69e9b4d7b52d72.png",
+            "width": 210
+          },
+          "dragged_proxy": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_drag_viool.bd50fd6b2210be550fb26689f0237c926c82d2d9.png",
+            "width": 210
+          },
+          "image": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_drag_viool.bd50fd6b2210be550fb26689f0237c926c82d2d9.png",
+            "width": 210
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 779,
+            "orientation": 1,
+            "path": "68f_viool_dropped.1bb8ae278fe8aa4a6dd85a08081197a64df8c2f9.png",
+            "width": 720
+          }
+        }
+      ],
+      "drop_image": {
+        "height": 720,
+        "orientation": 1,
+        "path": "68f_initial_dropped.2a45c2d89c3531b1259a54a6b6abf07715f69854.png",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292893491,
+        "foreground": 4291969329
+      },
+      "intro_audio": {
+        "duration": 29,
+        "path": "68f_a2_0_dut.584b962da055fd3283e9a2f280d70b7743bfae72.mp3"
+      },
+      "is_bottom_aligned": false,
+      "is_question": false,
+      "number": "68g",
+      "title": "Kleur als muziek",
+      "type": "DragAndDropSegment"
+    }
+  ],
+  "title": "Kopieën naar Millet",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "borduren",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "koken",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "knippen",
+        "audio": null,
+        "is_correct": true
+      }
+    ],
+    "correct_audio": {
+      "duration": 33,
+      "path": "68f_fb_dut.fa7feddff2b3a90138aa16ef269032dade3350bf.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 16,
+      "path": "68f_fa_dut.d3ddf8123e3c906ff7242d78e043405e418b161b.mp3"
+    },
+    "question": "Wat doen de mensen op dit schilderij?",
+    "unlock_type": "QuizUnlock"
+  }
+}

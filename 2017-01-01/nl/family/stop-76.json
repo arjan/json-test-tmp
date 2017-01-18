@@ -1,0 +1,209 @@
+{
+  "floor": 1,
+  "hints": [
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/Q_h26OlRWQ4m_720x1280_FLSMFu8c.jpg",
+        "focal_point": [
+          360,
+          230
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Q_h26OlRWQ4m_720x360_1T483cKd.jpg",
+        "path": "76f_hint-a.7eb7189afa730089c7ea846412f1611e0495e089.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/Gbx3-ZtLFG9f_720x1280_Ix1deDCa.jpg",
+        "focal_point": [
+          360,
+          409
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Gbx3-ZtLFG9f_720x360_M2EzHcY6.jpg",
+        "path": "76f_hint-b.d4949df3f6cdd57dfe4bee905a2927421728d341.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/Gd-ohRp_rZnr_720x1280_DMCgOIIS.jpg",
+        "focal_point": [
+          360,
+          691
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Gd-ohRp_rZnr_720x360_jYAVjE-R.jpg",
+        "path": "76f_hint-c.3222c794542acbcf063f6823b042fdb5ebeeb131.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 10,
+        "path": "76f_hd_dut.e9a95a6da08ccd6a1ca292b0096cdf9a9a65709f.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/QLVN9_T--BTW_720x1280_fZ0UKMig.jpg",
+        "focal_point": [
+          360,
+          1100
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/QLVN9_T--BTW_720x360_aOkjKOWX.jpg",
+        "path": "76f_hint-d.52f2eed9e1e6fc0a475f1d726665623159ee166c.jpg",
+        "width": 720
+      },
+      "quote": "niets dan zonnebloem- en"
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/m8muaKcFUj74_720x1280_koN5B6eQ.jpg",
+    "focal_point": [
+      360,
+      652
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/m8muaKcFUj74_720x300_3__BWwZ7.jpg",
+    "path": "76.2ee03767ccb9064c78449a8ccbf60756bd0c4f9e.jpg",
+    "width": 720
+  },
+  "number": 76,
+  "overview_colour": 4294888192,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/A01FrYtBGNfY_720x1280_16jGVcjb.jpg",
+        "height": 720,
+        "orientation": 8,
+        "path": "76b_1.ca7c5df1fd9c5aa64bed91936094ef171612860c.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "hide_during_intro": false,
+      "hotspots": [],
+      "intro_audio": {
+        "duration": 24,
+        "path": "76f_a1_dut.e453e3419bf29e43b8b18cbcd425d8f8aba7eef0.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "76f",
+      "title": "Bloeiende zonnebloemen",
+      "type": "HotspotsSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/raNYGRMZbeUF_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "76f_a2_0.2ee03767ccb9064c78449a8ccbf60756bd0c4f9e.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292959793,
+        "foreground": 4292432431
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 12,
+            "path": "76f_a2_1_dut.90f9b40a77fb12d852209558bc8b431fea849761.mp3"
+          },
+          "coordinate": [
+            288,
+            998
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "76f_a2_1.8ae6d2c144b708a1b3e7629918ed7e091f98079c.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "76f_a2_2_dut.14c9f83cf3634890bf85a46878ff7b8f6d13f4d0.mp3"
+          },
+          "coordinate": [
+            439,
+            166
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "76f_a2_2-2.15891b7ddcc99c28b0bec309a227a87a17b4fd5c.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 7,
+            "path": "76f_a2_3_dut.67ecf6b0da6246000bfeedb444826880a30ab6d2.mp3"
+          },
+          "coordinate": [
+            612,
+            1152
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 12,
+        "path": "76f_a2_0_dut.e1c09fb37c7600fc7abc356a45e721fd0d1e62a1.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "76g",
+      "title": "Vincent wordt beroemd!",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Zonnebloemen",
+  "unlock": {
+    "code": "VINCENT",
+    "correct_audio": {
+      "duration": 28,
+      "path": "76f_fb_dut.5f70e1bfde8e8e80df1b0c8a4107602967441a1b.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 5,
+      "path": "76f_fa_dut.39f13ade51b1ce7dfd692d553910b817d8ae1b2e.mp3"
+    },
+    "question": "Welk woord zie je in het schilderij? Spel het met deze letters.",
+    "unlock_type": "CodeUnlock"
+  }
+}

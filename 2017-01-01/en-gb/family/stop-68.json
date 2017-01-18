@@ -1,0 +1,292 @@
+{
+  "floor": 3,
+  "hints": [
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/CtCtlc-l-bOH_720x1280_R5-LupD8.jpg",
+        "focal_point": [
+          360,
+          435
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/CtCtlc-l-bOH_720x360_zsyod7Rd.jpg",
+        "path": "68f_hints-a.9ca115398a650257aae6141a70a17e7586b01f45.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 14,
+        "path": "68f_hb_eng.5ce1635aeffb8fb4a3ff20cc01cf867df53c9ca8.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/eYYlnp4Pkdii_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/eYYlnp4Pkdii_720x360_1tCnCAD2.jpg",
+        "path": "68f_hints-b.17c4b94dc04798db6ccff1455de881fe335124b9.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/xhx6Zfale6oA_720x1280_R5-LupD8.jpg",
+        "focal_point": [
+          360,
+          435
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/xhx6Zfale6oA_720x360_zsyod7Rd.jpg",
+        "path": "68f_hints-c.aa147fbf0a144ae7bdfb4b7d8ff6fc8ffaaf0e54.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/oEBl0igEHPos_720x1280_PExV7KIw.jpg",
+        "focal_point": [
+          360,
+          358
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/oEBl0igEHPos_720x360_cpNyGkAW.jpg",
+        "path": "68f_hints-d.a30172cb1c3752cd08422fdb5c8a4b4b4da4b0de.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/94hn8w9N8Dou_720x1280_DMCgOIIS.jpg",
+    "focal_point": [
+      360,
+      691
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/94hn8w9N8Dou_720x300_jYAVjE-R.jpg",
+    "path": "68.dce85d62c029044a0d91808ae5dce6033137384b.jpg",
+    "width": 720
+  },
+  "number": 68,
+  "overview_colour": 4278221970,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/x4N_LUBe70xO_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "68f_a0.dd7d534567aeef09c6e6764cf9ea29db11723f9b.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292893491,
+        "foreground": 4291969329
+      },
+      "hide_during_intro": true,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 36,
+            "path": "68f_a1_eng.b7781cd1532c4fdfddf20bb8691c76bdf92d34dc.mp3"
+          },
+          "coordinate": [
+            288,
+            640
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "68f_a1.266943407ab70f13048fba6ac9aa76b25c2e31c1.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 4,
+        "path": "68f_a0_eng.24a2a7c7d17c23fba2b66663f1a0ccfb1b19cc68.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "68f",
+      "title": "See the print",
+      "type": "HotspotsSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "68f_background.b3d1a09faf8c8806de550d555a6cc4990199b029.jpg",
+        "width": 720
+      },
+      "draggables": [
+        {
+          "audio": {
+            "duration": 21,
+            "path": "68f_a2a_eng.63145c81354b8f9d6514cc64c55ffe3f2b3f6370.mp3"
+          },
+          "dragged_image": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_dragged.6d5b3b18bb2566312afbb39b5f69e9b4d7b52d72.png",
+            "width": 210
+          },
+          "dragged_proxy": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_drag_piano.48db5dcd632ab31c0915dce200cdcfad9efac54e.png",
+            "width": 210
+          },
+          "image": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_drag_piano.48db5dcd632ab31c0915dce200cdcfad9efac54e.png",
+            "width": 210
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 779,
+            "orientation": 1,
+            "path": "68f_piano_dropped.0390c31c7d1421d83f342055f02402c1e40a5b55.png",
+            "width": 720
+          }
+        },
+        {
+          "audio": {
+            "duration": 23,
+            "path": "68f_a2c_eng.5a0ecca3b97d6620303e280585118be17f92a9cd.mp3"
+          },
+          "dragged_image": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_dragged.6d5b3b18bb2566312afbb39b5f69e9b4d7b52d72.png",
+            "width": 210
+          },
+          "dragged_proxy": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_drag_harp.096080357af7cf8d94db8877de9fad8261e380be.png",
+            "width": 210
+          },
+          "image": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_drag_harp.096080357af7cf8d94db8877de9fad8261e380be.png",
+            "width": 210
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 779,
+            "orientation": 1,
+            "path": "68f_harp_dropped.5a993bda6c7ef3f42065b42d78db339cf3e81f9f.png",
+            "width": 720
+          }
+        },
+        {
+          "audio": {
+            "duration": 20,
+            "path": "68f_a2b_eng.98eebb0679bbbd5504fef5e2c7c30585c2757b94.mp3"
+          },
+          "dragged_image": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_dragged.6d5b3b18bb2566312afbb39b5f69e9b4d7b52d72.png",
+            "width": 210
+          },
+          "dragged_proxy": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_drag_viool.bd50fd6b2210be550fb26689f0237c926c82d2d9.png",
+            "width": 210
+          },
+          "image": {
+            "height": 270,
+            "orientation": 1,
+            "path": "68f_drag_viool.bd50fd6b2210be550fb26689f0237c926c82d2d9.png",
+            "width": 210
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 779,
+            "orientation": 1,
+            "path": "68f_viool_dropped.1bb8ae278fe8aa4a6dd85a08081197a64df8c2f9.png",
+            "width": 720
+          }
+        }
+      ],
+      "drop_image": {
+        "height": 720,
+        "orientation": 1,
+        "path": "68f_initial_dropped.2a45c2d89c3531b1259a54a6b6abf07715f69854.png",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292893491,
+        "foreground": 4291969329
+      },
+      "intro_audio": {
+        "duration": 23,
+        "path": "68f_a2_0_eng.882afcdced21f5627446b8b1926d427d756818de.mp3"
+      },
+      "is_bottom_aligned": false,
+      "is_question": false,
+      "number": "68g",
+      "title": "Colour as music",
+      "type": "DragAndDropSegment"
+    }
+  ],
+  "title": "Copies after Millet",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "sewing",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "cooking",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "cutting",
+        "audio": null,
+        "is_correct": true
+      }
+    ],
+    "correct_audio": {
+      "duration": 35,
+      "path": "68f_fb_eng.c5b1cf55a0249b5145a4c8cd52e3fd84a2b41ec8.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 16,
+      "path": "68f_fa_eng_.adc6b2056552527f9a98194d7cccf22e1d5eba7d.mp3"
+    },
+    "question": "What is someone in this painting doing?",
+    "unlock_type": "QuizUnlock"
+  }
+}

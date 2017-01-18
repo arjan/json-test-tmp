@@ -1,0 +1,121 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/Mdr3P5aVKKLK_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Mdr3P5aVKKLK_720x300_mfj8bjKL.jpg",
+    "path": "50.513a83b1d4c4ad1441830f718193ab486aa5da36.jpg",
+    "width": 720
+  },
+  "number": 50,
+  "overview_colour": 4283974952,
+  "segments": [
+    {
+      "audio": {
+        "duration": 81,
+        "path": "50a_ita.9ae80fc683b76e9b852aa79bc18fc5d94b153309.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50a",
+      "title": "A casa loro",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 58,
+        "path": "50b_ita.642dc259a5e3f26d84288e54dd7f1c84cc3aaaf9.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50b",
+      "title": "Una reazione scioccante",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 720,
+        "orientation": 8,
+        "path": "50c_0.c180b2ba5347f7886ab09ab696274bd824f909bd.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "intro_audio": {
+        "duration": 14,
+        "path": "50c_0_ita.55a47280647fd907dd00ae0d94c2f503f6afe297.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 12,
+            "path": "50c_1a_ita.2d0ebf97d27951734d87821a3cf8b78de10f4a54.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1a.b05318853f4e52c1f7bc3e2a305d97abbeca3eb7.jpg",
+            "width": 1280
+          },
+          "label": "La mano dell’artista"
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "50c_1b_ita.8aa69e1c5d248bb3f90e3e10603467a459466933.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1b.bd84d94f46848240fbe1c17e9e3852fdb15a4f4d.jpg",
+            "width": 1280
+          },
+          "label": "Un altro schizzo"
+        },
+        {
+          "audio": {
+            "duration": 4,
+            "path": "50c_1c_ita.0f1d8bbc0cb7870e9cd1972af54e7518e95b67c6.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1c.6785d6a6131b10abf84137ce991ab7febf7be26a.jpg",
+            "width": 1280
+          },
+          "label": "Le mani in primo piano"
+        },
+        {
+          "audio": {
+            "duration": 11,
+            "path": "50c_1d_ita.9624ff161d2e3ab1d4077d37361d237bf0b80b2a.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1d.5fdd945117753980959b4f58c215f258f6b7443d.jpg",
+            "width": 1280
+          },
+          "label": "Studio preparatorio"
+        }
+      ],
+      "number": "50c",
+      "title": "Un lungo studio",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "I mangiatori di patate"
+}

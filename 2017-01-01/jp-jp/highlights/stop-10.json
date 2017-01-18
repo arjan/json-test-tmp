@@ -1,0 +1,34 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/7oCreZd8EcMe_720x1280_LoRTsT6h.jpg",
+    "focal_point": [
+      356,
+      980
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/7oCreZd8EcMe_720x300_dB_tEh7B.jpg",
+    "path": "10.d51f9d1d7d5f31361d42cc9c5c77a5870bca2632.jpg",
+    "width": 720
+  },
+  "number": 10,
+  "overview_colour": 4278221970,
+  "segments": [
+    {
+      "audio": {
+        "duration": 98,
+        "path": "10a_jpn.297da973026cd3459c8673da5201b8ae80bb9747.mp3"
+      },
+      "footprint": {
+        "background": 4278221970,
+        "foreground": 4282029216
+      },
+      "images": [],
+      "number": "10a",
+      "title": "何が見えるか？",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "花咲くアーモンドの木の枝"
+}

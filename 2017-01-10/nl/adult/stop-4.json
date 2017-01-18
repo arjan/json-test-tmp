@@ -1,0 +1,137 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/FunSqFut2_1o_720x1280_Cw5HsHyV.jpg",
+    "focal_point": [
+      360,
+      524
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/FunSqFut2_1o_720x300_o6JmsRgx.jpg",
+    "path": "4.dc50b61be5d96bfd21a95a4f9f5c33f53e214b4e.jpg",
+    "width": 720
+  },
+  "number": 4,
+  "overview_colour": 4294888192,
+  "segments": [
+    {
+      "audio": {
+        "duration": 57,
+        "path": "4a_dut.2f85194db777fbe0e57541231344058bdd2522f0.mp3"
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "4a",
+      "title": "Een huis met een plan",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "4b_0_intro.9270c17f9a9a24841eecfc23d9e4a91d617e1597.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "intro_audio": {
+        "duration": 7,
+        "path": "4b_0_dut.f56f13305fc4bb1fc6ba5dec360fa8f04cbac766.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 3,
+            "path": "4b_1_dut.b9e144f0b39b6b95c0956b3269c2734884d9f5ab.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "4b_1_revised.f52410588af8534933934b098a38cf5d8ff98929.jpg",
+            "width": 720
+          },
+          "label": "Zijn slaapkamer"
+        },
+        {
+          "audio": {
+            "duration": 4,
+            "path": "4b_2_dut.f7198539b90a41fbe8674e4bc026c1292b470b60.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "4b_2_revised.5225ce8939e97cfd1de4e742d532e37f177c92d5.jpg",
+            "width": 720
+          },
+          "label": "Prachtige zonnebloemen"
+        },
+        {
+          "audio": {
+            "duration": 6,
+            "path": "4b_3_dut.8ffdec4849657e2cb368adcdbc7f34b962709637.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "4b_3_revised.6c3d6146a26c6e3dc496419a29ab34af4e718d3c.jpg",
+            "width": 720
+          },
+          "label": "Een stoel voor een vriend"
+        }
+      ],
+      "number": "4b",
+      "title": "Grote dingen in een klein huisje",
+      "type": "LayersSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/v4XW1aiqmGI2_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "4c_2_.9270c17f9a9a24841eecfc23d9e4a91d617e1597.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "hide_during_intro": true,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 31,
+            "path": "4c_1b_dut_.51d0083c753fe526f865b7b791bb44e4b88b3114.mp3"
+          },
+          "coordinate": [
+            288,
+            640
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "4c_1_.a144a4cf839e465fbaf2aabd5a86a59d6c572ac6.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 9,
+        "path": "4c_1a_dut_.4621985f9439758d9023da871d9ce677ded3951a.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "4c",
+      "title": "Een gast",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Het gele huis"
+}

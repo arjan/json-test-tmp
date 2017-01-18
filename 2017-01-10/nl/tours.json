@@ -1,0 +1,26 @@
+[
+  {
+    "building": "main_building",
+    "id": 1,
+    "long_title": "Ik wil alles in mijn eigen tempo bekijken",
+    "slug": "adult",
+    "title": "Eigen tempo",
+    "type": "unordered"
+  },
+  {
+    "building": "main_building",
+    "id": 2,
+    "long_title": "Ik wil de hoogtepunten zien",
+    "slug": "highlights",
+    "title": "Hoogtepunten",
+    "type": "ordered"
+  },
+  {
+    "building": "main_building",
+    "id": 4,
+    "long_title": "Ontdekken met mijn familie",
+    "slug": "family",
+    "title": "Met mijn familie",
+    "type": "ordered"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/CnCp-9lXqYGe_720x1280_hojwExeZ.jpg",
+    "focal_point": [
+      360,
+      704
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/CnCp-9lXqYGe_720x300_Hq6Sn6Uk.jpg",
+    "path": "14.7173a2d07bbdf04ab7837eec6c1ac00cd2d39ef5.jpg",
+    "width": 720
+  },
+  "number": 14,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 73,
+        "path": "14a_ger.e5ad75f91e94f07c8de1e0c8e541c49111dbfc01.mp3"
+      },
+      "footprint": {
+        "background": 4278221970,
+        "foreground": 4282029216
+      },
+      "images": [],
+      "number": "14a",
+      "title": "Wissenschaft- liche Theorien",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Selbstbildnis mit grauem Filzhut"
+}

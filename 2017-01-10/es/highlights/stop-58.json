@@ -1,0 +1,48 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/i7eOsgBTK_h1_720x1280_kWAZ1oMj.jpg",
+    "focal_point": [
+      360,
+      422
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/i7eOsgBTK_h1_720x300_ekNv0XFE.jpg",
+    "path": "58.a11241cf1bf04896eb9f049b6f709bf827e3ab6f.jpg",
+    "width": 720
+  },
+  "number": 58,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 95,
+        "path": "58a_spa.3dc14f0cd886bef60caa20205568d16ab95cfa5c.mp3"
+      },
+      "footprint": {
+        "background": 4288417308,
+        "foreground": 4291044910
+      },
+      "images": [],
+      "number": "58a",
+      "title": "Un escenario inusual",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 74,
+        "path": "58b_spa.32f68df94d6fddaef44ddaaa93efe214c1143c81.mp3"
+      },
+      "footprint": {
+        "background": 4288417308,
+        "foreground": 4291044910
+      },
+      "images": [],
+      "number": "58b",
+      "title": "La vida amorosa de Van Gogh",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "En el café: Agostina Segatori en Le Tambourin"
+}

@@ -1,0 +1,94 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/JRrEqhgSzkke_720x1280_QlLpMcbC.jpg",
+    "focal_point": [
+      360,
+      1024
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/JRrEqhgSzkke_720x300_QyjusLq8.jpg",
+    "path": "18.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+    "width": 720
+  },
+  "number": 18,
+  "overview_colour": 4282157647,
+  "segments": [
+    {
+      "audio": {
+        "duration": 75,
+        "path": "18a_fre.2033f300dbcc2cdef3c95f7b6d5ca403fe452ce0.mp3"
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "images": [],
+      "number": "18a",
+      "title": "Il y a de l’amour dans l’air",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "18b_0_.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "intro_audio": {
+        "duration": 7,
+        "path": "18b_0_fre.8ba48da77041b42c77f32e8944bc648877e73b59.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 7,
+            "path": "18b_1_fre.e97dce5ea0e9a8acde9c1ab86d1e2e5b9add23ec.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_1_.295cd873df650bd8388b68e9c8ee831ebe135568.jpg",
+            "width": 720
+          },
+          "label": "Le choix des couleurs"
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "18b_2_fre.82835341f1ad1ce7baa4dbce66ff137fdcc6fe29.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_2_.b58780a386075a1caacb47fe4aef22b3db31ee46.jpg",
+            "width": 720
+          },
+          "label": "Coups de pinceau"
+        },
+        {
+          "audio": {
+            "duration": 23,
+            "path": "18b_3_fre.0b607da060f0901d7030efdb842254c286ca9efc.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_3_.45443f6fcdfc882695b7b81dde408b7237cb065f.jpg",
+            "width": 720
+          },
+          "label": "Coloré"
+        }
+      ],
+      "number": "18b",
+      "title": "Essayez par vous-même",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Jardin des amoureux : Place Saint-Pierre"
+}

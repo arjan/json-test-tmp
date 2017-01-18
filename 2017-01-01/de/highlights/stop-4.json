@@ -1,0 +1,137 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/FunSqFut2_1o_720x1280_Cw5HsHyV.jpg",
+    "focal_point": [
+      360,
+      524
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/FunSqFut2_1o_720x300_o6JmsRgx.jpg",
+    "path": "4.dc50b61be5d96bfd21a95a4f9f5c33f53e214b4e.jpg",
+    "width": 720
+  },
+  "number": 4,
+  "overview_colour": 4294888192,
+  "segments": [
+    {
+      "audio": {
+        "duration": 66,
+        "path": "4a_ger.4391f954c225b620d03e78829363d4cc2c720824.mp3"
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "4a",
+      "title": "Ein Haus mit Plan",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "4b_0_intro.9270c17f9a9a24841eecfc23d9e4a91d617e1597.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "intro_audio": {
+        "duration": 7,
+        "path": "4b_1a_ger.fe14b5da2b5fa6466189954c87fce2da9df6f803.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 4,
+            "path": "4b_1b_ger.27758947c74dc8cef5df17a7499b16b4d45ea34a.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "4b_1_revised.f52410588af8534933934b098a38cf5d8ff98929.jpg",
+            "width": 720
+          },
+          "label": "Sein Schlafzimmer"
+        },
+        {
+          "audio": {
+            "duration": 5,
+            "path": "4b_1c_ger.56b3d7e941e6db5568dc4802f190a293f996ac5e.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "4b_2_revised.5225ce8939e97cfd1de4e742d532e37f177c92d5.jpg",
+            "width": 720
+          },
+          "label": "Herrliche Sonnenblumen"
+        },
+        {
+          "audio": {
+            "duration": 7,
+            "path": "4b_1d_ger.2b90dac9e12ad7080b338b2c343c528dedc65374.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "4b_3_revised.6c3d6146a26c6e3dc496419a29ab34af4e718d3c.jpg",
+            "width": 720
+          },
+          "label": "Einen Stuhl für einen Freund"
+        }
+      ],
+      "number": "4b",
+      "title": "Große Dinge in einem kleinen Haus",
+      "type": "LayersSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/v4XW1aiqmGI2_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "4c_2_.9270c17f9a9a24841eecfc23d9e4a91d617e1597.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "hide_during_intro": true,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 34,
+            "path": "4c_1b_ger_.eb2f15888f90114d8b88c3036d4c9483af526f92.mp3"
+          },
+          "coordinate": [
+            288,
+            640
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "4c_1_.a144a4cf839e465fbaf2aabd5a86a59d6c572ac6.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 11,
+        "path": "4c_1a_ger_.25777fce2b4b6a19c25fbc4a4f480dd3bf0cb3aa.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "4c",
+      "title": "Ein Gast",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Das gelbe Haus"
+}

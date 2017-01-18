@@ -1,0 +1,78 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/FAKCe0_vYhOH_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/FAKCe0_vYhOH_720x300_74tHK9Wi.jpg",
+    "path": "16.f165619e742c3c7ec4019c71782eea2da715bedd.jpg",
+    "width": 720
+  },
+  "number": 16,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 41,
+        "path": "16a_kor.30b0beb0c1997d68e4c56610dec35eba0a73e082.mp3"
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "images": [],
+      "number": "16a",
+      "title": "농부 모델",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/_LtM5t-0M0HO_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "16b.0414b1004e0807b12e6fbee0f5093d706e5b37fe.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292893491,
+        "foreground": 4291969329
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 8,
+            "path": "16b_1_kor.2606a4d301908f827d20140cd05d529219aacf76.mp3"
+          },
+          "coordinate": [
+            475,
+            908
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 10,
+            "path": "16b_2_kor.5aa5a75f8a023119a537322779fcdf23bb1cbeab.mp3"
+          },
+          "coordinate": [
+            237,
+            601
+          ],
+          "image": null,
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": null,
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "16b",
+      "title": "모든 게 붓놀림에서 나온다",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "농부의 두상"
+}

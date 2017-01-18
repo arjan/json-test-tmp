@@ -1,0 +1,95 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/8HxFMZeDu3ks_720x1280_IYVYS5mB.jpg",
+    "focal_point": [
+      360,
+      832
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/8HxFMZeDu3ks_720x300_E0Em4fYC.jpg",
+    "path": "28.21288d0d75a1ddd958b2c5f2fccaf5847d4126b2.jpg",
+    "width": 720
+  },
+  "number": 28,
+  "overview_colour": 4291044910,
+  "segments": [
+    {
+      "audio": {
+        "duration": 89,
+        "path": "28a_jpn.c9c14ca2ab905f3cf0e6a514d6f825ef2b89c1c9.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "28a",
+      "title": "巣",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/xBoacU-QxCsR_720x1280_16jGVcjb.jpg",
+        "height": 720,
+        "orientation": 8,
+        "path": "28b_0.a17d425fb7a6214cb0827f78fa3b26a114fb9458.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "hide_during_intro": true,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 9,
+            "path": "28b_1a_jpn.2daa7d1c1e2dd96ebdff3933fabda0c3e89f3f6c.mp3"
+          },
+          "coordinate": [
+            422,
+            288
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "28b_1a_helepagina.673406793de00ad32b9876c3108b313e19459090.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 16,
+            "path": "28b_1b_jpn.54e6eab645a6784e005dc557d6540bc2ab46b549.mp3"
+          },
+          "coordinate": [
+            960,
+            316
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "28b_1b_helepagina.673406793de00ad32b9876c3108b313e19459090.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 12,
+        "path": "28b_0_jpn.193b30e76792c7bf90f06a5331355fdd4d90e159.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "28b",
+      "title": "ニューネンとゴッホ",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "田舎家"
+}

@@ -1,0 +1,48 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/zd0-0sw4wNis_720x1280_n9CpgZva.jpg",
+    "focal_point": [
+      360,
+      665
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/zd0-0sw4wNis_720x300_1X-gwbDN.jpg",
+    "path": "99.d9653c65b691c1870c1cc92c454b191e8df27675.jpg",
+    "width": 720
+  },
+  "number": 99,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 90,
+        "path": "99a_ger.e891323e8bd92ca2d29a2f071e914a9fa3a34cee.mp3"
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "images": [],
+      "number": "99a",
+      "title": "Die Saat ausstreuen",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 55,
+        "path": "99b_ger.cafabcdeb4d0beca6f9d5f9709190b880ee5aefe.mp3"
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "images": [],
+      "number": "99b",
+      "title": "Ihre Erkenntnisse",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Der Sämann"
+}

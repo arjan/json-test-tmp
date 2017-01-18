@@ -1,0 +1,95 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/8HxFMZeDu3ks_720x1280_IYVYS5mB.jpg",
+    "focal_point": [
+      360,
+      832
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/8HxFMZeDu3ks_720x300_E0Em4fYC.jpg",
+    "path": "28.21288d0d75a1ddd958b2c5f2fccaf5847d4126b2.jpg",
+    "width": 720
+  },
+  "number": 28,
+  "overview_colour": 4291044910,
+  "segments": [
+    {
+      "audio": {
+        "duration": 76,
+        "path": "28a_chn.637d5d9907d65e2525f05a58543b8dafdef0f4c7.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "28a",
+      "title": "巢",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/xBoacU-QxCsR_720x1280_16jGVcjb.jpg",
+        "height": 720,
+        "orientation": 8,
+        "path": "28b_0.a17d425fb7a6214cb0827f78fa3b26a114fb9458.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "hide_during_intro": true,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 9,
+            "path": "28b_1a_chn.e1426085d9e1d4953fcf357d85459501ef064b3c.mp3"
+          },
+          "coordinate": [
+            422,
+            288
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "28b_1a_helepagina.673406793de00ad32b9876c3108b313e19459090.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 16,
+            "path": "28b_1b_chn.28b03ca7239c0e4f6d29989a9ef17aea7abf3bfa.mp3"
+          },
+          "coordinate": [
+            960,
+            316
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "28b_1b_helepagina.673406793de00ad32b9876c3108b313e19459090.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 11,
+        "path": "28b_0_chn.323aaa360938bbae1fc2dc0b49540704540433f3.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "28b",
+      "title": "凡高在纽南",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "农舍"
+}

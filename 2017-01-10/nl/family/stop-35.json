@@ -1,0 +1,156 @@
+{
+  "floor": 3,
+  "hints": [
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/jKQFdDdY4b8m_720x1280_GBSN0G4j.jpg",
+        "focal_point": [
+          360,
+          883
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/jKQFdDdY4b8m_720x360_pRucOqJG.jpg",
+        "path": "35f_hint_a.f20655782d1f238b2cabefb42d5348d16cff40e4.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/8XR45jElyj71_720x1280_OUOTRh0m.jpg",
+        "focal_point": [
+          360,
+          192
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/8XR45jElyj71_720x360_yS-ZkPr_.jpg",
+        "path": "35f_hint_b.2fc3d8f71912ed0126a59771c3feb721bf01adfa.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/h45vwNw3rbWx_720x1280_FiHT_kSk.jpg",
+        "focal_point": [
+          360,
+          716
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/h45vwNw3rbWx_720x360_0Pk_ka1O.jpg",
+        "path": "35f_hint_c.c355de875e301df3e13d23da64ee07a0c5b8d9d5.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/81IoUzUij6eJ_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/81IoUzUij6eJ_720x360_1tCnCAD2.jpg",
+        "path": "35f_hint_d.88b4721846ec8eb501d92cd0733def767500ce53.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/h45vwNw3rbWx_720x1280_FiHT_kSk.jpg",
+    "focal_point": [
+      360,
+      716
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/h45vwNw3rbWx_720x300_0Pk_ka1O.jpg",
+    "path": "35f_hint_c.c355de875e301df3e13d23da64ee07a0c5b8d9d5.jpg",
+    "width": 720
+  },
+  "number": 35,
+  "overview_colour": 4292893491,
+  "segments": [
+    {
+      "answers": [
+        {
+          "answer": "vredig",
+          "audio": {
+            "duration": 36,
+            "path": "35f_a1_dut.0f636551621affa271145daca35182eea3f788d2.mp3"
+          },
+          "is_correct": true
+        },
+        {
+          "answer": "onrustig",
+          "audio": {
+            "duration": 30,
+            "path": "35f_a2_dut.32d0117bdda1f0d3adbacea0a86357ba87010779.mp3"
+          },
+          "is_correct": true
+        }
+      ],
+      "footprint": {
+        "background": 4292893491,
+        "foreground": 4291969329
+      },
+      "intro_audio": null,
+      "number": "35f",
+      "question": "Denk je dat Vincent wilde dat dit schilderij er vredig uitzag, of juist onrustig?",
+      "title": "Wat voelde Vincent in deze tuin?",
+      "type": "QuizSegment"
+    }
+  ],
+  "title": "De tuin van de inrichting Saint-Paul in Saint-Rémy",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "1",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "3",
+        "audio": null,
+        "is_correct": true
+      },
+      {
+        "answer": "5",
+        "audio": null,
+        "is_correct": false
+      }
+    ],
+    "correct_audio": {
+      "duration": 18,
+      "path": "35f_fb_dut.2ad975b550fbea045f280e06e893d2e84e34f4b7.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 5,
+      "path": "35f_fa_dut.28929eda787c6a7ddd0678a95e6573ac7d4f81b6.mp3"
+    },
+    "question": "Hoeveel mensen zie je in dit schilderij?",
+    "unlock_type": "QuizUnlock"
+  }
+}

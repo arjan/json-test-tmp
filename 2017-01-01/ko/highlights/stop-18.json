@@ -1,0 +1,94 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/JRrEqhgSzkke_720x1280_QlLpMcbC.jpg",
+    "focal_point": [
+      360,
+      1024
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/JRrEqhgSzkke_720x300_QyjusLq8.jpg",
+    "path": "18.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+    "width": 720
+  },
+  "number": 18,
+  "overview_colour": 4282157647,
+  "segments": [
+    {
+      "audio": {
+        "duration": 64,
+        "path": "18a_kor.f8affbef3e322d3f487e45d9f6ca500e98f5b50f.mp3"
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "images": [],
+      "number": "18a",
+      "title": "사랑이 만연하다",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "18b_0_.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "intro_audio": {
+        "duration": 4,
+        "path": "18b_0_kor.633bea793733a2f6c34dd6b401e847175dc0f4f1.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 8,
+            "path": "18b_1_kor.73881931fca2cb33773f962436ba7e3db5967854.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_1_.295cd873df650bd8388b68e9c8ee831ebe135568.jpg",
+            "width": 720
+          },
+          "label": "색깔 고르기"
+        },
+        {
+          "audio": {
+            "duration": 8,
+            "path": "18b_2_kor.cc25381a9507208886bfe03c3f437fda94dea3ae.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_2_.b58780a386075a1caacb47fe4aef22b3db31ee46.jpg",
+            "width": 720
+          },
+          "label": "절반의 붓 터치"
+        },
+        {
+          "audio": {
+            "duration": 16,
+            "path": "18b_3_kor.a8ca09c60ad78119a084864b8cbe86bcca357fe2.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_3_.45443f6fcdfc882695b7b81dde408b7237cb065f.jpg",
+            "width": 720
+          },
+          "label": "채우기"
+        }
+      ],
+      "number": "18b",
+      "title": "직접 해 보세요",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "연인이 있는 정원, 셍피에르 광장 "
+}

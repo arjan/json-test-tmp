@@ -1,0 +1,200 @@
+{
+  "floor": 1,
+  "hints": [
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/YElg7bU9-rWq_720x1280_aaVpmMvk.jpg",
+        "focal_point": [
+          360,
+          460
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/YElg7bU9-rWq_720x360_92GuGs6i.jpg",
+        "path": "50_hint-a.9868d6efce857be1d697754ef9def491925732d4.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 8,
+        "path": "50f_hb_dut.a369f9fad201e23a35711da3b73c1086a800d6b1.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/Se5oDi8KZZDl_720x1280_m6hpx2ur.jpg",
+        "focal_point": [
+          360,
+          473
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Se5oDi8KZZDl_720x360_mJJxvG_L.jpg",
+        "path": "50_hint-b.caf013bae01079b686aa2191b935ec1a446fb4c3.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 11,
+        "path": "50f_hc_dut.2361056a87d7aa6ba724e01a54cadbd5190eeb44.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/p08PkQX_p3J5_720x1280_qOKgxFDX.jpg",
+        "focal_point": [
+          360,
+          1088
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/p08PkQX_p3J5_720x360_GyaJIuwC.jpg",
+        "path": "50_hint-c_v2.ae3244c1feb0fa9d1808d1f0086582f97bdda7f7.jpg",
+        "width": 720
+      },
+      "quote": "Ik ben opnieuw bezig aan die boeren om een schotel aardappels."
+    },
+    {
+      "audio": {
+        "duration": 6,
+        "path": "prompt_bb_dut.75d20dedcb655ba711264f6bc27d247370fb530c.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/XZxl5GwjGuRe_720x1280_5DaLkjeD.jpg",
+        "focal_point": [
+          360,
+          896
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/XZxl5GwjGuRe_720x360_tn6qDdNb.jpg",
+        "path": "50_hint-d.03239d653f6339454dd93ff26c2e22c15ff9f2a7.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/Mdr3P5aVKKLK_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Mdr3P5aVKKLK_720x300_mfj8bjKL.jpg",
+    "path": "50.513a83b1d4c4ad1441830f718193ab486aa5da36.jpg",
+    "width": 720
+  },
+  "number": 50,
+  "overview_colour": 4283974952,
+  "segments": [
+    {
+      "background_image": {
+        "height": 720,
+        "orientation": 8,
+        "path": "50c_0.c180b2ba5347f7886ab09ab696274bd824f909bd.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "intro_audio": {
+        "duration": 12,
+        "path": "50f_a0_dut.48c03dfed41d8933b8755fa4f814ff0eecbccdab.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 9,
+            "path": "50f_a1b_dut.89f0b0628ca131a44bf41cb5dc1871808bd4771a.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50f_a1b.6785d6a6131b10abf84137ce991ab7febf7be26a.jpg",
+            "width": 1280
+          },
+          "label": "Vincent werkt de details uit"
+        },
+        {
+          "audio": {
+            "duration": 15,
+            "path": "50f_a1c_dut.4078abc6392bd84f28b2b7e972abae614e96a920.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50f_a1c.1bf2e9edff81f71083101ed4b13ded6b362f8933.jpg",
+            "width": 1280
+          },
+          "label": "Vincent laat zien wat hij van plan is"
+        },
+        {
+          "audio": {
+            "duration": 35,
+            "path": "50f_a1d_dut.aafe487c956164982c8b1ed9411d6d033eac0146.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50f_a1d.ec95250ed8b739cb65aba7849e281ed7dea257b3.jpg",
+            "width": 1280
+          },
+          "label": "Vincent krijgt ‘nee’ te horen"
+        },
+        {
+          "audio": {
+            "duration": 29,
+            "path": "50f_a1a_dut.9a5810c4a917ae01f61c02f3458d151638bbfd18.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50f_a1a.5fdd945117753980959b4f58c215f258f6b7443d.jpg",
+            "width": 1280
+          },
+          "label": "Vincent doet een poging"
+        }
+      ],
+      "number": "50f",
+      "title": "Zijn ze mooi of lelijk?",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "De aardappeleters",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "water",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "koffie",
+        "audio": null,
+        "is_correct": true
+      },
+      {
+        "answer": "ranja",
+        "audio": null,
+        "is_correct": false
+      }
+    ],
+    "correct_audio": {
+      "duration": 25,
+      "path": "50f_fb_dut.7caf2a4b1ad65d69eaeff824beb38aa738f5c127.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 5,
+      "path": "50f_fa_dut.05d595639fcda4e19ce0f2685dd3e8474539569e.mp3"
+    },
+    "question": "Wat drinken deze mensen bij hun maaltijd?",
+    "unlock_type": "QuizUnlock"
+  }
+}

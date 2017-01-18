@@ -1,0 +1,109 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/raJTxqv4hf1F_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/raJTxqv4hf1F_720x300_74tHK9Wi.jpg",
+    "path": "37_3.cc20c6c4be14b066b1abc1903f4bd33c463524d0.jpg",
+    "width": 720
+  },
+  "number": 37,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 73,
+        "path": "37a_ger.790c6f61eacc8d62ec8ff567394d2c4669150826.mp3"
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "images": [],
+      "number": "37a",
+      "title": "Kunst, die van Gogh liebte",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/becvtgWX7Mqf_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "37b_0.6d32c582fa177715ea1147ecf77490b0cb080141.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 7,
+            "path": "37b_1_ger.106cd209caeff890aef38c1c5093692c1a5206d6.mp3"
+          },
+          "coordinate": [
+            172,
+            448
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "37b_1.8c4a1212c43ba45333514cf10b967e5678f32d3e.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 8,
+            "path": "37b_2_ger.a5f09261affa40a2e4f7de63fba3ce54d605aaec.mp3"
+          },
+          "coordinate": [
+            612,
+            883
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "37b_2.f24c4da239a01ffd6d5c6fdb17e5d2f0a7a9af97.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 12,
+            "path": "37b_3_ger.75110d3959f98fffb5b2c311132650766a1fff61.mp3"
+          },
+          "coordinate": [
+            194,
+            1164
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "37b_3.d70f0588997f991938bdabc7dffcc1f2d1be5949.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 6,
+        "path": "37b_0_ger.0fcc360227af397c2861531ffbea0c31d0bb7c91.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "37b",
+      "title": "Was van Gogh über Bauern sagte",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Das Landleben"
+}

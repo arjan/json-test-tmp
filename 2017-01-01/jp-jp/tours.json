@@ -1,0 +1,18 @@
+[
+  {
+    "building": "main_building",
+    "id": 1,
+    "long_title": "ゆっくりと鑑賞したい",
+    "slug": "adult",
+    "title": "ゆっくりと鑑賞する",
+    "type": "unordered"
+  },
+  {
+    "building": "main_building",
+    "id": 2,
+    "long_title": "ハイライトを見たい",
+    "slug": "highlights",
+    "title": "ハイライトを見る",
+    "type": "ordered"
+  }
+]

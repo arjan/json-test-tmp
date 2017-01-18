@@ -1,0 +1,133 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/ZezUWXgzJuQ4_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/ZezUWXgzJuQ4_720x300_74tHK9Wi.jpg",
+    "path": "7.47465025ec0c514e3f2a4f467d9526957f5854c1.jpg",
+    "width": 720
+  },
+  "number": 7,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": null,
+      "draggables": [
+        {
+          "audio": {
+            "duration": 9,
+            "path": "7a_2_eng.13958c6eb7d9424d7f95e55854b0dd6ac2841517.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-leeg_2.5dd51fc63e7162a55ccc0a78f46d1eefe4c9c208.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 180,
+            "orientation": 1,
+            "path": "7_brief-schuin_.d5ffbc15bb753d71fe0cbd557113fc5b4ff28126.png",
+            "width": 150
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-2_eng.de939a0684db162ea77725b60721eae1c255b129.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 670,
+            "orientation": 1,
+            "path": "7_brief-2_eng.88d455b386d9bc73809dc778a5335265c05237b0.png",
+            "width": 550
+          }
+        },
+        {
+          "audio": {
+            "duration": 12,
+            "path": "7a_3_eng.5c63f20a23faa44911680f8921738c3e042e6ee1.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-leeg_2.5dd51fc63e7162a55ccc0a78f46d1eefe4c9c208.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 180,
+            "orientation": 1,
+            "path": "7_brief-schuin_.d5ffbc15bb753d71fe0cbd557113fc5b4ff28126.png",
+            "width": 150
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-3_eng.01039c114efa817214c3c4a0230f8a0089281b2e.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 670,
+            "orientation": 1,
+            "path": "7_brief-3_eng.f92ba4ca027d3d9209f7121d560af8c82909ca2a.png",
+            "width": 550
+          }
+        },
+        {
+          "audio": {
+            "duration": 8,
+            "path": "7a_1_eng.e95f002e8ff4b529ae903a46381ee879254864c3.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-leeg_2.5dd51fc63e7162a55ccc0a78f46d1eefe4c9c208.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 180,
+            "orientation": 1,
+            "path": "7_brief-schuin_.d5ffbc15bb753d71fe0cbd557113fc5b4ff28126.png",
+            "width": 150
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-1_eng.4fba677b491688e26e7f5a85af4f9e3b100dba36.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 670,
+            "orientation": 1,
+            "path": "7_brief-1_eng.8c23f3c28ca2e527fa640b1ac21a913db3f273dc.png",
+            "width": 550
+          }
+        }
+      ],
+      "drop_image": {
+        "height": 670,
+        "orientation": 1,
+        "path": "7a_drag_area.f3789b9e9e649563e6a0a04ce5aa93f408d8a9df.png",
+        "width": 550
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "intro_audio": {
+        "duration": 16,
+        "path": "7a_0_eng.eddf4c31d61f950d01cd680a46b8b3d795adc921.mp3"
+      },
+      "is_bottom_aligned": false,
+      "is_question": false,
+      "number": "7a",
+      "title": "Feelings in words",
+      "type": "DragAndDropSegment"
+    }
+  ],
+  "title": "Theo Van Gogh’s Collector’s Cabinet"
+}

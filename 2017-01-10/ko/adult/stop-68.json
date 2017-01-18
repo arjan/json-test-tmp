@@ -1,0 +1,94 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/94hn8w9N8Dou_720x1280_DMCgOIIS.jpg",
+    "focal_point": [
+      360,
+      691
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/94hn8w9N8Dou_720x300_jYAVjE-R.jpg",
+    "path": "68.dce85d62c029044a0d91808ae5dce6033137384b.jpg",
+    "width": 720
+  },
+  "number": 68,
+  "overview_colour": 4278221970,
+  "segments": [
+    {
+      "audio": {
+        "duration": 52,
+        "path": "68a_kor.807b5fe5191f2472d69618192ef2ec02b0f14c71.mp3"
+      },
+      "footprint": {
+        "background": 4288928744,
+        "foreground": 4288400078
+      },
+      "images": [],
+      "number": "68a",
+      "title": "악기로서의 컬러",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "68b_0.5630a52ae626a011e76d09fca649a04ced4e037e.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "intro_audio": {
+        "duration": 12,
+        "path": "68b_0_kor.97ca14b69497027c34d7587ff32111562d150d1a.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 4,
+            "path": "68b_1a_kor.f36fbe3a767cce9a20cdcfde7567345a102f41ad.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "68b_1a.984bdda87892b221e2b253fd7ee8158f0050ab3f.jpg",
+            "width": 720
+          },
+          "label": "정신병원 입구"
+        },
+        {
+          "audio": {
+            "duration": 8,
+            "path": "68b_1b_kor.d946f759692bea784dce50e38473e80c93e7c157.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "68b_1b_2.be5b07cd2a35b68deae10c4c625ad497c23abe27.jpg",
+            "width": 720
+          },
+          "label": "복도"
+        },
+        {
+          "audio": {
+            "duration": 10,
+            "path": "68b_1c_kor.43513aebc7535cbb7d38adf858f64acbaaf4f72b.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "68b_1c.24e8db300ebab36217caa5de826e1ade14b4af69.jpg",
+            "width": 720
+          },
+          "label": "그가 바라본 풍경"
+        }
+      ],
+      "number": "68b",
+      "title": "정신병원에서 반 고흐가 바라본 것",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "밀레를 모방한 반 고흐"
+}

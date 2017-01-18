@@ -1,0 +1,48 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/i7eOsgBTK_h1_720x1280_kWAZ1oMj.jpg",
+    "focal_point": [
+      360,
+      422
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/i7eOsgBTK_h1_720x300_ekNv0XFE.jpg",
+    "path": "58.a11241cf1bf04896eb9f049b6f709bf827e3ab6f.jpg",
+    "width": 720
+  },
+  "number": 58,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 77,
+        "path": "58a_rus.d2e9fd35ac8bc85275a5f8cdcf2beac463045ad9.mp3"
+      },
+      "footprint": {
+        "background": 4288417308,
+        "foreground": 4291044910
+      },
+      "images": [],
+      "number": "58a",
+      "title": "Необычная обстановка",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 72,
+        "path": "58b_rus.74bd32d5e650b13bde03d581c895acfc7bdb6e34.mp3"
+      },
+      "footprint": {
+        "background": 4288417308,
+        "foreground": 4291044910
+      },
+      "images": [],
+      "number": "58b",
+      "title": "Романтическая жизнь Ван Гога",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Агостина Сегатори в кафе «Тамбурин»"
+}

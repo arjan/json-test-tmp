@@ -1,0 +1,34 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/ypqC2fSvDeKn_720x1280_hojwExeZ.jpg",
+    "focal_point": [
+      360,
+      704
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/ypqC2fSvDeKn_720x300_Hq6Sn6Uk.jpg",
+    "path": "41.e64d61742a3162f72861a62c4b8fa92e9b6f9868.jpg",
+    "width": 720
+  },
+  "number": 41,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 79,
+        "path": "41a_prt.111b8b0a62ff45e1528dd348d0c242bfbb541a06.mp3"
+      },
+      "footprint": {
+        "background": 4287332728,
+        "foreground": 4288845960
+      },
+      "images": [],
+      "number": "41a",
+      "title": "Fumando Muito",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Caveira com Cigarro Ardente"
+}

@@ -1,0 +1,133 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/ZezUWXgzJuQ4_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/ZezUWXgzJuQ4_720x300_74tHK9Wi.jpg",
+    "path": "7.47465025ec0c514e3f2a4f467d9526957f5854c1.jpg",
+    "width": 720
+  },
+  "number": 7,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": null,
+      "draggables": [
+        {
+          "audio": {
+            "duration": 11,
+            "path": "7a_2_jpn.98cffd33539e04589190249528b4a74383ee8496.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-leeg_2.5dd51fc63e7162a55ccc0a78f46d1eefe4c9c208.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 180,
+            "orientation": 1,
+            "path": "7_brief-schuin_.d5ffbc15bb753d71fe0cbd557113fc5b4ff28126.png",
+            "width": 150
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-2_jpn.0abdb12b0acd8abb588d79d033350bf70262e9aa.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 670,
+            "orientation": 1,
+            "path": "7_brief-2_jpn.6d45569a33fed5838fe0a231d7f80352a6bc1081.png",
+            "width": 550
+          }
+        },
+        {
+          "audio": {
+            "duration": 12,
+            "path": "7a_3_jpn.3cf5cf3f1332aaed007fa5c8a32ab6b38d59b154.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-leeg_2.5dd51fc63e7162a55ccc0a78f46d1eefe4c9c208.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 180,
+            "orientation": 1,
+            "path": "7_brief-schuin_.d5ffbc15bb753d71fe0cbd557113fc5b4ff28126.png",
+            "width": 150
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-3_jpn.7b39b2f31422ea2cab709ebcd760c46a2f7b9397.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 670,
+            "orientation": 1,
+            "path": "7_brief-3_jpn.d806b0c6b9a5abf55c5f9edd35303634da494f4f.png",
+            "width": 550
+          }
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "7a_1_jpn.4ac50639f0539a54e35b986bdabf7d8da20a1d20.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-leeg_2.5dd51fc63e7162a55ccc0a78f46d1eefe4c9c208.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 180,
+            "orientation": 1,
+            "path": "7_brief-schuin_.d5ffbc15bb753d71fe0cbd557113fc5b4ff28126.png",
+            "width": 150
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-1_jpn.73f4e4c481e7b4fc21c077461af7db226f6fdbde.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 670,
+            "orientation": 1,
+            "path": "7_brief-1_jpn.ab6959aa6cc3926e2af4995489a5f5b41a203e70.png",
+            "width": 550
+          }
+        }
+      ],
+      "drop_image": {
+        "height": 670,
+        "orientation": 1,
+        "path": "7a_drag_area.f3789b9e9e649563e6a0a04ce5aa93f408d8a9df.png",
+        "width": 550
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "intro_audio": {
+        "duration": 22,
+        "path": "7a_0_jpn.1b2f3b4e1a163a8e46cb07f9b3706854f7d6a75c.mp3"
+      },
+      "is_bottom_aligned": false,
+      "is_question": false,
+      "number": "7a",
+      "title": "気持ちを言葉で",
+      "type": "DragAndDropSegment"
+    }
+  ],
+  "title": "テオ・ファン・ゴッホのキャビネット"
+}

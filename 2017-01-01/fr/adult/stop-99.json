@@ -1,0 +1,48 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/zd0-0sw4wNis_720x1280_n9CpgZva.jpg",
+    "focal_point": [
+      360,
+      665
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/zd0-0sw4wNis_720x300_1X-gwbDN.jpg",
+    "path": "99.d9653c65b691c1870c1cc92c454b191e8df27675.jpg",
+    "width": 720
+  },
+  "number": 99,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 80,
+        "path": "99a_fre.afcfdf81d3a105da7afb50559cf5ed417f6168d1.mp3"
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "images": [],
+      "number": "99a",
+      "title": "Semer des graines",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 54,
+        "path": "99b_fre.fd6e0ba096ab8977a2c5813fd1591e84970d2f3d.mp3"
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "images": [],
+      "number": "99b",
+      "title": "Nouvelles perspectives",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Le Semeur"
+}

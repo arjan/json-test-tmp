@@ -1,0 +1,137 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/FunSqFut2_1o_720x1280_Cw5HsHyV.jpg",
+    "focal_point": [
+      360,
+      524
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/FunSqFut2_1o_720x300_o6JmsRgx.jpg",
+    "path": "4.dc50b61be5d96bfd21a95a4f9f5c33f53e214b4e.jpg",
+    "width": 720
+  },
+  "number": 4,
+  "overview_colour": 4294888192,
+  "segments": [
+    {
+      "audio": {
+        "duration": 73,
+        "path": "4a_spa.9a857109dc9973133cc72e3131f4da73c9837493.mp3"
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "4a",
+      "title": "Una casa con una misión",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "4b_0_intro.9270c17f9a9a24841eecfc23d9e4a91d617e1597.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "intro_audio": {
+        "duration": 7,
+        "path": "4b_1a_spa.f72a7ad13c7fe84a486274dfbc624a5e210a9e10.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 3,
+            "path": "4b_1b_spa.e087b068ca97aa667701ae09dc2a075e8fe11a12.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "4b_1_revised.f52410588af8534933934b098a38cf5d8ff98929.jpg",
+            "width": 720
+          },
+          "label": "Su dormitorio"
+        },
+        {
+          "audio": {
+            "duration": 5,
+            "path": "4b_1c_spa.440bfe8d058088e2ee1f6ea1b009f0af4f56e4db.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "4b_2_revised.5225ce8939e97cfd1de4e742d532e37f177c92d5.jpg",
+            "width": 720
+          },
+          "label": "Hermosos girasoles"
+        },
+        {
+          "audio": {
+            "duration": 7,
+            "path": "4b_1d_spa.799631735ff5f088445009394ded91f16e8d8d6e.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "4b_3_revised.6c3d6146a26c6e3dc496419a29ab34af4e718d3c.jpg",
+            "width": 720
+          },
+          "label": "Una silla para un amigo"
+        }
+      ],
+      "number": "4b",
+      "title": "Grandes cosas en una pequeña casa",
+      "type": "LayersSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/v4XW1aiqmGI2_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "4c_2_.9270c17f9a9a24841eecfc23d9e4a91d617e1597.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "hide_during_intro": true,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 35,
+            "path": "4c_1b_spa_.edd3b4134d38f1d00f7271977340dcd99f8eb81a.mp3"
+          },
+          "coordinate": [
+            288,
+            640
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "4c_1_.a144a4cf839e465fbaf2aabd5a86a59d6c572ac6.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 10,
+        "path": "4c_1a_spa_.ff295eb35a8757785d9ca4c83ca10bcf2f144942.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "4c",
+      "title": "Un invitado",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "La casa amarilla"
+}

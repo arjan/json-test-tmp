@@ -1,0 +1,132 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/QA25ahhfVsvj_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/QA25ahhfVsvj_720x300_74tHK9Wi.jpg",
+    "path": "83.94b8521f5673dad6eac471fb149b5469df85d175.jpg",
+    "width": 720
+  },
+  "number": 83,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 59,
+        "path": "83a_kor.50a94dc539d7c999be5e05425adb85d33fd259fe.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "83a",
+      "title": "반 고흐, 드로잉에서 힘을 찾다",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": null,
+      "draggables": [
+        {
+          "audio": {
+            "duration": 6,
+            "path": "83b_2_kor.eef5a8c1d806526116880c6c072869ec782847f5.mp3"
+          },
+          "dragged_image": null,
+          "dragged_proxy": {
+            "height": 535,
+            "orientation": 8,
+            "path": "pencil-hover_.b291d3c8a9a0babf06bdc52a68080fd3dcb6ed74.png",
+            "width": 680
+          },
+          "image": {
+            "height": 367,
+            "orientation": 1,
+            "path": "pencil_.280b20c8e55c9a323f9c6f4a8675b21ddb9db704.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 535,
+            "orientation": 8,
+            "path": "charcoal-drawing_3.a6955a0add2e36f1a2aff1718118a6185c4c3893.png",
+            "width": 680
+          }
+        },
+        {
+          "audio": {
+            "duration": 6,
+            "path": "83b_3_kor.910efab1d788bda3365a8e3f4d4ca8ab05d11192.mp3"
+          },
+          "dragged_image": null,
+          "dragged_proxy": {
+            "height": 126,
+            "orientation": 8,
+            "path": "charcoal-hover.bf0834ae07b54244aeb52008b75fb64ba614c483.png",
+            "width": 196
+          },
+          "image": {
+            "height": 151,
+            "orientation": 1,
+            "path": "charcoal.8e6d721efe176b851f483273ad1ce3731e24580d.png",
+            "width": 40
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 535,
+            "orientation": 8,
+            "path": "pencil-drawing_2.a844d3e6ba54d4308df678f28569a7203a312b6c.png",
+            "width": 680
+          }
+        },
+        {
+          "audio": {
+            "duration": 12,
+            "path": "83b_1_kor.2230290e843a4030a885a05eb29af954be970d7a.mp3"
+          },
+          "dragged_image": null,
+          "dragged_proxy": {
+            "height": 535,
+            "orientation": 8,
+            "path": "pen-hover_.714ddcf68ea95571a3f6ecdcc19087dd585c9c90.png",
+            "width": 680
+          },
+          "image": {
+            "height": 367,
+            "orientation": 1,
+            "path": "pen_.e692cd9fce5a8c1099cc74a73d8bf4a84c009929.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 535,
+            "orientation": 8,
+            "path": "pen-drawing_.eedcfecc87332ebdbd975e5b5dbb573399be4b05.png",
+            "width": 680
+          }
+        }
+      ],
+      "drop_image": {
+        "height": 535,
+        "orientation": 8,
+        "path": "paper_.d1ab64a3d8a7876b500af01e0f3047de1cace68e.png",
+        "width": 680
+      },
+      "footprint": {
+        "background": 4287332728,
+        "foreground": 4288845960
+      },
+      "intro_audio": {
+        "duration": 12,
+        "path": "83b_0_kor.d0218aefe0c924d430ca281b0c03abd72babc371.mp3"
+      },
+      "is_bottom_aligned": true,
+      "is_question": false,
+      "number": "83b",
+      "title": "다양한 효과",
+      "type": "DragAndDropSegment"
+    }
+  ],
+  "title": "드로잉"
+}

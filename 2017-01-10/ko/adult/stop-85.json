@@ -1,0 +1,124 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/yN1NtejvrVoy_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/yN1NtejvrVoy_720x300_mfj8bjKL.jpg",
+    "path": "85_kaart.f6a08e3ee87e5e0af167d3bbae11cdeb9a6e9f9f.jpg",
+    "width": 720
+  },
+  "number": 85,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/BvHJd0kECUFC_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "85a_final_frame.f6a08e3ee87e5e0af167d3bbae11cdeb9a6e9f9f.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 22,
+            "path": "85a_2a_kor.510f00cb3826ad729edcbc6b077ee8f818780e41.mp3"
+          },
+          "coordinate": [
+            367,
+            422
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "85a_2a.803f1cb8ac63850a07584e0e1c41135425909e95.jpg",
+            "width": 720
+          },
+          "panel": {
+            "height": 593,
+            "orientation": 1,
+            "path": "thumb_85a_2a.375e7e4c4e076d0b85ac09713619129a3de90be0.jpg",
+            "width": 360
+          },
+          "panel_coordinate": [
+            432,
+            384
+          ]
+        },
+        {
+          "audio": {
+            "duration": 20,
+            "path": "85a_2b_kor.df9bb769003ee1af7bfc8885a3f5cb9df9ac16fe.mp3"
+          },
+          "coordinate": [
+            216,
+            1100
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "85a_2b_v2.7f4613934880a5b04ea9023241b5e43fbd645494.jpg",
+            "width": 720
+          },
+          "panel": {
+            "height": 595,
+            "orientation": 1,
+            "path": "thumb_85a_2b.b14b879fb25722847bfa319e790cb349bd3d1fc5.png",
+            "width": 360
+          },
+          "panel_coordinate": [
+            115,
+            896
+          ]
+        },
+        {
+          "audio": {
+            "duration": 7,
+            "path": "85a_2c_kor.956e39ec5c452798d3b2f3adcf446fa029b7cbb7.mp3"
+          },
+          "coordinate": [
+            381,
+            742
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "85_datavisualisatie_kor.90332adcf6798c1a61a37c4e1fc49488f49b827b.png",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 9,
+        "path": "85a_2_kor.11ae0b03a1249030460856c1263fd4cbcf091356.mp3"
+      },
+      "intro_video": {
+        "duration": 21,
+        "height": 1280,
+        "orientation": 1,
+        "path": "85a_nuenen-antwerpen-parijs_kor.9170ff162bdc58d8d09c61c5abd8b95b63884048.mp4",
+        "width": 720
+      },
+      "intro_voiceover_audio": {
+        "duration": 15,
+        "path": "85a_1_kor.02e336dc587168586db2a78e859248d5ed74c2cf.mp3"
+      },
+      "number": "85a",
+      "title": "파리로 가다",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "파리"
+}

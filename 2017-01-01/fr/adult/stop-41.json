@@ -1,0 +1,95 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/ypqC2fSvDeKn_720x1280_hojwExeZ.jpg",
+    "focal_point": [
+      360,
+      704
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/ypqC2fSvDeKn_720x300_Hq6Sn6Uk.jpg",
+    "path": "41.e64d61742a3162f72861a62c4b8fa92e9b6f9868.jpg",
+    "width": 720
+  },
+  "number": 41,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 67,
+        "path": "41a_fre.07e1d6b3c0c9693f4c1521569c1c05f713c02a37.mp3"
+      },
+      "footprint": {
+        "background": 4287332728,
+        "foreground": 4288845960
+      },
+      "images": [],
+      "number": "41a",
+      "title": "Fumer comme un pompier",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/lQsK3xmn1XVr_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "41b_0.319d3880e9898d7a089e560a1125176932b6cc62.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 13,
+            "path": "41b_1_fre.74ac9426270ca510aac357612a3d530d46b79510.mp3"
+          },
+          "coordinate": [
+            259,
+            512
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "41b_1.ffe4e64de0c0030cadfca91f1ecfff0dc77100f6.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 8,
+            "path": "41b_2_fre.159537deb961a8353b77407bdd79387314baff42.mp3"
+          },
+          "coordinate": [
+            259,
+            947
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "41b_2.00b7559b6170d7c34d6b2bd10ff2edfa1dee9c55.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 8,
+        "path": "41b_0_fre.670b699c8848dd87ee3ca84752e00ba71b7f76ab.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "41b",
+      "title": "Vue de la salle de classe de Van Gogh",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Crâne de squelette fumant une cigarette"
+}

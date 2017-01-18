@@ -1,0 +1,48 @@
+{
+  "floor": 0,
+  "image": {
+    "blurred_image_path": "thumbnails/t2fPJ6J4BMWW_720x1280_n9CpgZva.jpg",
+    "focal_point": [
+      360,
+      665
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/t2fPJ6J4BMWW_720x300_1X-gwbDN.jpg",
+    "path": "40_.5974ff60df0a718b84eab098dbd6b4a735f50a93.jpg",
+    "width": 720
+  },
+  "number": 40,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 39,
+        "path": "40a_ger.60d74542d70a6e7718f7bb26a3f5766bc826bde9.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "40a",
+      "title": "Van Goghs Palette",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 63,
+        "path": "40b_ger.52f3b43bca8fdf814cfa79cf377b759d24060b93.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "40b",
+      "title": "Blick in die Vergangenheit",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Van Goghs Palette"
+}

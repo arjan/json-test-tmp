@@ -1,0 +1,167 @@
+{
+  "floor": 3,
+  "hints": [
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/VTzVSESzsvUO_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/VTzVSESzsvUO_720x360_1tCnCAD2.jpg",
+        "path": "10f_hint_a.32aa4c58757d9afb9b3d94fa215697572f7ecb41.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/zZlhcH6FPrb__720x1280_7CmYEeqz.jpg",
+        "focal_point": [
+          360,
+          985
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/zZlhcH6FPrb__720x360_n7DvGMWW.jpg",
+        "path": "10f_hint_b.57d106c64f543ed6ee303b87bb595a70593c03e4.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/bGKsR0yN2jRR_720x1280_e0vQUPa1.jpg",
+        "focal_point": [
+          360,
+          640
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/bGKsR0yN2jRR_720x360_1tCnCAD2.jpg",
+        "path": "10f_hint_c_2.ba72dea5174716c206e06d028a4f5de162bb65a2.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/8lhC9MldGlVY_720x1280_NqWJz72v.jpg",
+        "focal_point": [
+          360,
+          972
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/8lhC9MldGlVY_720x360_GitJqc5b.jpg",
+        "path": "10f_hint_d_v2.25ac80a8e12d0cc9646da056071ed6ff307dd546.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/7oCreZd8EcMe_720x1280_LoRTsT6h.jpg",
+    "focal_point": [
+      356,
+      980
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/7oCreZd8EcMe_720x300_dB_tEh7B.jpg",
+    "path": "10.d51f9d1d7d5f31361d42cc9c5c77a5870bca2632.jpg",
+    "width": 720
+  },
+  "number": 10,
+  "overview_colour": 4278221970,
+  "segments": [
+    {
+      "answers": [
+        {
+          "answer": "Looking up at the tree from below",
+          "audio": {
+            "duration": 14,
+            "path": "10f_a_answer_eng.736a6fe0ad38ed5788974bb34321ffd9993f29c1.mp3"
+          },
+          "is_correct": true
+        },
+        {
+          "answer": "Looking at more than one tree",
+          "audio": {
+            "duration": 14,
+            "path": "10f_a_answer_eng.736a6fe0ad38ed5788974bb34321ffd9993f29c1.mp3"
+          },
+          "is_correct": true
+        },
+        {
+          "answer": "He brought branches indoors",
+          "audio": {
+            "duration": 14,
+            "path": "10f_a_answer_eng.736a6fe0ad38ed5788974bb34321ffd9993f29c1.mp3"
+          },
+          "is_correct": true
+        }
+      ],
+      "footprint": {
+        "background": 4278221970,
+        "foreground": 4282029216
+      },
+      "intro_audio": {
+        "duration": 24,
+        "path": "10f_a_0_eng.8f3a7b21f21717a58c72a408e25cc4f8414304fb.mp3"
+      },
+      "number": "10f",
+      "question": "Where did Vincent paint this?",
+      "title": "Where did Vincent paint this?",
+      "type": "QuizSegment"
+    }
+  ],
+  "title": "Almond Blossom",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "flowers",
+        "audio": null,
+        "is_correct": true
+      },
+      {
+        "answer": "fruits",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "vegetables",
+        "audio": null,
+        "is_correct": false
+      }
+    ],
+    "correct_audio": {
+      "duration": 34,
+      "path": "10f_fb_eng.f968564c2e2008682e7f3c0a5df8039ea8bedbe3.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 5,
+      "path": "10f_fa_eng.052d6500619fe41758edb776c632a87dae260a49.mp3"
+    },
+    "question": "What’s growing on the tree?",
+    "unlock_type": "QuizUnlock"
+  }
+}

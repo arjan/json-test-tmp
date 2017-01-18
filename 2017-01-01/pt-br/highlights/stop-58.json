@@ -1,0 +1,48 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/i7eOsgBTK_h1_720x1280_kWAZ1oMj.jpg",
+    "focal_point": [
+      360,
+      422
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/i7eOsgBTK_h1_720x300_ekNv0XFE.jpg",
+    "path": "58.a11241cf1bf04896eb9f049b6f709bf827e3ab6f.jpg",
+    "width": 720
+  },
+  "number": 58,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 95,
+        "path": "58a_prt.d37924d8d26c3d6f6bc38e21250331d705fdb953.mp3"
+      },
+      "footprint": {
+        "background": 4288417308,
+        "foreground": 4291044910
+      },
+      "images": [],
+      "number": "58a",
+      "title": "Um Cenário Incomum",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 82,
+        "path": "58b_prt.d91b1d34f179cd8bd106a7b09aae22a7e34ad4a1.mp3"
+      },
+      "footprint": {
+        "background": 4288417308,
+        "foreground": 4291044910
+      },
+      "images": [],
+      "number": "58b",
+      "title": "A Vida Amorosa de Van Gogh",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "No café: Agostina Segatori em Le Tambourin"
+}

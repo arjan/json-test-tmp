@@ -1,0 +1,26 @@
+[
+  {
+    "building": "main_building",
+    "id": 1,
+    "long_title": "I want to explore at leisure",
+    "slug": "adult",
+    "title": "Explore at leisure",
+    "type": "unordered"
+  },
+  {
+    "building": "main_building",
+    "id": 2,
+    "long_title": "I want to see the highlights",
+    "slug": "highlights",
+    "title": "See the highlights",
+    "type": "ordered"
+  },
+  {
+    "building": "main_building",
+    "id": 4,
+    "long_title": "I want to discover with my family",
+    "slug": "family",
+    "title": "With my family",
+    "type": "ordered"
+  }
+]

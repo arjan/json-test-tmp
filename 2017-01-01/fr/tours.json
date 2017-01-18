@@ -1,0 +1,18 @@
+[
+  {
+    "building": "main_building",
+    "id": 1,
+    "long_title": "Je souhaite visiter à mon rythme",
+    "slug": "adult",
+    "title": "Visiter à mon rythme",
+    "type": "unordered"
+  },
+  {
+    "building": "main_building",
+    "id": 2,
+    "long_title": "Je veux voir les pièces maîtresses",
+    "slug": "highlights",
+    "title": "Voir les pièces maîtresses",
+    "type": "ordered"
+  }
+]

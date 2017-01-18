@@ -1,0 +1,48 @@
+{
+  "floor": 0,
+  "image": {
+    "blurred_image_path": "thumbnails/t2fPJ6J4BMWW_720x1280_n9CpgZva.jpg",
+    "focal_point": [
+      360,
+      665
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/t2fPJ6J4BMWW_720x300_1X-gwbDN.jpg",
+    "path": "40_.5974ff60df0a718b84eab098dbd6b4a735f50a93.jpg",
+    "width": 720
+  },
+  "number": 40,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 37,
+        "path": "40a_dut.7a89d2142778db881191cd3ae432600824142349.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "40a",
+      "title": "Het palet van Van Gogh",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 53,
+        "path": "40b_dut.d254b6292a7723af912555c86c27de3e8c7daa63.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "40b",
+      "title": "Terug in de tijd",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Palet van Van Gogh"
+}

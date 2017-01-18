@@ -1,0 +1,94 @@
+{
+  "floor": 3,
+  "image": {
+    "blurred_image_path": "thumbnails/94hn8w9N8Dou_720x1280_DMCgOIIS.jpg",
+    "focal_point": [
+      360,
+      691
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/94hn8w9N8Dou_720x300_jYAVjE-R.jpg",
+    "path": "68.dce85d62c029044a0d91808ae5dce6033137384b.jpg",
+    "width": 720
+  },
+  "number": 68,
+  "overview_colour": 4278221970,
+  "segments": [
+    {
+      "audio": {
+        "duration": 64,
+        "path": "68a_jpn.dd7d544a2a686f4b7e1e84080dc6bd4ed910dbfd.mp3"
+      },
+      "footprint": {
+        "background": 4288928744,
+        "foreground": 4288400078
+      },
+      "images": [],
+      "number": "68a",
+      "title": "楽器としての色",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "68b_0.5630a52ae626a011e76d09fca649a04ced4e037e.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "intro_audio": {
+        "duration": 16,
+        "path": "68b_0_jpn.194816544f64fb75dcd4dd75e418ea74eb153093.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 3,
+            "path": "68b_1a_jpn.0dd34e08c34ca07d38ae03c83e7bf093ed64aec6.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "68b_1a.984bdda87892b221e2b253fd7ee8158f0050ab3f.jpg",
+            "width": 720
+          },
+          "label": "病院への道"
+        },
+        {
+          "audio": {
+            "duration": 8,
+            "path": "68b_1b_jpn.60fb10e0899b8959c279959aaa8d73b64e2495fc.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "68b_1b_2.be5b07cd2a35b68deae10c4c625ad497c23abe27.jpg",
+            "width": 720
+          },
+          "label": "廊下"
+        },
+        {
+          "audio": {
+            "duration": 10,
+            "path": "68b_1c_jpn.67df02752be717caf0c7c0864a55a451d1290848.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "68b_1c.24e8db300ebab36217caa5de826e1ade14b4af69.jpg",
+            "width": 720
+          },
+          "label": "彼の見た景色"
+        }
+      ],
+      "number": "68b",
+      "title": "ゴッホが病院で見たもの",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "ミレーの模写"
+}

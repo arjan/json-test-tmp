@@ -1,0 +1,133 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/ZezUWXgzJuQ4_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/ZezUWXgzJuQ4_720x300_74tHK9Wi.jpg",
+    "path": "7.47465025ec0c514e3f2a4f467d9526957f5854c1.jpg",
+    "width": 720
+  },
+  "number": 7,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": null,
+      "draggables": [
+        {
+          "audio": {
+            "duration": 9,
+            "path": "7a_2_ger.faa023f0e4e8d3d3b54360833d52a6c1a50a3a12.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-leeg_2.5dd51fc63e7162a55ccc0a78f46d1eefe4c9c208.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 180,
+            "orientation": 1,
+            "path": "7_brief-schuin_.d5ffbc15bb753d71fe0cbd557113fc5b4ff28126.png",
+            "width": 150
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-2_ger_v2.6ed0cb10b33ee783b8c93763226e58be219d7e05.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 670,
+            "orientation": 1,
+            "path": "7_brief-2_ger_v2.553ac300988df85296862792a5ef866ef4c9bce9.png",
+            "width": 550
+          }
+        },
+        {
+          "audio": {
+            "duration": 11,
+            "path": "7a_3_ger.74d77ca6ca986ea2a8f04ed51d3a423208ff7c87.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-leeg_2.5dd51fc63e7162a55ccc0a78f46d1eefe4c9c208.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 180,
+            "orientation": 1,
+            "path": "7_brief-schuin_.d5ffbc15bb753d71fe0cbd557113fc5b4ff28126.png",
+            "width": 150
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-3_ger_v2.2e5fa67e3723422b75b2f26b6b2dcd2d51e96822.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 670,
+            "orientation": 1,
+            "path": "7_brief-3_ger_v2.e43abca50568f7e880d7d3337402965ebc3300d5.png",
+            "width": 550
+          }
+        },
+        {
+          "audio": {
+            "duration": 8,
+            "path": "7a_1_ger.d1e4dc5a835c4b60a0de950d404921a42c4c570d.mp3"
+          },
+          "dragged_image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-leeg_2.5dd51fc63e7162a55ccc0a78f46d1eefe4c9c208.png",
+            "width": 225
+          },
+          "dragged_proxy": {
+            "height": 180,
+            "orientation": 1,
+            "path": "7_brief-schuin_.d5ffbc15bb753d71fe0cbd557113fc5b4ff28126.png",
+            "width": 150
+          },
+          "image": {
+            "height": 300,
+            "orientation": 1,
+            "path": "7_enveloppe-1_ger_v2.3c705bbb8ed60f373b4c881e21a6a29444edc6fd.png",
+            "width": 225
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 670,
+            "orientation": 1,
+            "path": "7_brief-1_ger_v2.4fbb64d3356801950acde24750120336e0efbc7c.png",
+            "width": 550
+          }
+        }
+      ],
+      "drop_image": {
+        "height": 670,
+        "orientation": 1,
+        "path": "7a_drag_area.f3789b9e9e649563e6a0a04ce5aa93f408d8a9df.png",
+        "width": 550
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "intro_audio": {
+        "duration": 18,
+        "path": "7a_0_ger.f3399c4d86733eacae397c23d57b5b3c4f884919.mp3"
+      },
+      "is_bottom_aligned": false,
+      "is_question": false,
+      "number": "7a",
+      "title": "Gefühle in Worten",
+      "type": "DragAndDropSegment"
+    }
+  ],
+  "title": "Theo van Goghs Kabinettschrank"
+}

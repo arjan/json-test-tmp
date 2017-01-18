@@ -1,0 +1,73 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/Cgde7fog_XYQ_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Cgde7fog_XYQ_720x300_74tHK9Wi.jpg",
+    "path": "30.61ab18c294f3ce68c6d83073cd1d91537fa91387.jpg",
+    "width": 720
+  },
+  "number": 30,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 52,
+        "path": "30a_ger.bfec18b7d8b1e9aa4f759cb56e0a4c5f57aac71a.mp3"
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "images": [],
+      "number": "30a",
+      "title": "Das Licht von Paris",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/S_chwUc119EY_720x1280_16jGVcjb.jpg",
+        "height": 720,
+        "orientation": 8,
+        "path": "30b_0.2e2af9374d61d58784c68e9edf00f25161de8d40.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4292893491,
+        "foreground": 4291969329
+      },
+      "hide_during_intro": true,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 19,
+            "path": "30b_2_ger.6b90cc6e51cd2374c1ff8271453a85a787f23243.mp3"
+          },
+          "coordinate": [
+            473,
+            583
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "30b_1.1e528917500d86bdee88f657a26a09202257aa4b.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 13,
+        "path": "30b_0_ger_revised.2cf13e0875d7d5becc15673cc474d155d972a4f6.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "30b",
+      "title": "Eine Mitteilung von van Gogh",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Boulevard de Clichy"
+}

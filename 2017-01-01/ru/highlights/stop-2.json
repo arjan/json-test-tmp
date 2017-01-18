@@ -1,0 +1,34 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/X6UVm60FpKQR_720x1280_9O4lVJaA.jpg",
+    "focal_point": [
+      360,
+      755
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/X6UVm60FpKQR_720x300_U616brQS.jpg",
+    "path": "2.03d077de1a81a17ab8ad53b2bebd63f50763ba6c.jpg",
+    "width": 720
+  },
+  "number": 2,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 71,
+        "path": "2a_rus.42fead80133123733b89e026835b9faa11fb879a.mp3"
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "images": [],
+      "number": "2a",
+      "title": "Трио",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Фруктовый сад в цвету"
+}

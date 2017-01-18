@@ -1,0 +1,124 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/iWrOAUUTaeMf_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/iWrOAUUTaeMf_720x300_mfj8bjKL.jpg",
+    "path": "24_kaart.073ad8b70ca2e9c0e0c0b858310eb0743d86f25b.jpg",
+    "width": 720
+  },
+  "number": 24,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/yZKQwdlLVsmg_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "24a_final_frame.073ad8b70ca2e9c0e0c0b858310eb0743d86f25b.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 16,
+            "path": "24a_2a_prt.4a83fb8b49599b920aa7de14a75827c168c654a5.mp3"
+          },
+          "coordinate": [
+            302,
+            358
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "24a_2a.ffd14bb03e95f5a5a28c7468e1821d1ee99a2e87.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 360,
+            "orientation": 8,
+            "path": "thumb_24a_2a.9f6930bff5b961fdc54ec6742afce32c41aa9884.jpg",
+            "width": 624
+          },
+          "panel_coordinate": [
+            489,
+            281
+          ]
+        },
+        {
+          "audio": {
+            "duration": 30,
+            "path": "24a_2b_prt.b698dec808a90efad2a167716954f9ef75f8ea59.mp3"
+          },
+          "coordinate": [
+            410,
+            678
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "24a_2b.fd1b0d86ee627a95e677f0812f138800fcc3beb3.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 360,
+            "orientation": 8,
+            "path": "thumb_24a_2b.4c0784869f547876d92d42f88cb1cc46dd9e3c0f.jpg",
+            "width": 624
+          },
+          "panel_coordinate": [
+            230,
+            588
+          ]
+        },
+        {
+          "audio": {
+            "duration": 13,
+            "path": "24a_2c_prt.13e981ea76dd6d8acfe0c8484493108308af9d1c.mp3"
+          },
+          "coordinate": [
+            540,
+            921
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "24_datavisualisatie_prt.68ba87e4ee488c8ef9d33ca0120ce6089b644918.png",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 12,
+        "path": "24a_2_prt.08b6e8956ba2ba49a483c2d6ca475086b2442e82.mp3"
+      },
+      "intro_video": {
+        "duration": 21,
+        "height": 1280,
+        "orientation": 1,
+        "path": "24a_prt.mp4.442d1e9267a19a46237ed1fdfe3c1c95f4141d7c.mp4",
+        "width": 720
+      },
+      "intro_voiceover_audio": {
+        "duration": 13,
+        "path": "24a_1_prt_revised.c447d6aa84193eb44f09b8be909b6dd0cd14af83.mp3"
+      },
+      "number": "24a",
+      "title": "A Caminho de Arles",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Arles"
+}

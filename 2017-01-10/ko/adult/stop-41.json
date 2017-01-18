@@ -1,0 +1,95 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/ypqC2fSvDeKn_720x1280_hojwExeZ.jpg",
+    "focal_point": [
+      360,
+      704
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/ypqC2fSvDeKn_720x300_Hq6Sn6Uk.jpg",
+    "path": "41.e64d61742a3162f72861a62c4b8fa92e9b6f9868.jpg",
+    "width": 720
+  },
+  "number": 41,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 62,
+        "path": "41a_kor.e444df8237c4fda53009f9ab8fc7f6dd28295567.mp3"
+      },
+      "footprint": {
+        "background": 4287332728,
+        "foreground": 4288845960
+      },
+      "images": [],
+      "number": "41a",
+      "title": "담배를 많이 피우다",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/lQsK3xmn1XVr_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "41b_0.319d3880e9898d7a089e560a1125176932b6cc62.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 11,
+            "path": "41b_1_kor.3983a76d370d0c58b0d2a7d41f5c6944c8f1ca27.mp3"
+          },
+          "coordinate": [
+            259,
+            512
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "41b_1.ffe4e64de0c0030cadfca91f1ecfff0dc77100f6.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 7,
+            "path": "41b_2_kor.c6f7d0b2e4b475bdae35c803bbc5f5ea6cb22ffc.mp3"
+          },
+          "coordinate": [
+            259,
+            947
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "41b_2.00b7559b6170d7c34d6b2bd10ff2edfa1dee9c55.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 7,
+        "path": "41b_0_kor.7953f0505d4c99e0c9303967b0e07c81be14e5a8.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "41b",
+      "title": "반 고흐의 교실",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "담배를 문 해골 "
+}

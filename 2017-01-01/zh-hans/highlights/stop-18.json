@@ -1,0 +1,94 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/JRrEqhgSzkke_720x1280_QlLpMcbC.jpg",
+    "focal_point": [
+      360,
+      1024
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/JRrEqhgSzkke_720x300_QyjusLq8.jpg",
+    "path": "18.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+    "width": 720
+  },
+  "number": 18,
+  "overview_colour": 4282157647,
+  "segments": [
+    {
+      "audio": {
+        "duration": 81,
+        "path": "18a_chn.30dfa47bbc00410545183bef45a9b796b083e415.mp3"
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "images": [],
+      "number": "18a",
+      "title": "爱无处不在",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "18b_0_.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "intro_audio": {
+        "duration": 7,
+        "path": "18b_0_chn.7406d097159336ffd46c56b5066e019de99850ea.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 7,
+            "path": "18b_1_chn.3a1cb084b8b6562ee06efd9223ec3d09c921efc1.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_1_.295cd873df650bd8388b68e9c8ee831ebe135568.jpg",
+            "width": 720
+          },
+          "label": "选色"
+        },
+        {
+          "audio": {
+            "duration": 11,
+            "path": "18b_2_chn.579e3d514cf2f448ee53bc5ac3df4f1feabf26ae.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_2_.b58780a386075a1caacb47fe4aef22b3db31ee46.jpg",
+            "width": 720
+          },
+          "label": "半份线条"
+        },
+        {
+          "audio": {
+            "duration": 22,
+            "path": "18b_3_chn.19d9bcd483dbb64b9d16f8f08e734f20f4cd205a.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_3_.45443f6fcdfc882695b7b81dde408b7237cb065f.jpg",
+            "width": 720
+          },
+          "label": "填充"
+        }
+      ],
+      "number": "18b",
+      "title": "亲手实践",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "圣皮埃尔广场花园的恋人们"
+}

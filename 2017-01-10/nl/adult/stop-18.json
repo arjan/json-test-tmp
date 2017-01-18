@@ -1,0 +1,94 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/JRrEqhgSzkke_720x1280_QlLpMcbC.jpg",
+    "focal_point": [
+      360,
+      1024
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/JRrEqhgSzkke_720x300_QyjusLq8.jpg",
+    "path": "18.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+    "width": 720
+  },
+  "number": 18,
+  "overview_colour": 4282157647,
+  "segments": [
+    {
+      "audio": {
+        "duration": 70,
+        "path": "18a_dut.6ffcd8f81199c46cdb1bf28c18f3eac4799ee7bb.mp3"
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "images": [],
+      "number": "18a",
+      "title": "De liefde hangt in de lucht",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "18b_0_.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "intro_audio": {
+        "duration": 6,
+        "path": "18b_0_dut.3b73c377d6c28995a42bf0b8329bf783db72b645.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 6,
+            "path": "18b_1_dut.fe23b95299f05ac6352e53de5d9b68d3e098127b.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_1_.295cd873df650bd8388b68e9c8ee831ebe135568.jpg",
+            "width": 720
+          },
+          "label": "Kleuren kiezen"
+        },
+        {
+          "audio": {
+            "duration": 8,
+            "path": "18b_2_dut.7a7eea048ff659085d62bee1efec24e2847e1b55.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_2_.b58780a386075a1caacb47fe4aef22b3db31ee46.jpg",
+            "width": 720
+          },
+          "label": "Een deel van de penseelstreken"
+        },
+        {
+          "audio": {
+            "duration": 19,
+            "path": "18b_3_dut.66205aba492a26acc3958e96f7889912c9793219.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_3_.45443f6fcdfc882695b7b81dde408b7237cb065f.jpg",
+            "width": 720
+          },
+          "label": "Klaar"
+        }
+      ],
+      "number": "18b",
+      "title": "Probeer het zelf",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Tuin met geliefden: Square Saint-Pierre"
+}

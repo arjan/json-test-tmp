@@ -1,0 +1,124 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/iWrOAUUTaeMf_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/iWrOAUUTaeMf_720x300_mfj8bjKL.jpg",
+    "path": "24_kaart.073ad8b70ca2e9c0e0c0b858310eb0743d86f25b.jpg",
+    "width": 720
+  },
+  "number": 24,
+  "overview_colour": null,
+  "segments": [
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/yZKQwdlLVsmg_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "24a_final_frame.073ad8b70ca2e9c0e0c0b858310eb0743d86f25b.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 14,
+            "path": "24a_2a_ita.86d464e69c6c2a1797b8d772c64299186d9fdd03.mp3"
+          },
+          "coordinate": [
+            302,
+            358
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "24a_2a.ffd14bb03e95f5a5a28c7468e1821d1ee99a2e87.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 360,
+            "orientation": 8,
+            "path": "thumb_24a_2a.9f6930bff5b961fdc54ec6742afce32c41aa9884.jpg",
+            "width": 624
+          },
+          "panel_coordinate": [
+            489,
+            281
+          ]
+        },
+        {
+          "audio": {
+            "duration": 29,
+            "path": "24a_2b_ita.9ec0e73f7d5aa69cfbc03996d2005f24e63fb220.mp3"
+          },
+          "coordinate": [
+            410,
+            678
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "24a_2b.fd1b0d86ee627a95e677f0812f138800fcc3beb3.jpg",
+            "width": 1280
+          },
+          "panel": {
+            "height": 360,
+            "orientation": 8,
+            "path": "thumb_24a_2b.4c0784869f547876d92d42f88cb1cc46dd9e3c0f.jpg",
+            "width": 624
+          },
+          "panel_coordinate": [
+            230,
+            588
+          ]
+        },
+        {
+          "audio": {
+            "duration": 11,
+            "path": "24a_2c_ita.e978120e44ecd8e9493900b4f1d853841bcbe31a.mp3"
+          },
+          "coordinate": [
+            540,
+            921
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "24_datavisualisatie_ita.32b9b0dee8c5fe9a2bf61c4a0a2acb50838134fc.png",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 12,
+        "path": "24a_2_ita.a975be9bb0b54205c23a3cf3e2018e176aa93dfe.mp3"
+      },
+      "intro_video": {
+        "duration": 21,
+        "height": 1280,
+        "orientation": 1,
+        "path": "24a_ita.mp4.fafc3c417eb8ee2e76f0da889d90ab46152b2130.mp4",
+        "width": 720
+      },
+      "intro_voiceover_audio": {
+        "duration": 12,
+        "path": "24a_1_ita.8e04bc6f6c1a5d1ef2e5b12897aa9a5d7fc66b8c.mp3"
+      },
+      "number": "24a",
+      "title": "Alla volta di Arles",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Arles"
+}

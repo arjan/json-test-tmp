@@ -1,0 +1,137 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/FunSqFut2_1o_720x1280_Cw5HsHyV.jpg",
+    "focal_point": [
+      360,
+      524
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/FunSqFut2_1o_720x300_o6JmsRgx.jpg",
+    "path": "4.dc50b61be5d96bfd21a95a4f9f5c33f53e214b4e.jpg",
+    "width": 720
+  },
+  "number": 4,
+  "overview_colour": 4294888192,
+  "segments": [
+    {
+      "audio": {
+        "duration": 61,
+        "path": "4a_eng.3670baa59ba1305ad761ba03cb36b1632621433e.mp3"
+      },
+      "footprint": {
+        "background": 4294888192,
+        "foreground": 4293180191
+      },
+      "images": [],
+      "number": "4a",
+      "title": "A house with a plan",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "4b_0_intro.9270c17f9a9a24841eecfc23d9e4a91d617e1597.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "intro_audio": {
+        "duration": 6,
+        "path": "4b_0_eng.2ee72e401c8cca1b3aa793f54a80101c71515b36.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 3,
+            "path": "4b_1_eng.3f168087c99413384a4e6f89bc3103525ef7a23d.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "4b_1_revised.f52410588af8534933934b098a38cf5d8ff98929.jpg",
+            "width": 720
+          },
+          "label": "His bedroom"
+        },
+        {
+          "audio": {
+            "duration": 5,
+            "path": "4b_2_eng.c553324ba25b881eead50462ec229b250b248978.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "4b_2_revised.5225ce8939e97cfd1de4e742d532e37f177c92d5.jpg",
+            "width": 720
+          },
+          "label": "Beautiful sunflowers"
+        },
+        {
+          "audio": {
+            "duration": 6,
+            "path": "4b_3_eng.7bf8f0c5ab2b4ea0f8759a7101cf8bb49f96de30.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "4b_3_revised.6c3d6146a26c6e3dc496419a29ab34af4e718d3c.jpg",
+            "width": 720
+          },
+          "label": "A chair for a friend"
+        }
+      ],
+      "number": "4b",
+      "title": "Big things in a little house",
+      "type": "LayersSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/v4XW1aiqmGI2_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "4c_2_.9270c17f9a9a24841eecfc23d9e4a91d617e1597.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "hide_during_intro": true,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 31,
+            "path": "4c_1b_eng_.6cc238c5620e84d125f5b22b26047fadd13f240e.mp3"
+          },
+          "coordinate": [
+            288,
+            640
+          ],
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "4c_1_.a144a4cf839e465fbaf2aabd5a86a59d6c572ac6.jpg",
+            "width": 1280
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 8,
+        "path": "4c_1a_eng_.0a2b623bf0d115ca8373a213d2d06aee9573d721.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "4c",
+      "title": "A guest",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "The Yellow House"
+}

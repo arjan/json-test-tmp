@@ -1,0 +1,48 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/N65n9e9TGX8N_720x1280_F6F8kqJV.jpg",
+    "focal_point": [
+      360,
+      486
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/N65n9e9TGX8N_720x300_eLMJc1Bk.jpg",
+    "path": "12.87b981118658d4f2dd63b39d1194f1516c268f90.jpg",
+    "width": 720
+  },
+  "number": 12,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 101,
+        "path": "12a_jpn.554976a504f2bb9585923d4e09bc798a3fa35a7b.mp3"
+      },
+      "footprint": {
+        "background": 4288928744,
+        "foreground": 4288400078
+      },
+      "images": [],
+      "number": "12a",
+      "title": "ゴーギャンの意見",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 73,
+        "path": "12b_jpn_nieuw.833d19ce8b6f45d1e6187ea4bf05ece8c8a12682.mp3"
+      },
+      "footprint": {
+        "background": 4288928744,
+        "foreground": 4288400078
+      },
+      "images": [],
+      "number": "12b",
+      "title": "「耳の事件」とゴーギャン",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "ゴーギャンによる、ヒマワリを描くゴッホの肖像"
+}

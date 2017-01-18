@@ -1,0 +1,121 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/Mdr3P5aVKKLK_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Mdr3P5aVKKLK_720x300_mfj8bjKL.jpg",
+    "path": "50.513a83b1d4c4ad1441830f718193ab486aa5da36.jpg",
+    "width": 720
+  },
+  "number": 50,
+  "overview_colour": 4283974952,
+  "segments": [
+    {
+      "audio": {
+        "duration": 73,
+        "path": "50a_eng.615635367142601d546aa2ab60d7a8ffdae1274c.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50a",
+      "title": "In their home",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 41,
+        "path": "50b_eng.44a0610589d4963aebf922908ec19949f5b91e10.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50b",
+      "title": "A shocking response",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 720,
+        "orientation": 8,
+        "path": "50c_0.c180b2ba5347f7886ab09ab696274bd824f909bd.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "intro_audio": {
+        "duration": 11,
+        "path": "50c_0_eng.88afb83482d35cd5965711d9ea8d571e82a817ca.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 10,
+            "path": "50c_1a_eng.50309330813f6cab07d2cc424f842833fe7b2b4e.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1a.b05318853f4e52c1f7bc3e2a305d97abbeca3eb7.jpg",
+            "width": 1280
+          },
+          "label": "His hand at work"
+        },
+        {
+          "audio": {
+            "duration": 7,
+            "path": "50c_1b_eng.428fd29285e3e93baaf673376a9f7f9829473bd9.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1b.bd84d94f46848240fbe1c17e9e3852fdb15a4f4d.jpg",
+            "width": 1280
+          },
+          "label": "Another sketch"
+        },
+        {
+          "audio": {
+            "duration": 4,
+            "path": "50c_1c_eng.7a84d4f76f6e18ddd0b5356ea78158fdd98a0e69.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1c.6785d6a6131b10abf84137ce991ab7febf7be26a.jpg",
+            "width": 1280
+          },
+          "label": "Closer to the hands"
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "50c_1d_eng.7129291be35da93e80eca172bfc8ff75590c2673.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1d.5fdd945117753980959b4f58c215f258f6b7443d.jpg",
+            "width": 1280
+          },
+          "label": "Working out his plans"
+        }
+      ],
+      "number": "50c",
+      "title": "A long study",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "The Potato Eaters"
+}

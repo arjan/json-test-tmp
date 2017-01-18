@@ -1,0 +1,94 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/JRrEqhgSzkke_720x1280_QlLpMcbC.jpg",
+    "focal_point": [
+      360,
+      1024
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/JRrEqhgSzkke_720x300_QyjusLq8.jpg",
+    "path": "18.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+    "width": 720
+  },
+  "number": 18,
+  "overview_colour": 4282157647,
+  "segments": [
+    {
+      "audio": {
+        "duration": 77,
+        "path": "18a_ger.e0046da7b6f61c99b2d90c19e91437a8362c15be.mp3"
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "images": [],
+      "number": "18a",
+      "title": "Liebe liegt in der Luft",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "18b_0_.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "intro_audio": {
+        "duration": 6,
+        "path": "18b_0_ger.a74097be45acfb50be3994080638aea81418d1ec.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 7,
+            "path": "18b_1_ger.086dc7f5a2b79e5933636bd9e8257c051288d966.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_1_.295cd873df650bd8388b68e9c8ee831ebe135568.jpg",
+            "width": 720
+          },
+          "label": "Wahl der Farben"
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "18b_2_ger.55a701f599fef98d036093bb6218066249c94a69.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_2_.b58780a386075a1caacb47fe4aef22b3db31ee46.jpg",
+            "width": 720
+          },
+          "label": "Die Hälfte der Striche"
+        },
+        {
+          "audio": {
+            "duration": 26,
+            "path": "18b_3_ger.1252b0a54d36ccf871f296354d091d054aa90e33.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_3_.45443f6fcdfc882695b7b81dde408b7237cb065f.jpg",
+            "width": 720
+          },
+          "label": "Ausgefüllt"
+        }
+      ],
+      "number": "18b",
+      "title": "Versuchen Sie es selbst",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Garten mit Liebespaaren: Platz Saint-Pierre"
+}

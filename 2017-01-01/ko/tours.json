@@ -1,0 +1,18 @@
+[
+  {
+    "building": "main_building",
+    "id": 1,
+    "long_title": "",
+    "slug": "adult",
+    "title": "자유 관람",
+    "type": "unordered"
+  },
+  {
+    "building": "main_building",
+    "id": 2,
+    "long_title": "",
+    "slug": "highlights",
+    "title": "하이라이트 투어",
+    "type": "ordered"
+  }
+]

@@ -1,0 +1,200 @@
+{
+  "floor": 1,
+  "hints": [
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/YElg7bU9-rWq_720x1280_aaVpmMvk.jpg",
+        "focal_point": [
+          360,
+          460
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/YElg7bU9-rWq_720x360_92GuGs6i.jpg",
+        "path": "50_hint-a.9868d6efce857be1d697754ef9def491925732d4.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 8,
+        "path": "50f_hb_eng.db510ea1cc881dcbf323f233360db515eed259ab.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/Se5oDi8KZZDl_720x1280_m6hpx2ur.jpg",
+        "focal_point": [
+          360,
+          473
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/Se5oDi8KZZDl_720x360_mJJxvG_L.jpg",
+        "path": "50_hint-b.caf013bae01079b686aa2191b935ec1a446fb4c3.jpg",
+        "width": 720
+      },
+      "quote": ""
+    },
+    {
+      "audio": {
+        "duration": 10,
+        "path": "50f_hc_eng.99dc3e8d75493f280411df2f97f5c0a964a3d808.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/p08PkQX_p3J5_720x1280_qOKgxFDX.jpg",
+        "focal_point": [
+          360,
+          1088
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/p08PkQX_p3J5_720x360_GyaJIuwC.jpg",
+        "path": "50_hint-c_v2.ae3244c1feb0fa9d1808d1f0086582f97bdda7f7.jpg",
+        "width": 720
+      },
+      "quote": "I'm working on those peasants around a dish of potatoes."
+    },
+    {
+      "audio": {
+        "duration": 4,
+        "path": "prompt_bb_eng.5cb7e5b3d5c3816bb0dd4cecf56bf37226064a75.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/XZxl5GwjGuRe_720x1280_5DaLkjeD.jpg",
+        "focal_point": [
+          360,
+          896
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/XZxl5GwjGuRe_720x360_tn6qDdNb.jpg",
+        "path": "50_hint-d.03239d653f6339454dd93ff26c2e22c15ff9f2a7.jpg",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/Mdr3P5aVKKLK_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Mdr3P5aVKKLK_720x300_mfj8bjKL.jpg",
+    "path": "50.513a83b1d4c4ad1441830f718193ab486aa5da36.jpg",
+    "width": 720
+  },
+  "number": 50,
+  "overview_colour": 4283974952,
+  "segments": [
+    {
+      "background_image": {
+        "height": 720,
+        "orientation": 8,
+        "path": "50c_0.c180b2ba5347f7886ab09ab696274bd824f909bd.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "intro_audio": {
+        "duration": 13,
+        "path": "50f_a0_eng.13c9341100e59d776a56b1a865cbf5afa926b67f.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 9,
+            "path": "50f_a1b_eng.2af1ebd86a3d5fc61c2738f9c9ea2dd50e42a1de.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50f_a1b.6785d6a6131b10abf84137ce991ab7febf7be26a.jpg",
+            "width": 1280
+          },
+          "label": "Vincent figures out the details"
+        },
+        {
+          "audio": {
+            "duration": 13,
+            "path": "50f_a1c_eng.c80569c0c78b98783d0aa5232d110417063e7eed.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50f_a1c.1bf2e9edff81f71083101ed4b13ded6b362f8933.jpg",
+            "width": 1280
+          },
+          "label": "Vincent shows his work"
+        },
+        {
+          "audio": {
+            "duration": 34,
+            "path": "50f_a1d_eng.34587c51aeec0412d458603654dd3bb7da38e23b.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50f_a1d.ec95250ed8b739cb65aba7849e281ed7dea257b3.jpg",
+            "width": 1280
+          },
+          "label": "Vincent gets a no"
+        },
+        {
+          "audio": {
+            "duration": 31,
+            "path": "50f_a1a_eng.58c47d4188b8c2473e18a977140527b82e3b2587.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50f_a1a.5fdd945117753980959b4f58c215f258f6b7443d.jpg",
+            "width": 1280
+          },
+          "label": "Vincent gives it a go"
+        }
+      ],
+      "number": "50f",
+      "title": "Are they beautiful or ugly?",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "The Potato Eaters",
+  "unlock": {
+    "answers": [
+      {
+        "answer": "Water",
+        "audio": null,
+        "is_correct": false
+      },
+      {
+        "answer": "Coffee",
+        "audio": null,
+        "is_correct": true
+      },
+      {
+        "answer": "Lemonade",
+        "audio": null,
+        "is_correct": false
+      }
+    ],
+    "correct_audio": {
+      "duration": 25,
+      "path": "50f_fb_eng.ff7a5a8f62f6601cb00fa79f4d9c450aa6461e24.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 5,
+      "path": "50f_fa_eng.b3759d13eee58e3a76f2837fb67dd6661e699f7e.mp3"
+    },
+    "question": "What are these people drinking with their meal?",
+    "unlock_type": "QuizUnlock"
+  }
+}

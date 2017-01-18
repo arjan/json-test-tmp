@@ -1,0 +1,263 @@
+{
+  "floor": 2,
+  "hints": [
+    {
+      "audio": {
+        "duration": 9,
+        "path": "24f_h_revised_dut.19003ca71b420cfbaff3c003600cf585dab439eb.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/p34oPCAoX5PG_720x1280_Ix1deDCa.png",
+        "focal_point": [
+          360,
+          409
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/p34oPCAoX5PG_720x360_M2EzHcY6.png",
+        "path": "24_hint_oor_v2.03019a873cd01925bb9ad6a848c79230b9d2b423.png",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/p34oPCAoX5PG_720x1280_Ix1deDCa.png",
+    "focal_point": [
+      360,
+      409
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/p34oPCAoX5PG_720x300_M2EzHcY6.png",
+    "path": "24_hint_oor_v2.03019a873cd01925bb9ad6a848c79230b9d2b423.png",
+    "width": 720
+  },
+  "number": 924,
+  "overview_colour": 4291044910,
+  "segments": [
+    {
+      "audio": {
+        "duration": 39,
+        "path": "24f_a_dut.d1a0f82f0d3ccec0600a98a5397363fc8de711b1.mp3"
+      },
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "images": [],
+      "number": "924f",
+      "title": "Het verhaal van het oor",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Vincents oor",
+  "unlock": {
+    "colour": 4292893491,
+    "correct_audio": {
+      "duration": 11,
+      "path": "24f_fb_dut.8db87a4a78c449890be4c52474e8c6633d2af8bb.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 4,
+      "path": "24f_fa_dut.dfcebe2bd161958986d900eafd63d174d5e45bae.mp3"
+    },
+    "intro_audio": {
+      "duration": 7,
+      "path": "24f_q_dut.047e6cb2670144482bf403baea24de79b4c6cdff.mp3"
+    },
+    "lines": [
+      [
+        [
+          12,
+          239
+        ],
+        [
+          57,
+          103
+        ]
+      ],
+      [
+        [
+          57,
+          103
+        ],
+        [
+          194,
+          12
+        ]
+      ],
+      [
+        [
+          194,
+          12
+        ],
+        [
+          284,
+          12
+        ]
+      ],
+      [
+        [
+          284,
+          12
+        ],
+        [
+          420,
+          103
+        ]
+      ],
+      [
+        [
+          420,
+          103
+        ],
+        [
+          466,
+          239
+        ]
+      ],
+      [
+        [
+          466,
+          239
+        ],
+        [
+          420,
+          420
+        ]
+      ],
+      [
+        [
+          420,
+          420
+        ],
+        [
+          330,
+          511
+        ]
+      ],
+      [
+        [
+          330,
+          511
+        ],
+        [
+          239,
+          556
+        ]
+      ],
+      [
+        [
+          239,
+          556
+        ],
+        [
+          194,
+          647
+        ]
+      ],
+      [
+        [
+          194,
+          647
+        ],
+        [
+          148,
+          738
+        ]
+      ],
+      [
+        [
+          148,
+          738
+        ],
+        [
+          57,
+          738
+        ]
+      ],
+      [
+        [
+          57,
+          738
+        ],
+        [
+          12,
+          647
+        ]
+      ],
+      [
+        [
+          103,
+          466
+        ],
+        [
+          194,
+          420
+        ]
+      ],
+      [
+        [
+          194,
+          420
+        ],
+        [
+          194,
+          330
+        ]
+      ],
+      [
+        [
+          194,
+          330
+        ],
+        [
+          103,
+          284
+        ]
+      ],
+      [
+        [
+          103,
+          284
+        ],
+        [
+          148,
+          193
+        ]
+      ],
+      [
+        [
+          148,
+          193
+        ],
+        [
+          239,
+          148
+        ]
+      ],
+      [
+        [
+          239,
+          148
+        ],
+        [
+          330,
+          193
+        ]
+      ],
+      [
+        [
+          330,
+          193
+        ],
+        [
+          375,
+          284
+        ]
+      ]
+    ],
+    "unlock_type": "PatternUnlock"
+  }
+}

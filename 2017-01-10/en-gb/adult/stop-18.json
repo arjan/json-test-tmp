@@ -1,0 +1,94 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/JRrEqhgSzkke_720x1280_QlLpMcbC.jpg",
+    "focal_point": [
+      360,
+      1024
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/JRrEqhgSzkke_720x300_QyjusLq8.jpg",
+    "path": "18.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+    "width": 720
+  },
+  "number": 18,
+  "overview_colour": 4282157647,
+  "segments": [
+    {
+      "audio": {
+        "duration": 75,
+        "path": "18a_eng.f0683d88f1d5fb810f87cf57fe8c21053abe6bc5.mp3"
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "images": [],
+      "number": "18a",
+      "title": "Love is in the air",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "18b_0_.19435afdc7c341361b436edec330e14ba51da44f.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4289246208,
+        "foreground": 4287145752
+      },
+      "intro_audio": {
+        "duration": 6,
+        "path": "18b_0_eng.b538febf35a0c6b8ed1fea43d21240061ffd1aa8.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 6,
+            "path": "18b_1_eng.6ca1edbfcec519f6c2e08cac8aa73597c49168ee.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_1_.295cd873df650bd8388b68e9c8ee831ebe135568.jpg",
+            "width": 720
+          },
+          "label": "Selecting colours"
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "18b_2_eng.3dab61c07d48ca50950822a80ca1bd9c6422e469.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_2_.b58780a386075a1caacb47fe4aef22b3db31ee46.jpg",
+            "width": 720
+          },
+          "label": "Half the strokes"
+        },
+        {
+          "audio": {
+            "duration": 21,
+            "path": "18b_3_eng.79578fd6c2d280ffa3d8651c82c12bae99b89c5e.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "18b_3_.45443f6fcdfc882695b7b81dde408b7237cb065f.jpg",
+            "width": 720
+          },
+          "label": "Filled in"
+        }
+      ],
+      "number": "18b",
+      "title": "Try it yourself",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Garden With Courting Couples: Square Saint-Pierre"
+}

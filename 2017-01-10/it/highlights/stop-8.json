@@ -1,0 +1,107 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/u3Kpolvxn2kV_720x1280_a0z6gcbV.jpg",
+    "focal_point": [
+      360,
+      742
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/u3Kpolvxn2kV_720x300_-6UcERp7.jpg",
+    "path": "8.8194a0ffe9fd3f2930057cc8fb50ed39be51c866.jpg",
+    "width": 720
+  },
+  "number": 8,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 51,
+        "path": "8a_ita.a87f7b6686a6192d3b4209b9c1bdaa659d4155c4.mp3"
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "images": [],
+      "number": "8a",
+      "title": "Le barche come fonte di ispirazione",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "8b_0_v2.2dc9e2229343eeb47a80cdf913a0281b1f36b456.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292893491,
+        "foreground": 4291969329
+      },
+      "intro_audio": {
+        "duration": 12,
+        "path": "8b_0_ita.1fe1374575db1b79bb57519c72469e78107c17bb.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 4,
+            "path": "8b_1a_ita.4f3947c96d85133b0cd33ce4d4f85b41c84a2d3d.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1a.b830ae6b32efbedc138459e3217e95526ba7d94b.jpg",
+            "width": 720
+          },
+          "label": "L’eleganza delle barche"
+        },
+        {
+          "audio": {
+            "duration": 4,
+            "path": "8b_1b_ita.89a7f8b68e0c242faf4e8be7bd62809fd2886f8e.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1b.1fb19c751ba0b732acf528715b01a247974a2ff0.jpg",
+            "width": 720
+          },
+          "label": "Barche vicino alla riva"
+        },
+        {
+          "audio": {
+            "duration": 7,
+            "path": "8b_1c_ita.b958c1f4146a71035f9a6cdcb9a66681d32bd6fe.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1c.07319f1338b934e66fd39602cb45ed8a30910ddd.jpg",
+            "width": 720
+          },
+          "label": "Linee di pioggia"
+        },
+        {
+          "audio": {
+            "duration": 5,
+            "path": "8b_1d_ita.e80395e0a7857f426f08ad52fb7f0056616d8bcd.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1d_2.b888cab3d31c258a28dc0ed028859c4f50d720a8.jpg",
+            "width": 720
+          },
+          "label": "Le foglie incorniciano la vista"
+        }
+      ],
+      "number": "8b",
+      "title": "Van Gogh colleziona arte",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Barche di pescatori sulla spiaggia di Les Saintes-Maries-de-la-Mer"
+}

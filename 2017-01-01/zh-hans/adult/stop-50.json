@@ -1,0 +1,121 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/Mdr3P5aVKKLK_720x1280_uB9JOqxi.jpg",
+    "focal_point": [
+      360,
+      576
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/Mdr3P5aVKKLK_720x300_mfj8bjKL.jpg",
+    "path": "50.513a83b1d4c4ad1441830f718193ab486aa5da36.jpg",
+    "width": 720
+  },
+  "number": 50,
+  "overview_colour": 4283974952,
+  "segments": [
+    {
+      "audio": {
+        "duration": 85,
+        "path": "50a_chn.700ee2e6f18651cff796000f829c44faf32e6e5c.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50a",
+      "title": "在农民家中",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 53,
+        "path": "50b_chn.d6573387c29b0b8b49c64c1b16f3813957011a0b.mp3"
+      },
+      "footprint": {
+        "background": 4283974952,
+        "foreground": 4285621072
+      },
+      "images": [],
+      "number": "50b",
+      "title": "一个惊人的回应",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 720,
+        "orientation": 8,
+        "path": "50c_0.c180b2ba5347f7886ab09ab696274bd824f909bd.jpg",
+        "width": 1280
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "intro_audio": {
+        "duration": 13,
+        "path": "50c_0_chn.8159a0a2cd9b41e3fd7066b4e55044d8ae0f5c41.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 14,
+            "path": "50c_1a_chn.69780b6e11f69590ff9798fd0d0e1aac1d399e1f.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1a.b05318853f4e52c1f7bc3e2a305d97abbeca3eb7.jpg",
+            "width": 1280
+          },
+          "label": "工作中的手"
+        },
+        {
+          "audio": {
+            "duration": 9,
+            "path": "50c_1b_chn.f9e3da6b47ba6019e5dc0a989852135c644064e3.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1b.bd84d94f46848240fbe1c17e9e3852fdb15a4f4d.jpg",
+            "width": 1280
+          },
+          "label": "另一幅素描"
+        },
+        {
+          "audio": {
+            "duration": 4,
+            "path": "50c_1c_chn.b283a80757abdaa4b4dce02c7e33516acc928cdf.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1c.6785d6a6131b10abf84137ce991ab7febf7be26a.jpg",
+            "width": 1280
+          },
+          "label": "离双手更近"
+        },
+        {
+          "audio": {
+            "duration": 12,
+            "path": "50c_1d_chn.c63a0856572f1d32c86bca5edf3e0eff73796933.mp3"
+          },
+          "image": {
+            "height": 720,
+            "orientation": 8,
+            "path": "50c_1d.5fdd945117753980959b4f58c215f258f6b7443d.jpg",
+            "width": 1280
+          },
+          "label": "实施计划"
+        }
+      ],
+      "number": "50c",
+      "title": "长期的研究",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "吃土豆的人"
+}

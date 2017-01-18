@@ -1,0 +1,48 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/i7eOsgBTK_h1_720x1280_kWAZ1oMj.jpg",
+    "focal_point": [
+      360,
+      422
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/i7eOsgBTK_h1_720x300_ekNv0XFE.jpg",
+    "path": "58.a11241cf1bf04896eb9f049b6f709bf827e3ab6f.jpg",
+    "width": 720
+  },
+  "number": 58,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 81,
+        "path": "58a_kor.078950b038068655277a2e1a37f9a767a3004295.mp3"
+      },
+      "footprint": {
+        "background": 4288417308,
+        "foreground": 4291044910
+      },
+      "images": [],
+      "number": "58a",
+      "title": "색다른 설정",
+      "type": "AudioSegment"
+    },
+    {
+      "audio": {
+        "duration": 64,
+        "path": "58b_kor.314348fe74367200d5ed9b16333bda427df124af.mp3"
+      },
+      "footprint": {
+        "background": 4288417308,
+        "foreground": 4291044910
+      },
+      "images": [],
+      "number": "58b",
+      "title": "반 고흐의 사랑 ",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "카페에서, 르탱부랭의 아고스티나 세가토리"
+}

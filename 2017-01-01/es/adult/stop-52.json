@@ -1,0 +1,34 @@
+{
+  "floor": 2,
+  "image": {
+    "blurred_image_path": "thumbnails/5YR5gjfjMWam_720x1280_BW_yjAoy.jpg",
+    "focal_point": [
+      360,
+      320
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/5YR5gjfjMWam_720x300_UlJSVHay.jpg",
+    "path": "52.d4a4e714a16c13dc0d9493ed32d75c6224dd6f67.jpg",
+    "width": 720
+  },
+  "number": 52,
+  "overview_colour": 4278221970,
+  "segments": [
+    {
+      "audio": {
+        "duration": 97,
+        "path": "52a_spa.4b092d791c15e94b6515f37bcf99a8a12c0e6c88.mp3"
+      },
+      "footprint": {
+        "background": 4278221970,
+        "foreground": 4282029216
+      },
+      "images": [],
+      "number": "52a",
+      "title": "Van Gogh en el litoral ventoso",
+      "type": "AudioSegment"
+    }
+  ],
+  "title": "Paisaje marino de Les Saintes-Maries-de-la-Mer"
+}

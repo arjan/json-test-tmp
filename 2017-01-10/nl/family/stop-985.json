@@ -1,0 +1,311 @@
+{
+  "floor": 1,
+  "hints": [
+    {
+      "audio": {
+        "duration": 9,
+        "path": "85f_h_revised_dut.e89a95f970476081ac4d1e33d3a9fd94f816e37a.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/WaKGXaUZrFxe_720x1280_Cw5HsHyV.png",
+        "focal_point": [
+          360,
+          524
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/WaKGXaUZrFxe_720x360_o6JmsRgx.png",
+        "path": "85_hint_wolk_v3_help.be72adb0ccc8cdb2a2473d8bfb9556ac3b9aa3e9.png",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/WaKGXaUZrFxe_720x1280_Cw5HsHyV.png",
+    "focal_point": [
+      360,
+      524
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/WaKGXaUZrFxe_720x300_o6JmsRgx.png",
+    "path": "85_hint_wolk_v3_help.be72adb0ccc8cdb2a2473d8bfb9556ac3b9aa3e9.png",
+    "width": 720
+  },
+  "number": 985,
+  "overview_colour": 4288928744,
+  "segments": [
+    {
+      "background_image": null,
+      "draggables": [
+        {
+          "audio": {
+            "duration": 3,
+            "path": "85f_a_answer_wrong_dut.f7aeb1b8ea1645faf64c91b99300d06f77ea9edb.mp3"
+          },
+          "dragged_image": null,
+          "dragged_proxy": {
+            "height": 382,
+            "orientation": 8,
+            "path": "85f_a3.07bbbcf1606e669a953e0d4040b73fcf49178c6e.jpg",
+            "width": 495
+          },
+          "image": {
+            "height": 382,
+            "orientation": 8,
+            "path": "85f_a3.07bbbcf1606e669a953e0d4040b73fcf49178c6e.jpg",
+            "width": 495
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 460,
+            "orientation": 8,
+            "path": "85f_b3_v2.9a5ffa9a7cd3e6ea7ec613c9bea87008e415bcf3.png",
+            "width": 680
+          }
+        },
+        {
+          "audio": {
+            "duration": 8,
+            "path": "85f_a_answer_dut.538782a4254a008817fc438e655a0bf99f7b60b9.mp3"
+          },
+          "dragged_image": null,
+          "dragged_proxy": {
+            "height": 382,
+            "orientation": 8,
+            "path": "85f_a1.8a81c0b098e0d92c4a0510bac4222e0794fc2c1b.jpg",
+            "width": 495
+          },
+          "image": {
+            "height": 382,
+            "orientation": 8,
+            "path": "85f_a1.8a81c0b098e0d92c4a0510bac4222e0794fc2c1b.jpg",
+            "width": 495
+          },
+          "is_correct": true,
+          "target_image": {
+            "height": 460,
+            "orientation": 8,
+            "path": "85f_b1_v2.c4bb0ebc0b28451af64605128738b8467ab4a2cc.png",
+            "width": 680
+          }
+        },
+        {
+          "audio": {
+            "duration": 3,
+            "path": "85f_a_answer_wrong_dut.f7aeb1b8ea1645faf64c91b99300d06f77ea9edb.mp3"
+          },
+          "dragged_image": null,
+          "dragged_proxy": {
+            "height": 382,
+            "orientation": 8,
+            "path": "85f_a2.87808c96b4abbb2fa8b0903846fbb0d1227bceb2.jpg",
+            "width": 495
+          },
+          "image": {
+            "height": 382,
+            "orientation": 8,
+            "path": "85f_a2.87808c96b4abbb2fa8b0903846fbb0d1227bceb2.jpg",
+            "width": 495
+          },
+          "is_correct": false,
+          "target_image": {
+            "height": 460,
+            "orientation": 8,
+            "path": "85f_b2_v2.d16dad941e85d6333492d02c94e3185d0867dc63.png",
+            "width": 680
+          }
+        }
+      ],
+      "drop_image": {
+        "height": 460,
+        "orientation": 8,
+        "path": "85f_b0.b2ca6e3b8d414a6219bea278fba992d7559c5fd4.png",
+        "width": 680
+      },
+      "footprint": {
+        "background": 4281745994,
+        "foreground": 4281021756
+      },
+      "intro_audio": {
+        "duration": 24,
+        "path": "85f_a_dut.bcf28661fff455c1beba87bd52669ab4e668e288.mp3"
+      },
+      "is_bottom_aligned": false,
+      "is_question": true,
+      "number": "985f",
+      "title": "Vincent kijkt omhoog",
+      "type": "DragAndDropSegment"
+    }
+  ],
+  "title": "Omhoog kijken",
+  "unlock": {
+    "colour": 4278221970,
+    "correct_audio": {
+      "duration": 7,
+      "path": "85f_fb_dut.7a7840ee53aa7c6621c0cdde40bb6806500f16a5.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 4,
+      "path": "85f_fa_dut.166a00068716ce29dbe9ea835a40f83ca1789307.mp3"
+    },
+    "intro_audio": {
+      "duration": 7,
+      "path": "85f_q_dut.8f3ae75bf56cdf9c3d9f49347f810a3336807131.mp3"
+    },
+    "lines": [
+      [
+        [
+          163,
+          13
+        ],
+        [
+          268,
+          22
+        ]
+      ],
+      [
+        [
+          268,
+          22
+        ],
+        [
+          327,
+          81
+        ]
+      ],
+      [
+        [
+          327,
+          81
+        ],
+        [
+          437,
+          86
+        ]
+      ],
+      [
+        [
+          437,
+          86
+        ],
+        [
+          483,
+          176
+        ]
+      ],
+      [
+        [
+          483,
+          176
+        ],
+        [
+          554,
+          236
+        ]
+      ],
+      [
+        [
+          554,
+          236
+        ],
+        [
+          472,
+          372
+        ]
+      ],
+      [
+        [
+          472,
+          372
+        ],
+        [
+          377,
+          371
+        ]
+      ],
+      [
+        [
+          377,
+          371
+        ],
+        [
+          271,
+          371
+        ]
+      ],
+      [
+        [
+          271,
+          371
+        ],
+        [
+          166,
+          371
+        ]
+      ],
+      [
+        [
+          166,
+          371
+        ],
+        [
+          70,
+          367
+        ]
+      ],
+      [
+        [
+          70,
+          367
+        ],
+        [
+          13,
+          301
+        ]
+      ],
+      [
+        [
+          13,
+          301
+        ],
+        [
+          24,
+          216
+        ]
+      ],
+      [
+        [
+          24,
+          216
+        ],
+        [
+          97,
+          171
+        ]
+      ],
+      [
+        [
+          97,
+          171
+        ],
+        [
+          99,
+          78
+        ]
+      ],
+      [
+        [
+          99,
+          78
+        ],
+        [
+          163,
+          13
+        ]
+      ]
+    ],
+    "unlock_type": "PatternUnlock"
+  }
+}

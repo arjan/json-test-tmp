@@ -1,0 +1,195 @@
+{
+  "floor": 3,
+  "hints": [
+    {
+      "audio": {
+        "duration": 6,
+        "path": "92f_h_revised_eng.2099ea190ee50420a4b2f2527e15e5e947829cea.mp3"
+      },
+      "image": {
+        "blurred_image_path": "thumbnails/G6YIBSbd4Xiv_720x1280_R5-LupD8.png",
+        "focal_point": [
+          360,
+          435
+        ],
+        "height": 1280,
+        "orientation": 1,
+        "overview_image_path": "thumbnails/G6YIBSbd4Xiv_720x360_zsyod7Rd.png",
+        "path": "92_hint_schilderij_v4.f99fcc03bb0963063c0acf96c4a17f5caa8655a5.png",
+        "width": 720
+      },
+      "quote": ""
+    }
+  ],
+  "image": {
+    "blurred_image_path": "thumbnails/G6YIBSbd4Xiv_720x1280_R5-LupD8.png",
+    "focal_point": [
+      360,
+      435
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/G6YIBSbd4Xiv_720x300_zsyod7Rd.png",
+    "path": "92_hint_schilderij_v4.f99fcc03bb0963063c0acf96c4a17f5caa8655a5.png",
+    "width": 720
+  },
+  "number": 992,
+  "overview_colour": 4287332728,
+  "segments": [
+    {
+      "footprint": {
+        "background": 4294953728,
+        "foreground": 4294165248
+      },
+      "number": "992f",
+      "title": "Vincent works hard",
+      "type": "VideoSegment",
+      "video": {
+        "duration": 61,
+        "height": 1280,
+        "orientation": 1,
+        "path": "92_datavisualisatie_eng_metaudio.0035d573b219e11bce7c35330d88c2e470f133d8.mp4",
+        "width": 720
+      }
+    }
+  ],
+  "title": "A Hard Worker",
+  "unlock": {
+    "colour": 4283974952,
+    "correct_audio": {
+      "duration": 18,
+      "path": "92f_fb_eng.796fcb6b83766daf6e02dd053672fed878bf001c.mp3"
+    },
+    "incorrect_audio": {
+      "duration": 4,
+      "path": "92f_fa_eng.4f191de54b08af68ea6e1b2bde6581d47861f4d6.mp3"
+    },
+    "intro_audio": {
+      "duration": 5,
+      "path": "92f_q_eng.f243b6a423c786ee90fe6d1af5cb72c41f027ad0.mp3"
+    },
+    "lines": [
+      [
+        [
+          12,
+          12
+        ],
+        [
+          558,
+          12
+        ]
+      ],
+      [
+        [
+          558,
+          12
+        ],
+        [
+          558,
+          737
+        ]
+      ],
+      [
+        [
+          558,
+          737
+        ],
+        [
+          12,
+          737
+        ]
+      ],
+      [
+        [
+          12,
+          737
+        ],
+        [
+          12,
+          12
+        ]
+      ],
+      [
+        [
+          103,
+          103
+        ],
+        [
+          467,
+          103
+        ]
+      ],
+      [
+        [
+          467,
+          103
+        ],
+        [
+          467,
+          647
+        ]
+      ],
+      [
+        [
+          467,
+          647
+        ],
+        [
+          103,
+          647
+        ]
+      ],
+      [
+        [
+          103,
+          647
+        ],
+        [
+          103,
+          103
+        ]
+      ],
+      [
+        [
+          12,
+          12
+        ],
+        [
+          103,
+          103
+        ]
+      ],
+      [
+        [
+          467,
+          103
+        ],
+        [
+          558,
+          12
+        ]
+      ],
+      [
+        [
+          12,
+          737
+        ],
+        [
+          103,
+          647
+        ]
+      ],
+      [
+        [
+          467,
+          647
+        ],
+        [
+          558,
+          737
+        ]
+      ]
+    ],
+    "unlock_type": "PatternUnlock"
+  }
+}

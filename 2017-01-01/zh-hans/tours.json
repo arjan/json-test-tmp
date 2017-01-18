@@ -1,0 +1,18 @@
+[
+  {
+    "building": "main_building",
+    "id": 1,
+    "long_title": "我想自由探索",
+    "slug": "adult",
+    "title": "自由探索",
+    "type": "unordered"
+  },
+  {
+    "building": "main_building",
+    "id": 2,
+    "long_title": "我想欣赏精华",
+    "slug": "highlights",
+    "title": "欣赏精华",
+    "type": "ordered"
+  }
+]

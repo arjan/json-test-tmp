@@ -1,0 +1,107 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/u3Kpolvxn2kV_720x1280_a0z6gcbV.jpg",
+    "focal_point": [
+      360,
+      742
+    ],
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/u3Kpolvxn2kV_720x300_-6UcERp7.jpg",
+    "path": "8.8194a0ffe9fd3f2930057cc8fb50ed39be51c866.jpg",
+    "width": 720
+  },
+  "number": 8,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 47,
+        "path": "8a_spa.42fe2356a33cbb1595c017ec9e829ccb73986e54.mp3"
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "images": [],
+      "number": "8a",
+      "title": "Las barcas como inspiración",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "height": 1280,
+        "orientation": 1,
+        "path": "8b_0_v2.2dc9e2229343eeb47a80cdf913a0281b1f36b456.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4292893491,
+        "foreground": 4291969329
+      },
+      "intro_audio": {
+        "duration": 9,
+        "path": "8b_0_spa.beb23b46609c8453fb5d5a39e3df4e1f5008877a.mp3"
+      },
+      "layers": [
+        {
+          "audio": {
+            "duration": 4,
+            "path": "8b_1a_spa.20b766b4f6aeb2d07bef25166618fd3625ff0227.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1a.b830ae6b32efbedc138459e3217e95526ba7d94b.jpg",
+            "width": 720
+          },
+          "label": "Barcas elegantes"
+        },
+        {
+          "audio": {
+            "duration": 5,
+            "path": "8b_1b_spa.0123fd42233fd0b788461eca567ab7275ac04b33.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1b.1fb19c751ba0b732acf528715b01a247974a2ff0.jpg",
+            "width": 720
+          },
+          "label": "Barcas cerca de la playa"
+        },
+        {
+          "audio": {
+            "duration": 5,
+            "path": "8b_1c_spa.2dcf7abdc1f071ce3941818cafb613fd53e5e4c7.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1c.07319f1338b934e66fd39602cb45ed8a30910ddd.jpg",
+            "width": 720
+          },
+          "label": "Trazos de lluvia"
+        },
+        {
+          "audio": {
+            "duration": 5,
+            "path": "8b_1d_spa.fb9fab43f6f27ebc4684f27aa3540c3ca8527e68.mp3"
+          },
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "8b_1d_2.b888cab3d31c258a28dc0ed028859c4f50d720a8.jpg",
+            "width": 720
+          },
+          "label": "Las hojas enmarcan la vista"
+        }
+      ],
+      "number": "8b",
+      "title": "Van Gogh coleccionista de arte",
+      "type": "LayersSegment"
+    }
+  ],
+  "title": "Barcas de pescadores en la playa de Les Saintes-Maries-de-la-Mer"
+}

@@ -1,0 +1,109 @@
+{
+  "floor": 1,
+  "image": {
+    "blurred_image_path": "thumbnails/raJTxqv4hf1F_720x1280_16jGVcjb.jpg",
+    "height": 1280,
+    "orientation": 1,
+    "overview_image_path": "thumbnails/raJTxqv4hf1F_720x300_74tHK9Wi.jpg",
+    "path": "37_3.cc20c6c4be14b066b1abc1903f4bd33c463524d0.jpg",
+    "width": 720
+  },
+  "number": 37,
+  "overview_colour": null,
+  "segments": [
+    {
+      "audio": {
+        "duration": 59,
+        "path": "37a_rus.c4a968cded6f066dea6e19daba56d7421c18352f.mp3"
+      },
+      "footprint": {
+        "background": 4292727727,
+        "foreground": 4291281583
+      },
+      "images": [],
+      "number": "37a",
+      "title": "Любимое искусство Ван Гога",
+      "type": "AudioSegment"
+    },
+    {
+      "background_image": {
+        "blurred_image_path": "thumbnails/becvtgWX7Mqf_720x1280_16jGVcjb.jpg",
+        "height": 1280,
+        "orientation": 1,
+        "path": "37b_0.6d32c582fa177715ea1147ecf77490b0cb080141.jpg",
+        "width": 720
+      },
+      "footprint": {
+        "background": 4282157647,
+        "foreground": 4284454966
+      },
+      "hide_during_intro": false,
+      "hotspots": [
+        {
+          "audio": {
+            "duration": 8,
+            "path": "37b_1_rus.dedbe8a62b613355e0c5ccce9191e39dda7f5193.mp3"
+          },
+          "coordinate": [
+            172,
+            448
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "37b_1.8c4a1212c43ba45333514cf10b967e5678f32d3e.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 10,
+            "path": "37b_2_rus.e630b595535f545c21b36e9ff7c57908d52774ec.mp3"
+          },
+          "coordinate": [
+            612,
+            883
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "37b_2.f24c4da239a01ffd6d5c6fdb17e5d2f0a7a9af97.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        },
+        {
+          "audio": {
+            "duration": 13,
+            "path": "37b_3_rus.4af5332facdd4b66e6fde7327ef089d9d7771e93.mp3"
+          },
+          "coordinate": [
+            194,
+            1164
+          ],
+          "image": {
+            "height": 1280,
+            "orientation": 1,
+            "path": "37b_3.d70f0588997f991938bdabc7dffcc1f2d1be5949.jpg",
+            "width": 720
+          },
+          "panel": null,
+          "panel_coordinate": null
+        }
+      ],
+      "intro_audio": {
+        "duration": 5,
+        "path": "37b_0_rus.61741d402fc8be41c6bd7d7f6283e942a2fcdbed.mp3"
+      },
+      "intro_video": null,
+      "intro_voiceover_audio": null,
+      "number": "37b",
+      "title": "Что Ван Гог говорил о крестьянах",
+      "type": "HotspotsSegment"
+    }
+  ],
+  "title": "Сельская жизнь"
+}
